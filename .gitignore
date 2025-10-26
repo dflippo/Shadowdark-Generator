@@ -179,3 +179,12 @@ cython_debug/
 #  refer to https://docs.cursor.com/context/ignore-files
 .cursorignore
 .cursorindexingignore
+
+# Shadowdark Library - ignore everything except INSTRUCTIONS.md
+# Approach: ignore folder contents but re-include the directories so negations work.
+
+# Ignore top-level entries under shadowdark-library (files and subfolders)
+shadowdark-library/**
+
+# But keep the INSTRUCTIONS.md files in each directory
+!/shadowdark-library/**/INSTRUCTIONS.md
