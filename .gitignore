@@ -188,3 +188,9 @@ shadowdark-library/**
 
 # But keep the INSTRUCTIONS.md files in each directory
 !/shadowdark-library/**/INSTRUCTIONS.md
+
+# Ignore top-level entries under campaigns (files and subfolders)
+campaigns/**
+
+# But keep the INSTRUCTIONS.md files in each directory
+!/campaigns/**/INSTRUCTIONS.md
