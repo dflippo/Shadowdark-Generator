@@ -1,6 +1,41 @@
+
+
 # Agent Skills
 
 This workspace includes specialized agent skills to assist with Shadowdark RPG game mastering and document management.
+
+## Project Layout
+
+This section outlines the structure of the project files to help you navigate and understand where resources are located.
+
+- **.claude/**: Contains the agent skills, configuration files, and scripts that power the agent's capabilities in this workspace.
+- **campaigns/**: The directory where all campaign-specific notes, session logs, and tracking documents are stored.
+    - **INSTRUCTIONS.md**: Instructions for managing campaigns.
+    - **River of Night/** (Example Campaign Folder):
+        - **CAMPAIGN.md**: The main campaign bible and reference document.
+        - **CAMPAIGN_NOTES.md**: Running notes, todos, and scratchpad for the campaign.
+        - **Session 01 - The House on Mivvin's Rest.md**: Session log.
+        - **Session 02 - The Proving Ground.md**: Session log.
+        - **Session 03 - Teeth in the Night.md**: Session log.
+        - **tracker**: File for tracking initiative or other states.
+        - **maps/**: Directory for campaign maps.
+- **shadowdark-library/**: A centralized library for Shadowdark RPG resources.
+    - **adventures/**: Pre-written adventures and modules.
+        - **Cursed Scroll 4 - River of Night V1-2 (horizontal pages).pdf**: Adventure PDF.
+        - **INSTRUCTIONS.md**: Usage instructions.
+    - **core-rules/**: Core rulebooks and supplements.
+        - **Shadowdark RPG - V4-8.pdf**: The core rulebook PDF.
+        - **INSTRUCTIONS.md**: Usage instructions.
+    - **monsters/**: Monster statistics and lore.
+        - **MONSTERS_AND_TABLES.md**: Comprehensive markdown of monster stats and tables.
+        - **INSTRUCTIONS.md**: Usage instructions.
+    - **other/**: Miscellaneous resources.
+        - **INSTRUCTIONS.md**: Usage instructions.
+- **AGENT.md**: The primary documentation file for the agent, listing available skills and how to use them.
+- **AGENTS.md**: Additional documentation regarding agent rules and skills.
+- **refresh_anthropic_skills.sh**: A shell script used to update and refresh the Anthropic skills definition.
+- **LICENSE**: The license file for the project.
+- **README.md**: The project's readme file.
 
 ## Available Skills
 

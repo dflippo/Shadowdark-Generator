@@ -1,7 +1,67 @@
-# Agent Rules
 
-This workspace includes specialized skills to assist with Shadowdark RPG game mastering and document management.
 
+# Agent Skills
+
+This workspace includes specialized agent skills to assist with Shadowdark RPG game mastering and document management.
+
+## Project Layout
+
+This section outlines the structure of the project files to help you navigate and understand where resources are located.
+
+- **.claude/**: Contains the agent skills, configuration files, and scripts that power the agent's capabilities in this workspace.
+- **campaigns/**: The directory where all campaign-specific notes, session logs, and tracking documents are stored.
+    - **INSTRUCTIONS.md**: Instructions for managing campaigns.
+    - **River of Night/** (Example Campaign Folder):
+        - **CAMPAIGN.md**: The main campaign bible and reference document.
+        - **CAMPAIGN_NOTES.md**: Running notes, todos, and scratchpad for the campaign.
+        - **Session 01 - The House on Mivvin's Rest.md**: Session log.
+        - **Session 02 - The Proving Ground.md**: Session log.
+        - **Session 03 - Teeth in the Night.md**: Session log.
+        - **tracker**: File for tracking initiative or other states.
+        - **maps/**: Directory for campaign maps.
+- **shadowdark-library/**: A centralized library for Shadowdark RPG resources.
+    - **adventures/**: Pre-written adventures and modules.
+        - **Cursed Scroll 4 - River of Night V1-2 (horizontal pages).pdf**: Adventure PDF.
+        - **INSTRUCTIONS.md**: Usage instructions.
+    - **core-rules/**: Core rulebooks and supplements.
+        - **Shadowdark RPG - V4-8.pdf**: The core rulebook PDF.
+        - **INSTRUCTIONS.md**: Usage instructions.
+    - **monsters/**: Monster statistics and lore.
+        - **MONSTERS_AND_TABLES.md**: Comprehensive markdown of monster stats and tables.
+        - **INSTRUCTIONS.md**: Usage instructions.
+    - **other/**: Miscellaneous resources.
+        - **INSTRUCTIONS.md**: Usage instructions.
+- **AGENT.md**: The primary documentation file for the agent, listing available skills and how to use them.
+- **AGENTS.md**: Additional documentation regarding agent rules and skills.
+- **refresh_anthropic_skills.sh**: A shell script used to update and refresh the Anthropic skills definition.
+- **LICENSE**: The license file for the project.
+- **README.md**: The project's readme file.
+
+## Available Skills
+
+## Skill Index (Direct SKILL.md Links)
+
+Below is a consolidated index of every skill's primary `SKILL.md` with a concise usage description:
+
+- Shadowdark Module Generator – Create detailed Shadowdark RPG session notes (atmosphere, NPC dialog, traps, puzzles, stat blocks, map extraction). [Link](.claude/skills/shadowdark-module-generator/SKILL.md)
+- PDF Reading – Extract per-page text & images from PDFs for precise referencing and visual analysis. [Link](.claude/skills/pdf-reader/SKILL.md)
+- Algorithmic Art – Generate original p5.js-based algorithmic art using seeded randomness, flow fields, particles. [Link](.claude/skills/skills-main/algorithmic-art/SKILL.md)
+- Artifacts Builder – Build complex multi-component HTML artifacts (React, Tailwind, shadcn/ui) with bundling. [Link](.claude/skills/skills-main/artifacts-builder/SKILL.md)
+- Brand Guidelines – Apply Anthropic brand colors and typography to artifacts for consistent styling. [Link](.claude/skills/skills-main/brand-guidelines/SKILL.md)
+- Canvas Design – Formulate and visually express design philosophies into PNG/PDF art pieces. [Link](.claude/skills/skills-main/canvas-design/SKILL.md)
+- Internal Comms – Produce structured internal communications (3P updates, newsletters, FAQs, reports). [Link](.claude/skills/skills-main/internal-comms/SKILL.md)
+- MCP Builder – Guide for designing high-quality MCP servers integrating external APIs/workflows. [Link](.claude/skills/skills-main/mcp-builder/SKILL.md)
+- Skill Creator – Instructions for crafting effective new skills with metadata, workflows, resources. [Link](.claude/skills/skills-main/skill-creator/SKILL.md)
+- Slack GIF Creator – Toolkit for optimized Slack GIF/emoji creation with validators & animation primitives. [Link](.claude/skills/skills-main/slack-gif-creator/SKILL.md)
+- Template Skill – Minimal starter template for creating a new skill (add proper description before use). [Link](.claude/skills/skills-main/template-skill/SKILL.md)
+- Theme Factory – Apply one of 10 preset or custom-generated color/font themes to artifacts. [Link](.claude/skills/skills-main/theme-factory/SKILL.md)
+- Webapp Testing – Playwright-based toolkit for testing local web apps (server lifecycle, UI verification). [Link](.claude/skills/skills-main/webapp-testing/SKILL.md)
+- DOCX (Document Skill) – Create/edit/analyze Word docs with tracked changes, comments, formatting. [Link](.claude/skills/skills-main/document-skills/docx/SKILL.md)
+- PDF (Document Skill) – Programmatic PDF processing (text/table extraction, merge/split, forms). [Link](.claude/skills/skills-main/document-skills/pdf/SKILL.md)
+- PPTX (Document Skill) – Presentation creation/editing (layouts, notes, XML unpacking, theming). [Link](.claude/skills/skills-main/document-skills/pptx/SKILL.md)
+- XLSX (Document Skill) – Spreadsheet creation/editing with formulas, formatting, analysis & visualization. [Link](.claude/skills/skills-main/document-skills/xlsx/SKILL.md)
+
+---
 
 ### 1. Shadowdark Module Generator
 
@@ -23,9 +83,6 @@ This workspace includes specialized skills to assist with Shadowdark RPG game ma
 - Compass-based navigation descriptions
 - Campaign continuity tracking
 - Map extraction from Shadowdark PDFs
-
-**Campaign Equipment Rule**:
-Shadowdark in this workspace uses classic fantasy tech (steel, alchemy, occasional clockwork). Firearms/guns do not exist; references to pistols or rifles should be reinterpreted as crossbows or other medieval equivalents.
 
 **Reference**: Campaign-specific content in `campaign_docs/CAMPAIGN.md` (if exists)
 
@@ -104,6 +161,11 @@ To add a new skill to this workspace:
 
 ---
 
+**Workspace**: Shadowdark RPG Campaign Management  
+**Last Updated**: October 19, 2025
+
+---
+
 ### 3. Anthropic General Skills
 
 **Location**: `.claude/skills/skills-main/`
@@ -120,57 +182,18 @@ To add a new skill to this workspace:
 **Documentation**: [.claude/skills/skills-main/README.md](.claude/skills/skills-main/README.md)
 
 **Available Skills**:
--- **algorithmic-art**: Generative p5.js art (flow fields, particles, seeded randomness)
--- **canvas-design**: Visual philosophy design exports (PNG/PDF)
--- **slack-gif-creator**: Size-optimized animated GIF & emoji creation
--- **artifacts-builder**: React + Tailwind + shadcn/ui artifact construction
--- **mcp-server**: High-quality Model Context Protocol server design guidance
--- **webapp-testing**: Playwright automation for local web app testing
--- **brand-guidelines**: Anthropic brand color & typography application
--- **internal-comms**: Structured status reports, newsletters, FAQs
--- **theme-factory**: Preset/custom theme generation & application
--- **skill-creator**: Instructions for crafting new workspace skills
--- **template-skill**: Minimal starter scaffold for a new skill
--- **docx**: Word doc creation/editing (tracked changes, comments)
--- **pdf**: Extraction, merge/split, table & form handling
--- **pptx**: Slide generation/editing (layouts, charts, theming)
--- **xlsx**: Spreadsheet formulas, analysis, visualization
-
----
-
-## Unified Skill Catalog (All Skills)
-
-Shadowdark & Core Tools:
-- Shadowdark Module Generator – Session notes, NPCs, traps, stat blocks, map extraction. [SKILL](.claude/skills/shadowdark-module-generator/SKILL.md)
-- PDF Reading – Per-page text/image extraction for reference. [SKILL](.claude/skills/pdf-reader/SKILL.md)
-
-Generative & Visual:
-- Algorithmic Art – Generative p5.js art. [SKILL](.claude/skills/skills-main/algorithmic-art/SKILL.md)
-- Canvas Design – Visual design compositions. [SKILL](.claude/skills/skills-main/canvas-design/SKILL.md)
-- Slack GIF Creator – Optimized GIF/emoji output. [SKILL](.claude/skills/skills-main/slack-gif-creator/SKILL.md)
-- Artifacts Builder – Complex HTML artifacts (React/Tailwind/shadcn/ui). [SKILL](.claude/skills/skills-main/artifacts-builder/SKILL.md)
-- Theme Factory – Apply/generate themes. [SKILL](.claude/skills/skills-main/theme-factory/SKILL.md)
-- Brand Guidelines – Anthropic brand tokens. [SKILL](.claude/skills/skills-main/brand-guidelines/SKILL.md)
-
-Productivity & Communication:
-- Internal Comms – Reports, newsletters, FAQs. [SKILL](.claude/skills/skills-main/internal-comms/SKILL.md)
-- Skill Creator – Build new skills. [SKILL](.claude/skills/skills-main/skill-creator/SKILL.md)
-- Template Skill – Starter scaffold. [SKILL](.claude/skills/skills-main/template-skill/SKILL.md)
-
-Testing & Integration:
-- Webapp Testing – Playwright harness. [SKILL](.claude/skills/skills-main/webapp-testing/SKILL.md)
-- MCP Builder – MCP server design. [SKILL](.claude/skills/skills-main/mcp-builder/SKILL.md)
-
-Document & Data:
-- DOCX – Word docs w/ tracked changes. [SKILL](.claude/skills/skills-main/document-skills/docx/SKILL.md)
-- PDF – Extraction, forms, manipulation. [SKILL](.claude/skills/skills-main/document-skills/pdf/SKILL.md)
-- PPTX – Slide automation/editing. [SKILL](.claude/skills/skills-main/document-skills/pptx/SKILL.md)
-- XLSX – Formulas, analysis, viz. [SKILL](.claude/skills/skills-main/document-skills/xlsx/SKILL.md)
-
-Quick Tips:
-1. Reference pages directly after PDF extraction (e.g., page_0042.txt).
-2. Keep `<campaingn>/CAMPAIGN_NOTES.md` and `<campaingn>/CAMPAIGN.md` updated for session continuity.
-3. Use Module Generator for encounter scaffolding; PDF Reader for rules.
-4. Document skills produce polished player handouts.
-
-**Last Updated (Catalog Move)**: October 23, 2025
+- **algorithmic-art**: Create generative art using p5.js with seeded randomness, flow fields, and particle systems
+- **canvas-design**: Design beautiful visual art in .png and .pdf formats using design philosophies
+- **slack-gif-creator**: Create animated GIFs optimized for Slack's size constraints
+- **artifacts-builder**: Build complex HTML artifacts using React, Tailwind CSS, and shadcn/ui components
+- **mcp-server**: Guide for creating high-quality MCP servers to integrate external APIs and services
+- **webapp-testing**: Test local web applications using Playwright for UI verification and debugging
+- **brand-guidelines**: Apply Anthropic's official brand colors and typography to artifacts
+- **internal-comms**: Write internal communications like status reports, newsletters, and FAQs
+- **theme-factory**: Style artifacts with 10 pre-set professional themes or generate custom themes on-the-fly
+- **skill-creator**: Guide for creating effective skills that extend Claude's capabilities
+- **template-skill**: A basic template to use as a starting point for new skills
+- **docx**: Create, edit, and analyze Word documents with support for tracked changes, comments, formatting preservation, and text extraction
+- **pdf**: Comprehensive PDF manipulation toolkit for extracting text and tables, creating new PDFs, merging/splitting documents, and handling forms
+- **pptx**: Create, edit, and analyze PowerPoint presentations with support for layouts, templates, charts, and automated slide generation
+- **xlsx**: Create, edit, and analyze Excel spreadsheets with support for formulas, formatting, data analysis, and visualization
