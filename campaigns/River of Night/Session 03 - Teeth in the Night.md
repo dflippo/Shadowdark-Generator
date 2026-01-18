@@ -1,5 +1,19 @@
 # Session 3: Teeth in the Night
 
+session-number:: 3
+session-date:: 2025-12-14
+in-game-date:: Day 10 of expedition
+level:: 3
+location:: [[Mivvin's Rest]], jungle night
+main-npcs:: [[Durgan Coalbeard]], [[Grimm Ironfoot]], [[Allan Quatermain]], [[Cult Leader]]
+main-threats:: Giant [[Panther]], [[Basilisk Cult]] raid
+rewards:: Durgan's loyalty, defended Mivvin's Rest
+key-events:: Rescued Durgan, Grimm killed, cult raid on mansion, chose house over servants' quarters
+
+#session #river-of-night #session-03 #combat #horror #defense #night-raid #basilisk-cult-arc
+
+> **Campaign:** [[CAMPAIGN]] | **Notes:** [[CAMPAIGN_NOTES]] | **Previous:** [[Session 02 - The Proving Ground]] | **Next:** [[Session 04 - The Serpent's Eye]]
+
 ## Introduction for the Game Master
 
 This session is a turning point. The "safe haven" of Mivvin's Rest is violated,
@@ -197,7 +211,7 @@ The air smells of copper and musk.
 > "You burst through the foliage into a small clearing. Moonlight filters
 > through the canopy, illuminating a nightmare.
 >
-> Perched on a low, thick branch is a jaguar—but it is wrong. It is massive, the
+> Perched on a low, thick branch is a [jaguar](../../shadowdark-library/monsters/manual-monsters/panther.md)—but it is wrong. It is massive, the
 > size of a horse, its fur a shimmering gold marked with black rosettes that
 > seem to swirl like smoke. Its eyes burn with a malevolent, amber intelligence.
 >
@@ -212,7 +226,7 @@ The air smells of copper and musk.
 
 ### Encounter: The Giant Jaguar
 
-**Giant Jaguar (1)** AC 14, HP 52, ATK 2 claws +5 (1d6+2) and 1 bite +5
+**Giant [Jaguar](../../shadowdark-library/monsters/manual-monsters/panther.md) (1)** AC 14, HP 52, ATK 2 claws +5 (1d6+2) and 1 bite +5
 (1d10+2), MV near (climb), S +3, D +4, C +2, I -3, W +2, Ch -1, AL N, LV 4
 
 **Tactics:**
@@ -278,16 +292,16 @@ servants' quarters and breach the mansion.
 
 **Defend the Mansion.** The party must choose where to intervene.
 
-1.  **Save the Servants:** 4 Cultists are slaughtering the unarmed laborers.
+1.  **Save the Servants:** 4 [Cultists](../../shadowdark-library/monsters/manual-monsters/cultist.md) are slaughtering the unarmed laborers.
     > "Die, soft-skins! The Stone God demands it!" one cultist screams as he
     > raises a spear over a cowering servant.
-2.  **Protect Lady Johnson:** 4 Cultists and a **Cult Leader** are breaching the
+2.  **Protect Lady Johnson:** 4 [Cultists](../../shadowdark-library/monsters/manual-monsters/cultist.md) and a **Cult Leader** are breaching the
     main house.
     > Lady Johnson shouts from the veranda, "Hold them back! Don't let them
     > inside! Allan! Where the hell is Allan?!" She looses a bolt that catches a
     > cultist in the shoulder.
 
-**Basilisk Cultist (8)** AC 13 (leather, shield), HP 16, ATK 1 obsidian spear +3
+**Basilisk [Cultist](../../shadowdark-library/monsters/manual-monsters/cultist.md) (8)** AC 13 (leather, shield), HP 16, ATK 1 obsidian spear +3
 (1d8), MV near, S +2, D +1, C +2, I +0, W +1, Ch +0, AL C, LV 3 _Special:
 Fanatic (Immune to fear)._
 
@@ -350,3 +364,35 @@ The players should feel:
 
 **Next Session:** The counter-attack. The party must locate the Cult's temple
 and strike back before they can mount another assault.
+
+---
+
+## Related
+
+**NPCs:**
+- [[Durgan Coalbeard]]
+- [[Lady Lara Croft Johnson]]
+- [[Allan Quatermain]]
+- [[Head Chef Gaston]]
+- [[Ensign Pip]]
+
+**Locations:**
+- [[Mivvin's Rest]]
+- [[The Serpent's Eye]] (discovered)
+- See [[LOCATIONS.md]] for full index
+
+**Factions:**
+- [[Basilisk Cult]]
+- [[League of Extraordinary Gentlemen]]
+- See [[FACTIONS.md]] for details
+
+**Timeline:**
+- [[TIMELINE.md]] - Day 10 events
+
+**Campaign Resources:**
+- [[CAMPAIGN.md]] - Campaign overview
+- [[CAMPAIGN_NOTES.md]] - Session summaries
+
+**Sessions:**
+- Previous: [[Session 02 - The Proving Ground]]
+- Next: [[Session 04 - The Serpent's Eye]]

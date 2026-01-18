@@ -1,5 +1,19 @@
 # Session 1: The House on Mivvin's Rest
 
+session-number:: 1
+session-date:: 2025-11-30
+in-game-date:: Day 1 of expedition
+level:: 3
+location:: [[Mivvin's Rest]]
+main-npcs:: [[Lady Lara Croft Johnson]], [[Allan Quatermain]], [[Alistair Johnson]]
+main-threats:: [[Lizardfolk]] ambush, [[Alistair Johnson|Ghost]] puzzle
+rewards:: Font of Healing access, regional map, 150gp, emeralds, potion
+key-events:: Met patrons, cured Lady Johnson, solved star chart, laid Alistair to rest
+
+#session #river-of-night #session-01 #introduction #combat #puzzle #exploration
+
+> **Campaign:** [[CAMPAIGN]] | **Notes:** [[CAMPAIGN_NOTES]] | **Next:** [[Session 02 - The Proving Ground]]
+
 ## Introduction for the Game Master
 
 This session introduces the players to the Black River jungle, their new patron
@@ -32,13 +46,13 @@ move. As the party deals with the obstacle, they are ambushed.
 
 ### Encounter: Lizardfolk Raiders
 
-A war party of **four Lizardfolk** and one **Lizardfolk Hunter** attacks. Two
-Lizardfolk charge from the front, while two more emerge from the jungle on the
+A war party of **four [Lizardfolk](../../shadowdark-library/monsters/manual-monsters/lizardfolk.md)** and one **Lizardfolk Hunter** attacks. Two
+[Lizardfolk](../../shadowdark-library/monsters/manual-monsters/lizardfolk.md) charge from the front, while two more emerge from the jungle on the
 eastern flank. The Hunter remains hidden in the dense foliage to the west (DC 15
 Wisdom check to spot) and targets spellcasters or lightly armored characters
 with its blowgun.
 
-**Lizardfolk (4)**
+**[Lizardfolk](../../shadowdark-library/monsters/manual-monsters/lizardfolk.md) (4)**
 
 - AC 14 (leather + shield), HP 11, ATK 1 spear (close/near) +2 (1d6), MV near
   (swim), S +1, D +1, C +2, I -1, W +1, Ch -2, AL C, LV 2
@@ -135,7 +149,7 @@ This 20-foot by 30-foot room is a chaotic workshop filled with maps and
 celestial instruments. A cold spot drifts through the room. There is a door to
 the west and an archway to the east.
 
-**The Ghost:** The **Ghost** of Alistair Johnson haunts this room. He appears as
+**The Ghost:** The **[Ghost](../../shadowdark-library/monsters/manual-monsters/ghost.md)** of Alistair Johnson haunts this room. He appears as
 a sad, translucent man who cannot speak but will try to guide the party toward a
 large, incomplete star chart on a central table. He will only become hostile if
 his work is damaged. To appease the ghost, the party must place several wooden,
@@ -143,7 +157,7 @@ star-shaped pieces correctly onto the chart to complete the local
 constellations. When the puzzle is solved, a click sounds from the western door,
 and Alistair's ghost fades away with a peaceful smile.
 
-**Ghost**
+**[Ghost](../../shadowdark-library/monsters/manual-monsters/ghost.md)**
 
 - AC 13, HP 27, ATK 2 death touch +5 (1d8 + life drain) or 1 possess, MV near
   (fly), S -2, D +3, C +0, I +0, W +0, Ch +4, AL C, LV 6
@@ -188,3 +202,31 @@ The party can return to Lady Johnson with the map, journal, and a bottle of the
 fountain's healing water. The water will cure her fever, and she will
 enthusiastically hire them to explore the locations on the map, setting the
 stage for the rest of the campaign.
+
+---
+
+## Related
+
+**NPCs:**
+- [[Lady Lara Croft Johnson]]
+- [[Allan Quatermain]]
+- [[Alistair Johnson]]
+
+**Locations:**
+- [[Mivvin's Rest]]
+- [[The House on Mivvin's Rest]]
+- See [[LOCATIONS.md]] for full index
+
+**Factions:**
+- [[League of Extraordinary Gentlemen]]
+- See [[FACTIONS.md]] for details
+
+**Timeline:**
+- [[TIMELINE.md]] - Day 1 events
+
+**Campaign Resources:**
+- [[CAMPAIGN.md]] - Campaign overview
+- [[CAMPAIGN_NOTES.md]] - Session summaries
+
+**Next Session:**
+- [[Session 02 - The Proving Ground]]
