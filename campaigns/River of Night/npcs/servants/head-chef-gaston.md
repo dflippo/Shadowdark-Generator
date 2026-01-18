@@ -8,7 +8,8 @@
 
 ## Description
 
-A nervous man with a formidable mustache who runs the kitchens for the formal events at the Governor's Mansion.
+A nervous man with a formidable mustache who runs the kitchens for the formal
+events at the Governor's Mansion.
 
 ## Appearance
 
@@ -30,7 +31,8 @@ A nervous man with a formidable mustache who runs the kitchens for the formal ev
 
 Interrogated about Colonel Huzzard's poisoning. Provided key information:
 
-> "I saw nothing! Nothing! The wine was sealed! Vintage 89! I opened it myself! Unless... the goblet? Who touched the goblet?"
+> "I saw nothing! Nothing! The wine was sealed! Vintage 89! I opened it myself!
+> Unless... the goblet? Who touched the goblet?"
 
 ## Evidence Provided
 
@@ -46,9 +48,11 @@ Interrogated about Colonel Huzzard's poisoning. Provided key information:
 
 ## Notes
 
-**Different from [[Martha]] the Cook:** 
+**Different from [[Martha]] the Cook:**
+
 - [[Martha]] runs the field kitchen for workers
 - Gaston handles formal dining for officers
 - Two separate kitchen operations at Mivvin's Rest
 
-His testimony helped narrow the investigation to the goblet rather than the wine, leading to [[Captain Blackwood]]'s exposure.
+His testimony helped narrow the investigation to the goblet rather than the
+wine, leading to [[Captain Blackwood]]'s exposure.

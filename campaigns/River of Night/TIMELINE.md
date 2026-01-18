@@ -1,19 +1,20 @@
 # Campaign Timeline
 
-timeline-type:: Chronological Events
-campaign:: [[River of Night]]
-start-date:: 2025-11-30 (real) / Day 1 (in-game)
-current-date:: 2026-01-18 (real) / Day 47+ (in-game)
+timeline-type:: Chronological Events campaign:: [[River of Night]] start-date::
+2025-11-30 (real) / Day 1 (in-game) current-date:: 2026-01-18 (real) / Day 47+
+(in-game)
 
 #timeline #river-of-night #chronology
 
-This timeline tracks the chronological progression of the River of Night campaign, organized by in-game days and real-world session dates.
+This timeline tracks the chronological progression of the River of Night
+campaign, organized by in-game days and real-world session dates.
 
 ---
 
 ## Pre-Campaign (Before Day 1)
 
 **Background Events:**
+
 - Party adventures in Blackmire, defeats ancient vampire
 - [[Alistair Johnson]] dies, leaves puzzle mansion and 2000 GP
 - [[Lady Lara Croft Johnson]] inherits [[Mivvin's Rest]]
@@ -28,6 +29,7 @@ This timeline tracks the chronological progression of the River of Night campaig
 #day-01 #session-01
 
 ### Events
+
 - Party arrives at [[Mivvin's Rest]]
 - Meet [[Lady Lara Croft Johnson]] and [[Allan Quatermain]]
 - Hired to solve [[Alistair Johnson]]'s puzzle mansion
@@ -36,11 +38,13 @@ This timeline tracks the chronological progression of the River of Night campaig
 - **Reward:** 2000 GP
 
 ### NPCs Met
+
 - [[Lady Lara Croft Johnson]]
 - [[Allan Quatermain]]
 - [[Alistair Johnson]] (ghost/flashback)
 
 ### Discoveries
+
 - [[The House on Mivvin's Rest]] solved
 - First mention of [[The Serpent's Eye]]
 - [[League of Extraordinary Gentlemen]] recruitment offer
@@ -54,6 +58,7 @@ This timeline tracks the chronological progression of the River of Night campaig
 #day-08 #session-02
 
 ### Events
+
 - Party undergoes [[The Proving Ground]] trial in [[The Green Hell]]
 - Survival challenges, jungle beast encounters
 - Evidence of [[Basilisk Cult]] discovered
@@ -61,10 +66,12 @@ This timeline tracks the chronological progression of the River of Night campaig
 - Most party joins [[League of Extraordinary Gentlemen]]
 
 ### NPCs Met
+
 - [[Martha]] (League cook/herbalist)
 - [[Grimm Ironfoot]] joins party
 
 ### Discoveries
+
 - [[The Green Hell]] wilderness explored
 - First [[Basilisk Cult]] clues
 - [[Doctor Googoo]] excluded from League
@@ -78,6 +85,7 @@ This timeline tracks the chronological progression of the River of Night campaig
 #day-10 #session-03
 
 ### Events
+
 - [[Basilisk Cult]] raids [[Mivvin's Rest]] at night
 - Party defends the plantation
 - [[Durgan Coalbeard]] and others kidnapped
@@ -85,11 +93,13 @@ This timeline tracks the chronological progression of the River of Night campaig
 - Party tracks cult to [[The Serpent's Eye]] location
 
 ### NPCs Met
+
 - [[Durgan Coalbeard]] (briefly, then kidnapped)
 - [[Head Chef Gaston]]
 - [[Ensign Pip]]
 
 ### Losses
+
 - Several workers kidnapped
 - Plantation damaged in raid
 
@@ -102,6 +112,7 @@ This timeline tracks the chronological progression of the River of Night campaig
 #day-12 #session-04
 
 ### Events
+
 - Party infiltrates [[The Serpent's Eye]] temple
 - Navigate invisible bridge puzzle
 - Discover basilisk breeding operation
@@ -110,10 +121,12 @@ This timeline tracks the chronological progression of the River of Night campaig
 - **Partial Success:** Saved victims, but didn't destroy cult
 
 ### NPCs Met
+
 - [[High Priestess]] (encountered)
 - [[Cult Leader]] (encountered)
 
 ### Discoveries
+
 - [[The Serpent's Eye]] layout
 - Basilisk nursery exists
 - Cult's breeding program revealed
@@ -127,6 +140,7 @@ This timeline tracks the chronological progression of the River of Night campaig
 #day-15 #session-05
 
 ### Events
+
 - Party returns to [[The Serpent's Eye]] for final assault
 - Confront and kill [[Cult Leader]] and [[High Priestess]]
 - [[Doctor Googoo]] releases basilisk hatchlings in nursery (chaos!)
@@ -134,10 +148,12 @@ This timeline tracks the chronological progression of the River of Night campaig
 - **Result:** [[Basilisk Cult]] destroyed, cult arc concluded
 
 ### NPCs Killed
+
 - [[Cult Leader]] (deceased)
 - [[High Priestess]] (deceased)
 
 ### Consequences
+
 - Wild basilisk hatchlings now loose in jungle
 - Cult treasure claimed
 - [[The Serpent's Eye]] abandoned
@@ -147,6 +163,7 @@ This timeline tracks the chronological progression of the River of Night campaig
 ## Days 16-23 (Downtime)
 
 **Off-Screen Activities:**
+
 - Party recovery at [[Mivvin's Rest]]
 - Rumors of [[Albion Dominion]] colonial expedition
 - Jungle basilisk sightings (escaped hatchlings)
@@ -160,13 +177,16 @@ This timeline tracks the chronological progression of the River of Night campaig
 #day-24-45 #session-06
 
 ### Events
-- [[Albion Dominion]] arrives with 500 troops, establishes [[Governor's Clearing]]
+
+- [[Albion Dominion]] arrives with 500 troops, establishes
+  [[Governor's Clearing]]
 - Party explores [[Star Map Temple]], meets [[Maied]] (peaceful)
 - Diplomatic meetings with [[Colonel Percival Huzzard]]
 - Tense negotiations between League and Dominion
 - [[Captain Blackwood]] begins poisoning investigation (secretly the poisoner)
 
 ### NPCs Met
+
 - [[Colonel Percival Huzzard]]
 - [[Lieutenant Sterling]]
 - [[Captain Blackwood]]
@@ -174,6 +194,7 @@ This timeline tracks the chronological progression of the River of Night campaig
 - [[Maied]] (first peaceful encounter)
 
 ### Discoveries
+
 - [[Governor's Clearing]] established
 - [[Star Map Temple]] magical properties
 - [[Albion Dominion]] colonial ambitions
@@ -188,6 +209,7 @@ This timeline tracks the chronological progression of the River of Night campaig
 #day-47 #session-07
 
 ### Events
+
 - Albion soldiers poisoned mysteriously
 - Party investigates, tracks poisoner to [[Star Map Temple]]
 - [[Maied]] revealed as poisoner (protecting jungle from Dominion)
@@ -196,12 +218,15 @@ This timeline tracks the chronological progression of the River of Night campaig
 - **Result:** [[Maied]] killed, [[Captain Blackwood]] arrested
 
 ### NPCs Killed
+
 - [[Maied]] (deceased - killed by party)
 
 ### NPCs Arrested
+
 - [[Captain Blackwood]] (imprisoned for treason/attempted murder)
 
 ### Consequences
+
 - Party may now be enemies of [[Jungle Spirits]]
 - [[Lieutenant Sterling]] promoted to replace Blackwood
 - Diplomatic relationship with Dominion strengthened
@@ -212,16 +237,19 @@ This timeline tracks the chronological progression of the River of Night campaig
 ## Current Status (Day 47+)
 
 **Active Threats:**
+
 - [[Jungle Spirits]] (likely hostile after [[Maied]]'s death)
 - Wild basilisk hatchlings in jungle
 - [[Albion Dominion]] colonial expansion
 - The Home Office (mysterious intelligence faction)
 
 **Active Alliances:**
+
 - [[League of Extraordinary Gentlemen]] (strong)
 - [[Albion Dominion]] (functional, politically complex)
 
 **Unresolved Mysteries:**
+
 - [[Alistair Johnson]]'s connection to [[Maied]]/jungle spirits
 - The Home Office's true agenda
 - Fate of other jungle guardians
@@ -232,18 +260,22 @@ This timeline tracks the chronological progression of the River of Night campaig
 ## Campaign Arcs
 
 ### Arc 1: The Basilisk Cult (Days 1-15)
+
 **Sessions:** 01-05  
 **Status:** Concluded  
 **Resolution:** Cult destroyed, leaders killed, basilisks released  
 #basilisk-cult-arc #completed
 
 ### Arc 2: The Albion Dominion (Days 24-47+)
+
 **Sessions:** 06-07  
 **Status:** Active  
-**Key Events:** Colonial arrival, [[Maied]] conflict, [[Captain Blackwood]] treason  
+**Key Events:** Colonial arrival, [[Maied]] conflict, [[Captain Blackwood]]
+treason  
 #albion-dominion-arc #active
 
 ### Arc 3: The Jungle Spirits (Days 24-47+)
+
 **Sessions:** 06-07  
 **Status:** Active, Likely Hostile  
 **Key Events:** [[Maied]] introduction, party kills her defending Dominion  
@@ -258,7 +290,7 @@ This timeline tracks the chronological progression of the River of Night campaig
 - **Session 03:** December 14, 2025 (1 week gap)
 - **Session 04:** December 21, 2025 (1 week gap)
 - **Session 05:** December 28, 2025 (1 week gap)
-- *Holiday Break (2 weeks)*
+- _Holiday Break (2 weeks)_
 - **Session 06:** January 11, 2026 (2 week gap)
 - **Session 07:** January 18, 2026 (1 week gap)
 

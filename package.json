@@ -1,0 +1,32 @@
+{
+  "name": "shadowdark-generator",
+  "version": "1.0.0",
+  "description": "The Shadowdark Generator is a toolkit designed to assist Dungeon Masters in creating immersive Shadowdark RPG sessions. It combines AI agent skills with structured campaign management to generate atmospheric descriptions, combat encounters, NPC interactions, and proper stat blocks.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "prepare": "husky",
+    "format": "prettier --write \"**/*.{md,json,yml,yaml}\"",
+    "format:check": "prettier --check \"**/*.{md,json,yml,yaml}\""
+  },
+  "lint-staged": {
+    "*.{md,json,yml,yaml}": "prettier --write"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dflippo/Shadowdark-Generator.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/dflippo/Shadowdark-Generator/issues"
+  },
+  "homepage": "https://github.com/dflippo/Shadowdark-Generator#readme",
+  "devDependencies": {
+    "husky": "^9.1.7",
+    "lint-staged": "^16.2.7",
+    "prettier": "^3.8.0"
+  }
+}

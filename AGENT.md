@@ -8,8 +8,8 @@ game mastering and document management.
 This section outlines the structure of the project files to help you navigate
 and understand where resources are located.
 
-- **.agent/**: Contains the agent skills, configuration files, and workflows that
-  power the agent's capabilities in this workspace.
+- **.agent/**: Contains the agent skills, configuration files, and workflows
+  that power the agent's capabilities in this workspace.
 - **campaigns/**: The directory where all campaign-specific notes, session logs,
   and tracking documents are stored.
   - **CAMPAIGN_MANAGEMENT_GUIDE.md**: Instructions for managing campaigns.
@@ -74,8 +74,7 @@ usage description:
   external APIs/workflows.
   [Link](.agent/skills/skills-main/mcp-builder/SKILL.md)
 - Skill Creator – Instructions for crafting effective new skills with metadata,
-  workflows, resources.
-  [Link](.agent/skills/skills-main/skill-creator/SKILL.md)
+  workflows, resources. [Link](.agent/skills/skills-main/skill-creator/SKILL.md)
 - Slack GIF Creator – Toolkit for optimized Slack GIF/emoji creation with
   validators & animation primitives.
   [Link](.agent/skills/skills-main/slack-gif-creator/SKILL.md)

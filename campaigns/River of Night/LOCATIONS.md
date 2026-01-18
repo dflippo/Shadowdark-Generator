@@ -1,18 +1,18 @@
 # Locations Index
 
-index-type:: Locations
-campaign:: [[River of Night]]
-status:: Active
+index-type:: Locations campaign:: [[River of Night]] status:: Active
 
 #index #locations #river-of-night
 
-This index tracks all significant locations discovered in the River of Night campaign.
+This index tracks all significant locations discovered in the River of Night
+campaign.
 
 ---
 
 ## Safe Havens
 
 ### [[Mivvin's Rest]]
+
 - **Type:** Plantation Estate
 - **Status:** Active, Threatened
 - **First Appearance:** [[Session 01 - The House on Mivvin's Rest]]
@@ -23,6 +23,7 @@ This index tracks all significant locations discovered in the River of Night cam
 - #location #safe-haven #plantation #mivvins-rest
 
 ### [[Governor's Clearing]]
+
 - **Type:** Military Outpost
 - **Status:** Active (Albion Dominion)
 - **First Appearance:** [[Session 06 - The Albion Dominion]]
@@ -36,6 +37,7 @@ This index tracks all significant locations discovered in the River of Night cam
 ## Dungeons & Temples
 
 ### [[The House on Mivvin's Rest]] (Puzzle Mansion)
+
 - **Type:** Haunted House / Puzzle Dungeon
 - **Status:** Cleared
 - **First Appearance:** [[Session 01 - The House on Mivvin's Rest]]
@@ -46,6 +48,7 @@ This index tracks all significant locations discovered in the River of Night cam
 - #location #dungeon #puzzle #cleared #haunted-house
 
 ### [[The Serpent's Eye]]
+
 - **Type:** Basilisk Temple (Underground)
 - **Status:** Cleared, Cult Destroyed
 - **First Appearance:** [[Session 04 - The Serpent's Eye]]
@@ -56,6 +59,7 @@ This index tracks all significant locations discovered in the River of Night cam
 - #location #dungeon #temple #cleared #basilisk-cult
 
 ### [[Star Map Temple]]
+
 - **Type:** Ancient Observatory Temple
 - **Status:** Partially Explored
 - **First Appearance:** [[Session 06 - The Albion Dominion]]
@@ -69,6 +73,7 @@ This index tracks all significant locations discovered in the River of Night cam
 ## Wilderness & Regions
 
 ### [[The Green Hell]]
+
 - **Type:** Jungle Wilderness
 - **Status:** Dangerous, Active
 - **First Appearance:** [[Session 02 - The Proving Ground]]
@@ -78,6 +83,7 @@ This index tracks all significant locations discovered in the River of Night cam
 - #location #wilderness #jungle #dangerous #green-hell
 
 ### [[The Black River]]
+
 - **Type:** River / Trade Route
 - **Status:** Active
 - **First Appearance:** Campaign Background
@@ -86,6 +92,7 @@ This index tracks all significant locations discovered in the River of Night cam
 - #location #wilderness #river #trade-route
 
 ### [[The Proving Ground]]
+
 - **Type:** Jungle Trial Area
 - **Status:** Active (League Test)
 - **First Appearance:** [[Session 02 - The Proving Ground]]
@@ -104,8 +111,10 @@ This index tracks all significant locations discovered in the River of Night cam
 - **Session 03:** [[Mivvin's Rest]] (night raid defense)
 - **Session 04:** [[The Serpent's Eye]] (infiltration)
 - **Session 05:** [[The Serpent's Eye]] (nursery chaos)
-- **Session 06:** [[Governor's Clearing]], [[Star Map Temple]], [[The Green Hell]]
-- **Session 07:** [[Governor's Clearing]], [[Star Map Temple]], [[Mivvin's Rest]]
+- **Session 06:** [[Governor's Clearing]], [[Star Map Temple]],
+  [[The Green Hell]]
+- **Session 07:** [[Governor's Clearing]], [[Star Map Temple]],
+  [[Mivvin's Rest]]
 
 ---
 

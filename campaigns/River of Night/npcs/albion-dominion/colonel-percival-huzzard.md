@@ -1,22 +1,20 @@
 # Colonel Percival Huzzard
 
-npc-type:: Military Commander
-faction:: [[Albion Dominion]]
-status:: Active
-first-appearance:: [[Session 06 - The Albion Dominion]]
-alignment:: Lawful Neutral
-threat-level:: Ally (political)
-rank:: Colonel, 4th Arbalesters
+npc-type:: Military Commander faction:: [[Albion Dominion]] status:: Active
+first-appearance:: [[Session 06 - The Albion Dominion]] alignment:: Lawful
+Neutral threat-level:: Ally (political) rank:: Colonel, 4th Arbalesters
 
 #npc #albion-dominion #military #ally #active #commander #commander
 
 **Role:** Commander, 4th Arbalesters Regiment  
 **Location:** Governor's Mansion, Mivvin's Rest  
-**Status:** Alive (survived poisoning in [[Session 07 - The Jungle Strikes Back]])
+**Status:** Alive (survived poisoning in
+[[Session 07 - The Jungle Strikes Back]])
 
 ## Description
 
-Large, ruddy-faced commander of the Albion Dominion forces. Wears a monocle and believes the jungle can be beaten with "Discipline and Geometry."
+Large, ruddy-faced commander of the Albion Dominion forces. Wears a monocle and
+believes the jungle can be beaten with "Discipline and Geometry."
 
 ## Appearance
 
@@ -37,14 +35,16 @@ Large, ruddy-faced commander of the Albion Dominion forces. Wears a monocle and 
 ## Key Relationships
 
 - **[[Lieutenant Sterling]]:** Young, eager subordinate who admires him
-- **[[Major "Mad Jack" Ponsonby]]:** Gruff veteran who criticizes him but serves loyally
-- **[[Captain Blackwood]]:** Intelligence officer (secretly plotted to poison him)
+- **[[Major "Mad Jack" Ponsonby]]:** Gruff veteran who criticizes him but serves
+  loyally
+- **[[Captain Blackwood]]:** Intelligence officer (secretly plotted to poison
+  him)
 - **The Party:** Values them as "specialists" and granted them land charter
 
 ## Notable Events
 
 - **Session 06:** Hosted formal dinner to celebrate "Pacification of the Sector"
-- **Session 07:** 
+- **Session 07:**
   - Poisoned with Purple Lotus during his toast
   - Saved by party using Font of Healing
   - Survived Maied's attack and cult assault
@@ -54,7 +54,8 @@ Large, ruddy-faced commander of the Albion Dominion forces. Wears a monocle and 
 
 ## Combat Stats
 
-Use [Knight](../../../shadowdark-library/monsters/manual-monsters/knight.md) stats with heavy crossbow
+Use [Knight](../../../shadowdark-library/monsters/manual-monsters/knight.md)
+stats with heavy crossbow
 
 ## Military Resources
 
@@ -65,12 +66,16 @@ Use [Knight](../../../shadowdark-library/monsters/manual-monsters/knight.md) sta
 
 ## Quotes
 
-> "Ladies, Gentlemen, Officers of the Dominion! Three months ago, this was a wilderness. Tonight we drink from crystal in the Hall of Governors!"
+> "Ladies, Gentlemen, Officers of the Dominion! Three months ago, this was a
+> wilderness. Tonight we drink from crystal in the Hall of Governors!"
 
-> "Find me the truth. Tear this mansion apart if you must. If you find the traitor, I will double your land grant."
+> "Find me the truth. Tear this mansion apart if you must. If you find the
+> traitor, I will double your land grant."
 
 > "Today, the Dominion marches to war!"
 
 ## Notes
 
-Represents the hubris and determination of colonial expansion. Genuinely believes he's bringing civilization to the "savage" jungle, blind to its supernatural dangers until they nearly kill him.
+Represents the hubris and determination of colonial expansion. Genuinely
+believes he's bringing civilization to the "savage" jungle, blind to its
+supernatural dangers until they nearly kill him.

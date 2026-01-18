@@ -8,7 +8,8 @@
 
 ## Description
 
-Young, eager, and desperate for glory. Thinks the party are romantic heroes and greatly admires Colonel Huzzard.
+Young, eager, and desperate for glory. Thinks the party are romantic heroes and
+greatly admires Colonel Huzzard.
 
 ## Appearance
 
@@ -43,14 +44,18 @@ Young, eager, and desperate for glory. Thinks the party are romantic heroes and 
 
 ## Combat Stats
 
-Use [Soldier](../../../shadowdark-library/monsters/manual-monsters/soldier.md) stats
+Use [Soldier](../../../shadowdark-library/monsters/manual-monsters/soldier.md)
+stats
 
 ## Quotes
 
-> "Ah, the heroes of the hour! Look at you. You clean up well, considering where you've been."
+> "Ah, the heroes of the hour! Look at you. You clean up well, considering where
+> you've been."
 
 > "Sir! Medics! To the Colonel!"
 
 ## Notes
 
-Represents the naive optimism of young officers who haven't yet seen the true horrors of war. His character arc involves gradual disillusionment with colonial ideals.
+Represents the naive optimism of young officers who haven't yet seen the true
+horrors of war. His character arc involves gradual disillusionment with colonial
+ideals.

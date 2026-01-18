@@ -8,7 +8,9 @@
 
 ## Description
 
-A scarred, cynical veteran who has "seen what lives in the dark." Lurks in shadows and speaks in a raspy voice. Drinks water instead of alcohol. Understands the jungle's dangers better than his peers.
+A scarred, cynical veteran who has "seen what lives in the dark." Lurks in
+shadows and speaks in a raspy voice. Drinks water instead of alcohol.
+Understands the jungle's dangers better than his peers.
 
 ## Appearance
 
@@ -29,7 +31,8 @@ A scarred, cynical veteran who has "seen what lives in the dark." Lurks in shado
 
 ## Key Relationships
 
-- **[[Colonel Percival Huzzard]]:** Critical but loyal; wanted his rank but not through murder
+- **[[Colonel Percival Huzzard]]:** Critical but loyal; wanted his rank but not
+  through murder
 - **[[Lieutenant Sterling]]:** Dismissive of his naivety
 - **[[Captain Blackwood]]:** Suspected him, helped arrest him
 - **The Party:** Respects their competence
@@ -46,20 +49,29 @@ A scarred, cynical veteran who has "seen what lives in the dark." Lurks in shado
 
 ## Combat Stats
 
-Use [Knight](../../../shadowdark-library/monsters/manual-monsters/knight.md) or [Berserker](../../../shadowdark-library/monsters/manual-monsters/berserker.md) stats
+Use [Knight](../../../shadowdark-library/monsters/manual-monsters/knight.md) or
+[Berserker](../../../shadowdark-library/monsters/manual-monsters/berserker.md)
+stats
 
 ## Quotes
 
-> "Civilization? Is that what we call it? Polished buttons and waltzes while the jungle rots your boots off your feet."
+> "Civilization? Is that what we call it? Polished buttons and waltzes while the
+> jungle rots your boots off your feet."
 
-> "Huzzard's a fool. He thinks drawing lines on a map makes the land ours. He hasn't seen what lives in the dark. I have."
+> "Huzzard's a fool. He thinks drawing lines on a map makes the land ours. He
+> hasn't seen what lives in the dark. I have."
 
-> "Let them pass, boy! If he dies, he dies. If they can save him, let them try. Unless you _want_ him dead, Sterling?"
+> "Let them pass, boy! If he dies, he dies. If they can save him, let them try.
+> Unless you _want_ him dead, Sterling?"
 
-> "Don't look at me, Huzzard. If I wanted you dead, I'd have called you out for a duel like a gentleman. Poison is a woman's weapon. Or a coward's."
+> "Don't look at me, Huzzard. If I wanted you dead, I'd have called you out for
+> a duel like a gentleman. Poison is a woman's weapon. Or a coward's."
 
-> "The men are ready, Colonel. Scared, but ready. They saw that Tree-Witch die. They think we can kill gods now."
+> "The men are ready, Colonel. Scared, but ready. They saw that Tree-Witch die.
+> They think we can kill gods now."
 
 ## Notes
 
-"Mad Jack" represents the experienced soldier who's lost his illusions but still does his duty. His madness is actually sanity - he's one of the few who truly understands what they're up against.
+"Mad Jack" represents the experienced soldier who's lost his illusions but still
+does his duty. His madness is actually sanity - he's one of the few who truly
+understands what they're up against.

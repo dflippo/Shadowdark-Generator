@@ -1,18 +1,18 @@
 # Session 2: The Proving Ground
 
-session-number:: 2
-session-date:: 2025-12-07
-in-game-date:: Day 8 of expedition
-level:: 3
-location:: [[The Green Hell]], Hex 603, Dig Site A
-main-npcs:: [[Allan Quatermain]], [[Lady Lara Croft Johnson]]
-main-threats:: Jungle survival test, [[Ape]] guardians
-rewards:: League membership (most party), basilisk egg discovered
-key-events:: The Proving Ground walkabout, Doctor Googoo failed test, discovered Basilisk Cult threat
+session-number:: 2 session-date:: 2025-12-07 in-game-date:: Day 8 of expedition
+level:: 3 location:: [[The Green Hell]], Hex 603, Dig Site A main-npcs::
+[[Allan Quatermain]], [[Lady Lara Croft Johnson]] main-threats:: Jungle survival
+test, [[Ape]] guardians rewards:: League membership (most party), basilisk egg
+discovered key-events:: The Proving Ground walkabout, Doctor Googoo failed test,
+discovered Basilisk Cult threat
 
-#session #river-of-night #session-02 #exploration #survival #roleplay #basilisk-cult-arc
+#session #river-of-night #session-02 #exploration #survival #roleplay
+#basilisk-cult-arc
 
-> **Campaign:** [[CAMPAIGN]] | **Notes:** [[CAMPAIGN_NOTES]] | **Previous:** [[Session 01 - The House on Mivvin's Rest]] | **Next:** [[Session 03 - Teeth in the Night]]
+> **Campaign:** [[CAMPAIGN]] | **Notes:** [[CAMPAIGN_NOTES]] | **Previous:**
+> [[Session 01 - The House on Mivvin's Rest]] | **Next:**
+> [[Session 03 - Teeth in the Night]]
 
 _Reference: Cursed Scroll 4 - River of Night V1-2, Hexes 603 & 706_
 
@@ -134,10 +134,10 @@ dominated by an incredible sight.
 > feels strangely peaceful, but the chattering and rustling in the surrounding
 > trees suggest you are not alone."
 
-A troop of 6 [Apes](../../shadowdark-library/monsters/manual-monsters/ape.md) are jealously guarding the statue. They will not attack
-immediately but will hoot, beat their chests, and throw branches if the party
-approaches the statue. They are not interested in a fight to the death, only in
-driving the party away.
+A troop of 6 [Apes](../../shadowdark-library/monsters/manual-monsters/ape.md)
+are jealously guarding the statue. They will not attack immediately but will
+hoot, beat their chests, and throw branches if the party approaches the statue.
+They are not interested in a fight to the death, only in driving the party away.
 
 **Challenge:**
 
@@ -250,6 +250,7 @@ Cult from the temple at hex 706, who want their egg back.
 ## Related
 
 **NPCs:**
+
 - [[Allan Quatermain]]
 - [[Lady Lara Croft Johnson]]
 - [[Martha]]
@@ -257,24 +258,29 @@ Cult from the temple at hex 706, who want their egg back.
 - [[Doctor Googoo]]
 
 **Locations:**
+
 - [[The Proving Ground]]
 - [[The Green Hell]]
 - [[Mivvin's Rest]]
 - See [[LOCATIONS.md]] for full index
 
 **Factions:**
+
 - [[League of Extraordinary Gentlemen]]
 - [[Basilisk Cult]] (first evidence)
 - See [[FACTIONS.md]] for details
 
 **Timeline:**
+
 - [[TIMELINE.md]] - Day 8 events
 
 **Campaign Resources:**
+
 - [[CAMPAIGN.md]] - Campaign overview
 - [[CAMPAIGN_NOTES.md]] - Session summaries
 
 **Sessions:**
+
 - Previous: [[Session 01 - The House on Mivvin's Rest]]
 - Next: [[Session 03 - Teeth in the Night]]
 

@@ -1,18 +1,19 @@
 # Session 6: The Albion Dominion
 
-session-number:: 6
-session-date:: 2026-01-11
-in-game-date:: Day 24-45 of expedition
-level:: 4
-location:: [[Mivvin's Rest]], [[Star Map Temple]]
-main-npcs:: [[Colonel Percival Huzzard]], [[Captain Blackwood]], [[Lieutenant Sterling]], [[Maied]]
-main-threats:: Bureaucracy, social intrigue, [[Panther]], formal dinner
-rewards:: Land charter, access to Star Map
-key-events:: Met Albion Dominion, obtained land charter, befriended Maied, obtained brass cogs
+session-number:: 6 session-date:: 2026-01-11 in-game-date:: Day 24-45 of
+expedition level:: 4 location:: [[Mivvin's Rest]], [[Star Map Temple]]
+main-npcs:: [[Colonel Percival Huzzard]], [[Captain Blackwood]],
+[[Lieutenant Sterling]], [[Maied]] main-threats:: Bureaucracy, social intrigue,
+[[Panther]], formal dinner rewards:: Land charter, access to Star Map
+key-events:: Met Albion Dominion, obtained land charter, befriended Maied,
+obtained brass cogs
 
-#session #river-of-night #session-06 #roleplay #social #exploration #albion-dominion-arc #jungle-spirits-arc
+#session #river-of-night #session-06 #roleplay #social #exploration
+#albion-dominion-arc #jungle-spirits-arc
 
-> **Campaign:** [[CAMPAIGN]] | **Notes:** [[CAMPAIGN_NOTES]] | **Previous:** [[Session 05 - The Burden of Beasts]] | **Next:** [[Session 07 - The Jungle Strikes Back]]
+> **Campaign:** [[CAMPAIGN]] | **Notes:** [[CAMPAIGN_NOTES]] | **Previous:**
+> [[Session 05 - The Burden of Beasts]] | **Next:**
+> [[Session 07 - The Jungle Strikes Back]]
 
 ## Introduction for the Game Master
 
@@ -82,7 +83,8 @@ Rest:
     - _Result:_ Uncover legends of the "Sky-Callers" who used the ziggurats to
       speak to the stars.
 3.  **Training/Fortifying:**
-    - Helping [[Durgan Coalbeard]] upgrade the defenses or training with the soldiers.
+    - Helping [[Durgan Coalbeard]] upgrade the defenses or training with the
+      soldiers.
 4.  **[[Doctor Googoo]]'s Nursery:**
     - The Basilisks (Iggy and Pop) are hiding. The Army would kill them on
       sight. Googoo must keep them secret.
@@ -91,9 +93,9 @@ Rest:
 
 ## Part 3: The Officer's Mess
 
-The climax of the session is a formal dinner hosted by **[[Colonel Percival Huzzard]]** in
-the newly commandeered "Governor's Hall" (formerly part of Mivvin's Rest or a
-grand tent).
+The climax of the session is a formal dinner hosted by
+**[[Colonel Percival Huzzard]]** in the newly commandeered "Governor's Hall"
+(formerly part of Mivvin's Rest or a grand tent).
 
 **The Invitation:**
 
@@ -103,10 +105,10 @@ grand tent).
 
 **The Guests:**
 
-- **[[Colonel Percival Huzzard]]:** Large, ruddy-faced, wears a monocle. Believes the jungle
-  can be beaten with "Discipline and Geometry."
-- **[[Lieutenant Sterling]]:** Young, eager, desperate for glory. Thinks the party
-  are romantic heroes.
+- **[[Colonel Percival Huzzard]]:** Large, ruddy-faced, wears a monocle.
+  Believes the jungle can be beaten with "Discipline and Geometry."
+- **[[Lieutenant Sterling]]:** Young, eager, desperate for glory. Thinks the
+  party are romantic heroes.
 - **[[Captain Blackwood]]:** The Intelligence Officer. Cold, suspicious. Watches
   Doctor Googoo closely.
 
@@ -209,7 +211,8 @@ rot. It seems to glow with a faint, starlight ambiance even in the day.
 - **Description:** A tree dotted with star-shaped yellow flowers creaks gently
   in the breeze. Vines grow along the walls in unusual, wave-like patterns, and
   sparkling bits of metal glimmer among their tendrils.
-- **Encounter:** The tree is **Maied**, a sweet old [treant](../../shadowdark-library/monsters/manual-monsters/treant.md) auntie.
+- **Encounter:** The tree is **Maied**, a sweet old
+  [treant](../../shadowdark-library/monsters/manual-monsters/treant.md) auntie.
   - _Roleplay:_ She loves to decorate with nature and found objects. She is
     non-violent.
   - _The Puzzle Key:_ woven into her vines are **Heavy Brass Cogs** (Essential
@@ -232,8 +235,9 @@ rot. It seems to glow with a faint, starlight ambiance even in the day.
 **7. Panther Den (The Obstacle)**
 
 - **Description:** Musky odor. Claw marks mar the white marble walls.
-- **Encounter:** Two **Mated [Panthers](../../shadowdark-library/monsters/manual-monsters/panther.md)** lurk in the shadows (DC 12 WIS to
-  notice).
+- **Encounter:** Two **Mated
+  [Panthers](../../shadowdark-library/monsters/manual-monsters/panther.md)**
+  lurk in the shadows (DC 12 WIS to notice).
   - _Combat:_ They attack if approached.
   - _Alternative:_ Tossing food causes them to retreat.
   - _Details:_ Four cubs hide in a small den in the corner.
@@ -311,6 +315,7 @@ to hum...
 ## Related
 
 **NPCs:**
+
 - [[Colonel Percival Huzzard]]
 - [[Lieutenant Sterling]]
 - [[Captain Blackwood]]
@@ -319,6 +324,7 @@ to hum...
 - [[Lady Lara Croft Johnson]]
 
 **Locations:**
+
 - [[Governor's Clearing]]
 - [[Star Map Temple]]
 - [[The Green Hell]]
@@ -326,18 +332,22 @@ to hum...
 - See [[LOCATIONS.md]] for full index
 
 **Factions:**
+
 - [[Albion Dominion]]
 - [[Jungle Spirits]]
 - [[League of Extraordinary Gentlemen]]
 - See [[FACTIONS.md]] for details
 
 **Timeline:**
+
 - [[TIMELINE.md]] - Days 24-45 events
 
 **Campaign Resources:**
+
 - [[CAMPAIGN.md]] - Campaign overview
 - [[CAMPAIGN_NOTES.md]] - Session summaries
 
 **Sessions:**
+
 - Previous: [[Session 05 - The Burden of Beasts]]
 - Next: [[Session 07 - The Jungle Strikes Back]]

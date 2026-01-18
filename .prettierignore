@@ -1,0 +1,38 @@
+# Dependencies
+node_modules/
+
+# Build outputs
+dist/
+build/
+
+# Logseq backup files
+logseq/bak/
+
+# Git
+.git/
+
+# PDFs and binary files
+*.pdf
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.svg
+
+# Python
+__pycache__/
+*.pyc
+
+# IDE
+.vscode/
+.idea/
+
+# Agent skills library (external)
+.agent/skills/skills-main/
+
+# Shadowdark library content (purchased PDFs)
+shadowdark-library/adventures/Cursed_Scroll*/
+shadowdark-library/core-rules/Shadowdark*/
+
+# Package lock files (auto-generated)
+package-lock.json

@@ -74,8 +74,7 @@ usage description:
   external APIs/workflows.
   [Link](.agent/skills/skills-main/mcp-builder/SKILL.md)
 - Skill Creator – Instructions for crafting effective new skills with metadata,
-  workflows, resources.
-  [Link](.agent/skills/skills-main/skill-creator/SKILL.md)
+  workflows, resources. [Link](.agent/skills/skills-main/skill-creator/SKILL.md)
 - Slack GIF Creator – Toolkit for optimized Slack GIF/emoji creation with
   validators & animation primitives.
   [Link](.agent/skills/skills-main/slack-gif-creator/SKILL.md)

@@ -1,18 +1,18 @@
 # Session 5: The Burden of Beasts
 
-session-number:: 5
-session-date:: 2025-12-28
-in-game-date:: Day 15 of expedition
-level:: 4
-location:: [[Mivvin's Rest]]
-main-npcs:: [[Doctor Googoo]], [[Allan Quatermain]], [[Durgan Coalbeard]], The Herald
-main-threats:: Baby basilisks, The Herald, [[Earth Elemental]]
-rewards:: One basilisk retained, fortification upgrades
-key-events:: Doctor Googoo's mockery, basilisk nursery chaos, Herald attacked and escaped with one basilisk
+session-number:: 5 session-date:: 2025-12-28 in-game-date:: Day 15 of expedition
+level:: 4 location:: [[Mivvin's Rest]] main-npcs:: [[Doctor Googoo]],
+[[Allan Quatermain]], [[Durgan Coalbeard]], The Herald main-threats:: Baby
+basilisks, The Herald, [[Earth Elemental]] rewards:: One basilisk retained,
+fortification upgrades key-events:: Doctor Googoo's mockery, basilisk nursery
+chaos, Herald attacked and escaped with one basilisk
 
-#session #river-of-night #session-05 #roleplay #comedy #combat #basilisk-cult-arc #consequences
+#session #river-of-night #session-05 #roleplay #comedy #combat
+#basilisk-cult-arc #consequences
 
-> **Campaign:** [[CAMPAIGN]] | **Notes:** [[CAMPAIGN_NOTES]] | **Previous:** [[Session 04 - The Serpent's Eye]] | **Next:** [[Session 06 - The Albion Dominion]]
+> **Campaign:** [[CAMPAIGN]] | **Notes:** [[CAMPAIGN_NOTES]] | **Previous:**
+> [[Session 04 - The Serpent's Eye]] | **Next:**
+> [[Session 06 - The Albion Dominion]]
 
 ## Introduction for the Game Master
 
@@ -119,11 +119,12 @@ them.
 >
 > _He rips the canvas off._
 
-**The Reveal:** Inside are the two **Baby [Basilisks](../../shadowdark-library/monsters/manual-monsters/basilisk.md)** (Iggy and Pop). They are
-the size of large dogs, with scales the color of dried blood and eyes that glow
-with a faint, sickly pale light. They hiss at the sudden light, snapping their
-jaws against the iron bars. One of them spits a glob of acid that sizzles on the
-polished mahogany table.
+**The Reveal:** Inside are the two **Baby
+[Basilisks](../../shadowdark-library/monsters/manual-monsters/basilisk.md)**
+(Iggy and Pop). They are the size of large dogs, with scales the color of dried
+blood and eyes that glow with a faint, sickly pale light. They hiss at the
+sudden light, snapping their jaws against the iron bars. One of them spits a
+glob of acid that sizzles on the polished mahogany table.
 
 > **Quatermain:** "I cannot have my men distracted by them. And I certainly
 > won't feed them. But..."
@@ -465,6 +466,7 @@ shattered remains of a Stone-Walker. He looks at Googoo.
 ## Related
 
 **NPCs:**
+
 - [[Doctor Googoo]]
 - [[Durgan Coalbeard]]
 - [[Cult Leader]]
@@ -472,22 +474,27 @@ shattered remains of a Stone-Walker. He looks at Googoo.
 - [[Allan Quatermain]]
 
 **Locations:**
+
 - [[The Serpent's Eye]]
 - [[Mivvin's Rest]]
 - See [[LOCATIONS.md]] for full index
 
 **Factions:**
+
 - [[Basilisk Cult]] (destroyed)
 - [[League of Extraordinary Gentlemen]]
 - See [[FACTIONS.md]] for details
 
 **Timeline:**
+
 - [[TIMELINE.md]] - Day 15 events
 
 **Campaign Resources:**
+
 - [[CAMPAIGN.md]] - Campaign overview
 - [[CAMPAIGN_NOTES.md]] - Session summaries
 
 **Sessions:**
+
 - Previous: [[Session 04 - The Serpent's Eye]]
 - Next: [[Session 06 - The Albion Dominion]]

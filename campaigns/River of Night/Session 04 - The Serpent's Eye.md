@@ -1,18 +1,18 @@
 # Session 4: The Serpent's Eye
 
-session-number:: 4
-session-date:: 2025-12-21
-in-game-date:: Day 12 of expedition
-level:: 3-4
-location:: [[Serpent's Eye Temple]], Hex 706
-main-npcs:: [[High Priestess]], cult acolytes
-main-threats:: [[Basilisk Cult]] temple, [[Viper]] pit, ritual sacrifice
-rewards:: Two baby basilisks (Iggy and Pop)
-key-events:: Witnessed sacrifice ritual, infiltrated temple, kidnapped baby basilisks
+session-number:: 4 session-date:: 2025-12-21 in-game-date:: Day 12 of expedition
+level:: 3-4 location:: [[Serpent's Eye Temple]], Hex 706 main-npcs::
+[[High Priestess]], cult acolytes main-threats:: [[Basilisk Cult]] temple,
+[[Viper]] pit, ritual sacrifice rewards:: Two baby basilisks (Iggy and Pop)
+key-events:: Witnessed sacrifice ritual, infiltrated temple, kidnapped baby
+basilisks
 
-#session #river-of-night #session-04 #dungeon-crawl #stealth #horror #basilisk-cult-arc #moral-choice
+#session #river-of-night #session-04 #dungeon-crawl #stealth #horror
+#basilisk-cult-arc #moral-choice
 
-> **Campaign:** [[CAMPAIGN]] | **Notes:** [[CAMPAIGN_NOTES]] | **Previous:** [[Session 03 - Teeth in the Night]] | **Next:** [[Session 05 - The Burden of Beasts]]
+> **Campaign:** [[CAMPAIGN]] | **Notes:** [[CAMPAIGN_NOTES]] | **Previous:**
+> [[Session 03 - Teeth in the Night]] | **Next:**
+> [[Session 05 - The Burden of Beasts]]
 
 ## Introduction for the Game Master
 
@@ -64,9 +64,11 @@ keeps its own secrets.
 **Random Encounter (d6):**
 
 1.  **Quickstand:** DC 12 STR to escape.
-2.  **Giant [Centipedes](../../shadowdark-library/monsters/manual-monsters/centipede,_giant.md):** 1d4 Centipedes hiding in the brush.
-3.  **[Cultist](../../shadowdark-library/monsters/manual-monsters/cultist.md) Stragglers:** 2 Cultists carrying a wounded comrade. Easy to
-    ambush.
+2.  **Giant
+    [Centipedes](../../shadowdark-library/monsters/manual-monsters/centipede,_giant.md):**
+    1d4 Centipedes hiding in the brush.
+3.  **[Cultist](../../shadowdark-library/monsters/manual-monsters/cultist.md)
+    Stragglers:** 2 Cultists carrying a wounded comrade. Easy to ambush.
 4.  **Strange Idol:** A stone statue of a serpent with ruby eyes (trapped:
     poison gas if touched).
 5.  **Monkey Thief:** Steals a shiny item (maybe a torch or potion) and runs up
@@ -158,8 +160,9 @@ warm, humid chamber filled with the smell of sulfur and unwashed beast.
 
 **The Room:**
 
-- Two **Baby [Basilisks](../../shadowdark-library/monsters/manual-monsters/basilisk.md)** (about the size of large dogs) are playing in a nesting
-  pit.
+- Two **Baby
+  [Basilisks](../../shadowdark-library/monsters/manual-monsters/basilisk.md)**
+  (about the size of large dogs) are playing in a nesting pit.
 - They are hideous but strangely cute in a monstrous way.
 - Their gaze is not yet lethal, but causes "Slow" (Disadvantage on DEX
   checks/attacks) for 1 round on a failed DC 12 CON save.
@@ -253,28 +256,34 @@ Quatermain's full force.
 ## Related
 
 **NPCs:**
+
 - [[Durgan Coalbeard]]
 - [[Cult Leader]]
 - [[High Priestess]]
 - [[Allan Quatermain]]
 
 **Locations:**
+
 - [[The Serpent's Eye]]
 - [[Mivvin's Rest]]
 - See [[LOCATIONS.md]] for full index
 
 **Factions:**
+
 - [[Basilisk Cult]]
 - [[League of Extraordinary Gentlemen]]
 - See [[FACTIONS.md]] for details
 
 **Timeline:**
+
 - [[TIMELINE.md]] - Day 12 events
 
 **Campaign Resources:**
+
 - [[CAMPAIGN.md]] - Campaign overview
 - [[CAMPAIGN_NOTES.md]] - Session summaries
 
 **Sessions:**
+
 - Previous: [[Session 03 - Teeth in the Night]]
 - Next: [[Session 05 - The Burden of Beasts]]

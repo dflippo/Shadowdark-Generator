@@ -66,11 +66,15 @@ This is a **West Marches style campaign**:
 
 ### Lady Lara Croft Johnson
 
-**Full Profile**: [Lady Lara Croft Johnson](npcs/mivvins-rest/lady-lara-croft-johnson.md)
+**Full Profile**:
+[Lady Lara Croft Johnson](npcs/mivvins-rest/lady-lara-croft-johnson.md)
 
 **Role**: Quest giver, patron, leader of the League of Extraordinary Gentlemen
 
-**Quick Summary:** Wealthy archaeologist and "tomb raider" who inherited Mivvin's Rest from her uncle [[Alistair Johnson]]. Founded the League of Extraordinary Gentlemen to fund jungle expeditions. Brilliant, resourceful, and values competence.
+**Quick Summary:** Wealthy archaeologist and "tomb raider" who inherited
+Mivvin's Rest from her uncle [[Alistair Johnson]]. Founded the League of
+Extraordinary Gentlemen to fund jungle expeditions. Brilliant, resourceful, and
+values competence.
 
 ### Allan Quatermain
 
@@ -78,7 +82,10 @@ This is a **West Marches style campaign**:
 
 **Role**: Mentor, guide, expert on jungle survival
 
-**Quick Summary:** Professional big-game hunter and [[Lady Lara Croft Johnson|Lady Johnson]]'s adviser. Grizzled, experienced, and practical. Tests newcomers with "The Proving Ground" walkabout. Expert on jungle dangers, wildlife, and survival. Wields a magic double heavy crossbow.
+**Quick Summary:** Professional big-game hunter and
+[[Lady Lara Croft Johnson|Lady Johnson]]'s adviser. Grizzled, experienced, and
+practical. Tests newcomers with "The Proving Ground" walkabout. Expert on jungle
+dangers, wildlife, and survival. Wields a magic double heavy crossbow.
 
 ### The Ghost of Johnson's Uncle
 
@@ -86,7 +93,11 @@ This is a **West Marches style campaign**:
 
 **Role**: Source of lore and mystery
 
-**Quick Summary:** [[Lady Lara Croft Johnson|Lady Johnson]]'s eccentric uncle who disappeared researching ancient temples and solar eclipses. Haunted his secret chamber until the party completed his star chart puzzle in [[Session 01 - The House on Mivvin's Rest]]. Left behind maps and the Font of Healing.
+**Quick Summary:** [[Lady Lara Croft Johnson|Lady Johnson]]'s eccentric uncle
+who disappeared researching ancient temples and solar eclipses. Haunted his
+secret chamber until the party completed his star chart puzzle in
+[[Session 01 - The House on Mivvin's Rest]]. Left behind maps and the Font of
+Healing.
 
 ## Player Background
 
@@ -149,10 +160,13 @@ Use plot elements and characters from League of Extraordinary Gentlemen stories:
 
 **Basilisk Cult** (introduced in [[Session 02 - The Proving Ground]]):
 
-- Stone Warriors who worship six-legged [basilisks](../../shadowdark-library/monsters/manual-monsters/basilisk.md)
+- Stone Warriors who worship six-legged
+  [basilisks](../../shadowdark-library/monsters/manual-monsters/basilisk.md)
 - Live deeper in the jungle (temple at hex 706)
 - Slaughtered archaeologists at Dig Site A (hex 104)
-- Retrieved [basilisk](../../shadowdark-library/monsters/manual-monsters/basilisk.md) egg now stored in mansion vault
+- Retrieved
+  [basilisk](../../shadowdark-library/monsters/manual-monsters/basilisk.md) egg
+  now stored in mansion vault
 - Will eventually attack mansion to reclaim the egg
 - See also: [Basilisk Cult NPCs](npcs/basilisk-cult/)
 
@@ -191,11 +205,14 @@ early on but introduce them again later.
 
 **Hex 603**: Gorilla Statue - magical statue that transforms fruit into potions,
 guarded by [apes](../../shadowdark-library/monsters/manual-monsters/ape.md)  
-**Hex 104**: Dig Site A - slaughtered archaeological camp, [Basilisk Cult](npcs/basilisk-cult/) attack
-site  
-**Hex 706**: [Basilisk Cult](npcs/basilisk-cult/) Temple - home of the Stone Warriors
+**Hex 104**: Dig Site A - slaughtered archaeological camp,
+[Basilisk Cult](npcs/basilisk-cult/) attack site  
+**Hex 706**: [Basilisk Cult](npcs/basilisk-cult/) Temple - home of the Stone
+Warriors
 
-(Reference [River of Night Adventure](../../shadowdark-library/adventures/ADVENTURES_GUIDE.md) for complete hex details)
+(Reference
+[River of Night Adventure](../../shadowdark-library/adventures/ADVENTURES_GUIDE.md)
+for complete hex details)
 
 ## Tone and Atmosphere Guidelines
 
@@ -222,6 +239,7 @@ Track between sessions:
 ## Related
 
 **Campaign Organization:**
+
 - [[CAMPAIGN_NOTES.md]] - Session summaries and planning
 - [[TIMELINE.md]] - Complete chronology (Day 1 to present)
 - [[LOCATIONS.md]] - All discovered locations
@@ -230,6 +248,7 @@ Track between sessions:
 - [[PARTY_ROSTER.md]] - Party members and status
 
 **Session Files:**
+
 - [[Session 01 - The House on Mivvin's Rest]]
 - [[Session 02 - The Proving Ground]]
 - [[Session 03 - Teeth in the Night]]
@@ -239,7 +258,7 @@ Track between sessions:
 - [[Session 07 - The Jungle Strikes Back]]
 
 **Reference Materials:**
+
 - [Core Rules](../../shadowdark-library/core-rules/CORE_RULES_GUIDE.md)
 - [Monsters & Tables](../../shadowdark-library/monsters/MONSTERS_GUIDE.md)
 - [Adventure Guide](../../shadowdark-library/adventures/ADVENTURES_GUIDE.md)
-
