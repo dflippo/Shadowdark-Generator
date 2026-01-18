@@ -1,4 +1,4 @@
-# Durgan Coalbeard
+# [[Durgan Coalbeard]]
 
 npc-type:: Laborer faction:: Mivvin's Rest Workers status:: Active
 first-appearance:: [[Session 03 - Teeth in the Night]] alignment:: Neutral

@@ -3,7 +3,7 @@
 session-number:: 4 session-date:: 2025-12-21 in-game-date:: Day 12 of expedition
 level:: 3-4 location:: [[Serpent's Eye Temple]], Hex 706 main-npcs::
 [[High Priestess]], cult acolytes main-threats:: [[Basilisk Cult]] temple,
-[[Viper]] pit, ritual sacrifice rewards:: Two baby basilisks (Iggy and Pop)
+viper pit, ritual sacrifice rewards:: Two baby basilisks (Iggy and Pop)
 key-events:: Witnessed sacrifice ritual, infiltrated temple, kidnapped baby
 basilisks
 
@@ -65,9 +65,9 @@ keeps its own secrets.
 
 1.  **Quickstand:** DC 12 STR to escape.
 2.  **Giant
-    [Centipedes](../../shadowdark-library/monsters/manual-monsters/centipede,_giant.md):**
+    [Centipedes](centipede,_giant.md):**
     1d4 Centipedes hiding in the brush.
-3.  **[Cultist](../../shadowdark-library/monsters/manual-monsters/cultist.md)
+3.  **[Cultist](cultist.md)
     Stragglers:** 2 Cultists carrying a wounded comrade. Easy to ambush.
 4.  **Strange Idol:** A stone statue of a serpent with ruby eyes (trapped:
     poison gas if touched).
@@ -161,7 +161,7 @@ warm, humid chamber filled with the smell of sulfur and unwashed beast.
 **The Room:**
 
 - Two **Baby
-  [Basilisks](../../shadowdark-library/monsters/manual-monsters/basilisk.md)**
+  [Basilisks](basilisk.md)**
   (about the size of large dogs) are playing in a nesting pit.
 - They are hideous but strangely cute in a monstrous way.
 - Their gaze is not yet lethal, but causes "Slow" (Disadvantage on DEX
@@ -265,7 +265,7 @@ Quatermain's full force.
 **Locations:**
 
 - [[The Serpent's Eye]]
-- [[Mivvin's Rest]]
+- [[Locations#Mivvin's Rest]]
 - See [[LOCATIONS]] for full index
 
 **Factions:**
@@ -276,7 +276,7 @@ Quatermain's full force.
 
 **Timeline:**
 
-- [[TIMELINE]] - Day 12 events
+- [[Timeline]] - Day 12 events
 
 **Campaign Resources:**
 

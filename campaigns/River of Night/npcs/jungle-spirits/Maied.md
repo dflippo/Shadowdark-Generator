@@ -1,4 +1,4 @@
-# Maied
+# [[Maied]]
 
 npc-type:: Jungle Guardian (Dryad/Treant) faction:: [[Jungle Spirits]] status::
 Deceased first-appearance:: [[Session 06 - The Albion Dominion]]
@@ -40,7 +40,7 @@ furious avenger shows the cost of treating the jungle as an enemy.
 ## Combat Stats (Enhanced)
 
 **AC:** 16 (Ironbark) | **HP:** 65 | **MV:** Near (Burrow)  
-**Attacks:** +4 Ironwood Staff (1d8) or +4 Thorn Whip (1d6 + Pull to Close)
+ **Attacks:** +4 Ironwood Staff (1d8) or +4 Thorn Whip (1d6 + Pull to Close)
 
 **Special:**
 
@@ -50,8 +50,8 @@ furious avenger shows the cost of treating the jungle as an enemy.
 ### Abilities
 
 **Round 1 - Entangle:** Roots explode from ground (DC 12 DEX or Stuck)  
-**Round 2 - Thorn Whip:** 1d6 damage + pull to Close range  
-**Round 3 - Spore Cloud:** DC 12 CON or 1d4 poison + Blinded
+ **Round 2 - Thorn Whip:** 1d6 damage + pull to Close range  
+ **Round 3 - Spore Cloud:** DC 12 CON or 1d4 poison + Blinded
 
 ## Transformation Cause
 
@@ -75,7 +75,7 @@ destroying the jungle, she learned of her children's death and blamed the party.
 - Traded Heavy Brass Cogs for shiny replacements
 - Party could have befriended her permanently
 
-**Session 07:**
+  **Session 07:**
 
 - Attacked Dominion forces at Mivvin's Rest
 - Commanded beast tide: flying squirrels, giant boars, vipers, shadow jaguars

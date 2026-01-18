@@ -18,17 +18,17 @@
 - [Core Rules](../../shadowdark-library/core-rules/CORE_RULES_GUIDE.md)
 - [Adventures Guide](../../shadowdark-library/adventures/ADVENTURES_GUIDE.md)
 
-This document contains campaign-specific information for the River of Night
-adventure. Reference this when creating sessions for this specific campaign.
+  This document contains campaign-specific information for the River of Night
+  adventure. Reference this when creating sessions for this specific campaign.
 
 ## Campaign Overview
 
 **Module Base**: Shadowdark Cursed Scroll 4 - River of Night  
-**Style**: West Marches style game - players return to Lady Johnson's mansion
+ **Style**: West Marches style game - players return to Lady Johnson's mansion
 between adventures  
-**Tone**: Mix of horror and adventure, like Tomb Raider movies but with
+ **Tone**: Mix of horror and adventure, like Tomb Raider movies but with
 monsters  
-**Player Level**: Starting at level 3 **Technology**: No firearms. Crossbows and
+ **Player Level**: Starting at level 3 **Technology**: No firearms. Crossbows and
 bows only.
 
 ## Source Materials
@@ -198,16 +198,16 @@ The first session should include:
 - Finding the regional map
 - Unexpected safe area with magical healing for rest
 
-**Important**: Players fought vampires previously, so avoid vampire encounters
-early on but introduce them again later.
+  **Important**: Players fought vampires previously, so avoid vampire encounters
+  early on but introduce them again later.
 
 ## Hex Locations of Note
 
 **Hex 603**: Gorilla Statue - magical statue that transforms fruit into potions,
 guarded by [apes](../../shadowdark-library/monsters/manual-monsters/ape.md)  
-**Hex 104**: Dig Site A - slaughtered archaeological camp,
+ **Hex 104**: Dig Site A - slaughtered archaeological camp,
 [Basilisk Cult](npcs/basilisk-cult/) attack site  
-**Hex 706**: [Basilisk Cult](npcs/basilisk-cult/) Temple - home of the Stone
+ **Hex 706**: [Basilisk Cult](npcs/basilisk-cult/) Temple - home of the Stone
 Warriors
 
 (Reference
@@ -234,20 +234,20 @@ Track between sessions:
 - Resources stored at the mansion
 - Reputation within the League of Extraordinary Gentlemen
 
----
+  ***
 
 ## Related
 
 **Campaign Organization:**
 
 - [[CAMPAIGN_NOTES]] - Session summaries and planning
-- [[TIMELINE]] - Complete chronology (Day 1 to present)
-- [[LOCATIONS]] - All discovered locations
+- [[Timeline]] - Complete chronology (Day 1 to present)
+- [[Locations]] - All discovered locations
 - [[FACTIONS]] - Faction relationships and status
 - [[NPC_DIRECTORY]] - Complete NPC roster by faction
 - [[PARTY_ROSTER]] - Party members and status
 
-**Session Files:**
+  **Session Files:**
 
 - [[Session 01 - The House on Mivvin's Rest]]
 - [[Session 02 - The Proving Ground]]
@@ -257,7 +257,7 @@ Track between sessions:
 - [[Session 06 - The Albion Dominion]]
 - [[Session 07 - The Jungle Strikes Back]]
 
-**Reference Materials:**
+  **Reference Materials:**
 
 - [Core Rules](../../shadowdark-library/core-rules/CORE_RULES_GUIDE.md)
 - [Monsters & Tables](../../shadowdark-library/monsters/MONSTERS_GUIDE.md)

@@ -1,4 +1,4 @@
-# Cult Leader (Basilisk Cult)
+# [[Cult Leader (Basilisk Cult)]]
 
 #npc #basilisk-cult #deceased #warrior
 

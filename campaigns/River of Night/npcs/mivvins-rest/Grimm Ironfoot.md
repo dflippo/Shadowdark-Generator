@@ -1,4 +1,4 @@
-# Grimm Ironfoot
+# [[Grimm Ironfoot]]
 
 #npc #mivvins-rest #dwarf #deceased #foreman
 

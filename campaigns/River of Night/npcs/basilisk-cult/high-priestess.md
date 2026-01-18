@@ -1,4 +1,4 @@
-# High Priestess (Basilisk Cult)
+# [[High Priestess (Basilisk Cult)]]
 
 #npc #basilisk-cult #villain #priestess #unnamed
 

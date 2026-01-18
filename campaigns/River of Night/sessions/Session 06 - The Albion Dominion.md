@@ -1,7 +1,7 @@
 # Session 6: The Albion Dominion
 
 session-number:: 6 session-date:: 2026-01-11 in-game-date:: Day 24-45 of
-expedition level:: 4 location:: [[Mivvin's Rest]], [[Star Map Temple]]
+expedition level:: 4 location:: [[Locations#Mivvin's Rest]], [[Star Map Temple]]
 main-npcs:: [[Colonel Huzzard]], [[Captain Blackwood]],
 [[Lieutenant Sterling]], [[Maied]] main-threats:: Bureaucracy, social intrigue,
 [[Panther]], formal dinner rewards:: Land charter, access to Star Map
@@ -15,15 +15,15 @@ obtained brass cogs
 > [[Session 05 - The Burden of Beasts]] | **Next:**
 > [[Session 07 - The Jungle Strikes Back]]
 
-- ## Introduction for the Game Master
+## Introduction for the Game Master
 
-  The jungle is no longer a lawless frontier. The **[[Albion Dominion]]** has arrived.
-  This session shifts the genre from **Survival/Horror** to **Colonial
-  Satire/Social Intrigue**. The party must navigate a danger far worse than
-  basilisks: **Bureaucracy and Etiquette.**
+The jungle is no longer a lawless frontier. The **[[Albion Dominion]]** has arrived.
+This session shifts the genre from **Survival/Horror** to **Colonial
+Satire/Social Intrigue**. The party must navigate a danger far worse than
+basilisks: **Bureaucracy and Etiquette.**
 
-  **Theme:** Civilization vs. The Wild (and the absurdity of trying to tame it).
-  **Shadowdark Mechanics:**
+**Theme:** Civilization vs. The Wild (and the absurdity of trying to tame it).
+**Shadowdark Mechanics:**
 
 - **Carousing:** Downtime rules for the weeks of calm.
 - **Social Reaction Rolls:** The Army's opinion of the party matters more than
@@ -31,24 +31,24 @@ obtained brass cogs
 
   ***
 
-- ## Part 1: The Rabbit in the Woods
+## Part 1: The Rabbit in the Woods
 
-  The session opens not with a battle, but with a baffling discovery. The
-  Dominion’s vanguard—the 4th Arbalesters—has pushed the Cult back. Reports come
-  in of a "Massive Siege Engine" abandoned in a clearing.
+The session opens not with a battle, but with a baffling discovery. The
+Dominion’s vanguard—the 4th Arbalesters—has pushed the Cult back. Reports come
+in of a "Massive Siege Engine" abandoned in a clearing.
 
-  **The Scene:** A platoon of Redcoats stands in a semicircle, heavy crossbows
-  trained on a massive object. **Read Aloud:**
+**The Scene:** A platoon of Redcoats stands in a semicircle, heavy crossbows
+trained on a massive object. **Read Aloud:**
 
-  > "In the center of the clearing, surrounded by the tense, sweating soldiers of
-  > the Dominion, sits... a rabbit.
-  >
-  > It is twenty feet tall. Constructed of roughly hewn jungle timber, nailed
-  > together with crude iron spikes. Its ears are lopsided. Its painted eyes are
-  > jagged spirals of red ochre. It sits on four wooden wheels, like a child's toy
-  > made by a madman."
+> "In the center of the clearing, surrounded by the tense, sweating soldiers of
+> the Dominion, sits... a rabbit.
+>
+> It is twenty feet tall. Constructed of roughly hewn jungle timber, nailed
+> together with crude iron spikes. Its ears are lopsided. Its painted eyes are
+> jagged spirals of red ochre. It sits on four wooden wheels, like a child's toy
+> made by a madman."
 
-  **The Investigation:**
+**The Investigation:**
 
 - **The Sergeant:** "Careful, lads! It could be full of 'em! Ready the volley!"
 - **The Reality:** The party can inspect it.
@@ -63,11 +63,12 @@ obtained brass cogs
     dragged back to the supply depot near Mivvin's Rest to be "processed later."
 
     ***
-- ## Part 2: The Pax Albion (Downtime Montage)
 
-  With the Army's arrival, the immediate threat of the Cult recedes. The party has
-  **Three Weeks** of relative safety. Describe the transformation of Mivvin's
-  Rest:
+## Part 2: The Pax Albion (Downtime Montage)
+
+With the Army's arrival, the immediate threat of the Cult recedes. The party has
+**Three Weeks** of relative safety. Describe the transformation of Mivvin's
+Rest:
 
 - Tents are replaced by prefab barracks.
 - A "Governor's Mansion" is being erected.
@@ -86,19 +87,19 @@ obtained brass cogs
 
     ***
 
-- ## Part 3: The Officer's Mess
+## Part 3: The Officer's Mess
 
-  The climax of the session is a formal dinner hosted by
-  **[[Colonel Huzzard]]** in the newly commandeered "Governor's Hall"
-  (formerly part of Mivvin's Rest or a grand tent).
+The climax of the session is a formal dinner hosted by
+**[[Colonel Huzzard]]** in the newly commandeered "Governor's Hall"
+(formerly part of Mivvin's Rest or a grand tent).
 
-  **The Invitation:**
+**The Invitation:**
 
-  > _"Colonel Percival Huzzard, 4th Arbalesters, requests the pleasure of your
-  > company to celebrate the Pacification of the Sector. Proper attire is
-  > mandatory."_
+> _"Colonel Percival Huzzard, 4th Arbalesters, requests the pleasure of your
+> company to celebrate the Pacification of the Sector. Proper attire is
+> mandatory."_
 
-  **The Guests:**
+**The Guests:**
 
 - **[[Colonel Huzzard]]:** Large, ruddy-faced, wears a monocle.
   Believes the jungle can be beaten with "Discipline and Geometry."
@@ -135,18 +136,18 @@ obtained brass cogs
 
   ***
 
-- ## Part 4: The Star Map Reveal
+## Part 4: The Star Map Reveal
 
-  After the brandy is served, Huzzard drops the pretense. He dismisses the
-  servants.
+After the brandy is served, Huzzard drops the pretense. He dismisses the
+servants.
 
-  **The Map:** He unrolls a large canvas map on the table. It is detailed, but one
-  sector is circled in red ink: **Hex 44-B.**
+**The Map:** He unrolls a large canvas map on the table. It is detailed, but one
+sector is circled in red ink: **Hex 44-B.**
 
-  > **[[Colonel Huzzard]]:** "We've secured the river. We've routed the savages. But
-  > _this_... this is a problem."
+> **[[Colonel Huzzard]]:** "We've secured the river. We've routed the savages. But
+> _this_... this is a problem."
 
-  **The Situation:**
+**The Situation:**
 
 - The Army found a structure: **The Star Map Temple**.
 - They sent a squad of engineers to secure it.
@@ -165,9 +166,9 @@ obtained brass cogs
 
   ***
 
-- ## Part 5: The March
+## Part 5: The March
 
-  The next morning, the party sets out for **Hex 44-B**.
+The next morning, the party sets out for **Hex 44-B**.
 
 - **The Companion:** [[Captain Blackwood]] accompanies them. He wears a pristine
   uniform and constantly makes notes in a leather ledger.
@@ -184,12 +185,12 @@ obtained brass cogs
 
   ***
 
-- ## Part 6: The Star Map Temple
+## Part 6: The Star Map Temple
 
-  The temple is an open-air pavilion of ancient marble, untouched by the jungle's
-  rot. It seems to glow with a faint, starlight ambiance even in the day.
+The temple is an open-air pavilion of ancient marble, untouched by the jungle's
+rot. It seems to glow with a faint, starlight ambiance even in the day.
 
-  **1. Mossy Pillars (The Entrance)**
+**1. Mossy Pillars (The Entrance)**
 
 - **Description:** The mossy remnants of ancient marble pillars stand at
   precarious angles in this quiet, sunlit hall. The moss grows in distinct
@@ -207,7 +208,7 @@ obtained brass cogs
   in the breeze. Vines grow along the walls in unusual, wave-like patterns, and
   sparkling bits of metal glimmer among their tendrils.
 - **Encounter:** The tree is **Maied**, a sweet old
-  [treant](../../shadowdark-library/monsters/manual-monsters/treant.md) auntie.
+  [treant](treant.md) auntie.
   - _Roleplay:_ She loves to decorate with nature and found objects. She is
     non-violent.
   - _The Puzzle Key:_ woven into her vines are **Heavy Brass Cogs** (Essential
@@ -228,9 +229,10 @@ obtained brass cogs
     **Tsibalba Volcano** (Hex 12-B) painted in the citadel's background.
 
     **7. Panther Den (The Obstacle)**
+
 - **Description:** Musky odor. Claw marks mar the white marble walls.
 - **Encounter:** Two **Mated
-  [Panthers](../../shadowdark-library/monsters/manual-monsters/panther.md)**
+  [Panthers](panther.md)**
   lurk in the shadows (DC 12 WIS to notice).
   - _Combat:_ They attack if approached.
   - _Alternative:_ Tossing food causes them to retreat.
@@ -239,11 +241,11 @@ obtained brass cogs
 
   ***
 
-- ### The Wheels of Heaven (Puzzles & Boons)
+### The Wheels of Heaven (Puzzles & Boons)
 
-  The central mechanic of the temple is a series of massive celestial wheels.
+The central mechanic of the temple is a series of massive celestial wheels.
 
-  **6. Star Wheels (The Objective)**
+**6. Star Wheels (The Objective)**
 
 - **Description:** Three broad, connected wheels of bright copper. Patterns of
   dots and lines mark the seasonal movement of stars. Its inscription reads:
@@ -284,30 +286,31 @@ obtained brass cogs
     might alert the Cult (The "enemies pour forth" part).
 
     ***
-- ## Conclusion
 
-  **The Mission Complete:** If the party secures the **Star Map rubbings**
-  (Area 6) and clears the threats (Panthers/Diplomacy with Treant), [[Captain Blackwood]] is
-  satisfied.
+## Conclusion
 
-  **[[Captain Blackwood]]'s Report:**
+**The Mission Complete:** If the party secures the **Star Map rubbings**
+(Area 6) and clears the threats (Panthers/Diplomacy with Treant), [[Captain Blackwood]] is
+satisfied.
 
-  > "The area is secured, Colonel. Though I must note the irregulars fraternized
-  > with a sentient bush and refused to cull the local predators. Highly
-  > unprofessional."
+**[[Captain Blackwood]]'s Report:**
 
-  **The Reward:** [[Colonel Huzzard]] grants the party the **Charter for Mivvin's
-  Rest**. They are no longer squatters; they are Lairds.
+> "The area is secured, Colonel. Though I must note the irregulars fraternized
+> with a sentient bush and refused to cull the local predators. Highly
+> unprofessional."
 
-  **Next Session:** The Star Map points to **Zuchotl** or the **Black Ziggurat**.
-  The Army prepares to move out, but the "Wooden Rabbit" back at camp has started
-  to hum...
+**The Reward:** [[Colonel Huzzard]] grants the party the **Charter for Mivvin's
+Rest**. They are no longer squatters; they are Lairds.
 
-  ***
+**Next Session:** The Star Map points to **Zuchotl** or the **Black Ziggurat**.
+The Army prepares to move out, but the [[Trojan Rabbit|"Wooden Rabbit"]] back at camp has started
+to hum...
 
-- ## Related
+---
 
-  **NPCs:**
+## Related
+
+**NPCs:**
 
 - [[Colonel Huzzard]]
 - [[Lieutenant Sterling]]
@@ -321,7 +324,7 @@ obtained brass cogs
 - [[Governor's Clearing]]
 - [[Star Map Temple]]
 - [[The Green Hell]]
-- [[Mivvin's Rest]]
+- [[Locations#Mivvin's Rest]]
 - See [[LOCATIONS]] for full index
 
   **Factions:**
@@ -333,7 +336,7 @@ obtained brass cogs
 
   **Timeline:**
 
-- [[TIMELINE]] - Days 24-45 events
+- [[Timeline]] - Days 24-45 events
 
   **Campaign Resources:**
 

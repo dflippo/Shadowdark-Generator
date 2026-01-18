@@ -1,4 +1,6 @@
-# Lady Lara Croft Johnson
+# [[Lady Johnson]]
+
+AKA [[Lady Lara Croft Johnson]]
 
 npc-type:: Patron faction:: [[League of Extraordinary Gentlemen]] status::
 Active first-appearance:: [[Session 01 - The House on Mivvin's Rest]]
@@ -73,7 +75,7 @@ Lady Johnson founded and leads this adventurer's guild. The League is:
 - Selective - members must prove themselves worthy (see
   [[Session 02 - The Proving Ground]])
 
-For current members, see [Party Roster](../../party/PARTY_ROSTER.md).
+  For current members, see [Party Roster](../../party/PARTY_ROSTER.md).
 
 ## Notes
 

@@ -8,17 +8,20 @@
 This directory contains files for each player character in the River of Night
 campaign.
 
-- ## Active Party Members
+## Active Party Members
+
 - [Doctor Googoo](Doctor Googoo.md) - Party member (class/details TBD)
-- ## Party Status
 
-  **Current Level:** 3+ (started at level 3)  
-  **League Status:** Most members inducted into League of Extraordinary Gentlemen
-  (Session 02)  
-  **Base of Operations:** Mivvin's Rest  
-  **Current Campaign Arc:** River of Night exploration
+## Party Status
 
-- ## Notable Party Achievements
+**Current Level:** 3+ (started at level 3)  
+ **League Status:** Most members inducted into League of Extraordinary Gentlemen
+(Session 02)  
+ **Base of Operations:** Mivvin's Rest  
+ **Current Campaign Arc:** River of Night exploration
+
+## Notable Party Achievements
+
 - **Session 01:** Defended against lizardfolk raiders, solved Alistair's star
   chart puzzle, cured Lady Johnson's jungle fever
 - **Session 02:** Passed The Proving Ground (most members), inducted into the
@@ -31,9 +34,10 @@ campaign.
   [[Maied]], fled from her wrath
 - **Session 07:** Exposed [[Captain Blackwood]] as traitor, received land
   charter from [[Colonel Huzzard]]
-- ## Party Relationships
 
-  **Allies:**
+## Party Relationships
+
+**Allies:**
 
 - [[Lady Johnson]] - Patron and employer
 - [[Allan Quatermain]] - Mentor (hostile to [[Doctor Googoo]])
@@ -52,9 +56,10 @@ campaign.
 
 - [[Maied]] (deceased) - Party killed her panther pets, forced confrontation
 - [[Major "Mad Jack" Ponsonby]] - Respects competence but critical
-- ## Notes
 
-  Add individual character files as needed. Each file should include:
+## Notes
+
+Add individual character files as needed. Each file should include:
 
 - Character name, class, level
 - Background and personality

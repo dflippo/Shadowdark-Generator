@@ -187,14 +187,27 @@ cython_debug/
 .cursorignore
 .cursorindexingignore
 
-# Shadowdark Library - ignore everything except INSTRUCTIONS.md
-# Approach: ignore folder contents but re-include the directories so negations work.
+# Shadowdark Library - Copyrighted Content Protection
+# We own these materials but cannot share them publicly.
+# Ignore everything except guide/instructions files.
+
+# Ignore all PDF files (copyrighted source material)
+shadowdark-library/**/*.pdf
+
+# Ignore all extracted PDF content (page_NNNN.txt and page_NNNN.png)
+shadowdark-library/**/page_*.txt
+shadowdark-library/**/page_*.png
 
 # Ignore top-level entries under shadowdark-library (files and subfolders)
 shadowdark-library/**
 
-# But keep the INSTRUCTIONS.md files in each directory
-!/shadowdark-library/**/INSTRUCTIONS.md
+# But keep the guide/instructions files in each directory
+!/shadowdark-library/**/*GUIDE.md
+!/shadowdark-library/**/*INSTRUCTIONS.md
+
+# Campaign Copyrighted Content Protection
+# Dungeon files contain copyrighted material extracted from PDFs
+campaigns/**/dungeons/
 
 # Ignore top-level entries under campaigns (files and subfolders)
 #campaigns/**

@@ -1,4 +1,4 @@
-# Martha
+# [[Martha]]
 
 #npc #mivvins-rest #cook #staff
 

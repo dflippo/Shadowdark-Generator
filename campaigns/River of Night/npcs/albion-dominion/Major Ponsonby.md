@@ -1,4 +1,6 @@
-# Major "Mad Jack" Ponsonby
+# [[Major Ponsonby]]
+
+AKA Major "Mad Jack" Ponsonby
 
 #npc #albion-dominion #military #veteran
 
