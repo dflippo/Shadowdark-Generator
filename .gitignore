@@ -207,3 +207,5 @@ shadowdark-library/**
 .vscode/**
 
 Shadowdark-Generator.code-workspace
+logseq/
+.obsidian/

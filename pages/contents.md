@@ -24,21 +24,21 @@
 
 ### Key NPCs
 
-- [[campaigns/River of Night/npcs/mivvins-rest/lady-lara-croft-johnson]]
-- [[campaigns/River of Night/npcs/mivvins-rest/allan-quatermain]]
-- [[campaigns/River of Night/npcs/albion-dominion/colonel-percival-huzzard]]
-- [[campaigns/River of Night/npcs/albion-dominion/captain-blackwood]]
-- [[campaigns/River of Night/npcs/jungle-spirits/maied]]
+- [[Lady Lara Croft Johnson]]
+- [[Allan Quatermain]]
+- [[Colonel Huzzard]]
+- [[Captain Blackwood]]
+- [[Maied]]
 
 ### Party
 
-- [[campaigns/River of Night/party/doctor-googoo]]
+- [[Doctor Googoo]]
 
 ## Shadowdark Library
 
-- [[shadowdark-library/core-rules/CORE_RULES_GUIDE]]
-- [[shadowdark-library/monsters/MONSTERS_GUIDE]]
-- [[shadowdark-library/adventures/ADVENTURES_GUIDE]]
+- [Shadowdark Rules](../shadowdark-library/core-rules/Shadowdark%20RPG%20-%20V4-8.pdf)
+- [[Shadowdark RPG - Monsters and Random Tables]]
+- [River of Night](../shadowdark-library/adventures/Cursed_Scroll_4_-_River_of_Night_-_Digital_V1-4/Cursed%20Scroll%204%20-%20River%20of%20Night%20-%20Digital%20V1-4/Cursed%20Scroll%204%20-%20River%20of%20Night%20V1-4%20(Horizontal%20Pages).pdf)
 
 ---
 

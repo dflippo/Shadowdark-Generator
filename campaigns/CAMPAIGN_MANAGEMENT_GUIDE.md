@@ -3,12 +3,12 @@
 This directory holds your campaign-specific materials: session notes, maps, NPC
 writeups, handouts, and campaign reference documents.
 
-## Current Structure (River of Night Campaign)
+- ## Current Structure (River of Night Campaign)
 
-```
-campaigns/
-├── CAMPAIGN_MANAGEMENT_GUIDE.md (this file)
-└── River of Night/
+  ```
+  campaigns/
+  ├── CAMPAIGN_MANAGEMENT_GUIDE.md (this file)
+  └── River of Night/
     ├── CAMPAIGN.md              # Main campaign bible and reference
     ├── CAMPAIGN_NOTES.md        # Running notes, todos, scratchpad
     ├── Session 01 - The House on Mivvin's Rest.md
@@ -28,9 +28,9 @@ campaigns/
         ├── basilisk-cult/   # Antagonists
         ├── jungle-spirits/  # Supernatural entities
         └── servants/        # Minor characters
-```
+  ```
 
-**Quick Links:**
+  **Quick Links:**
 
 - [CAMPAIGN.md](River%20of%20Night/CAMPAIGN.md) - Main campaign reference
 - [CAMPAIGN_NOTES.md](River%20of%20Night/CAMPAIGN_NOTES.md) - Working notes
@@ -48,9 +48,7 @@ campaigns/
 - [NPCs Directory](River%20of%20Night/npcs/NPC_DIRECTORY.md)
 - [Party Roster](River%20of%20Night/party/PARTY_ROSTER.md)
 - [Maps](River%20of%20Night/maps/MAPS_README.md)
-
-## What to Store Here
-
+- ## What to Store Here
 - **Session Notes**: Detailed session logs with atmosphere, encounters, and
   outcomes
 - **Campaign Documents**: CAMPAIGN.md (main reference), CAMPAIGN_NOTES.md
@@ -59,9 +57,7 @@ campaigns/
 - **NPC Files**: Detailed NPC documentation organized by faction/group (in npcs/
   subfolder)
 - **Tracking Files**: Initiative order, campaign state, party inventory
-
-## What NOT to Commit
-
+- ## What NOT to Commit
 - **Commercial PDFs**: Do NOT commit purchased core rules, adventures, or
   manuals
 - Use `shadowdark-library/` for local copies kept off the repo
@@ -69,74 +65,71 @@ campaigns/
 - Large binary files (use `shadowdark-library/` for extracted content instead)
   `shadowdark-library/` folder for local copies you keep off the repo, and
   ensure your `.gitignore` prevents accidentally committing copyrighted PDFs.
+- ## Linking to Library Resources
+- ### Shadowdark Library References
 
-## Linking to Library Resources
+  From campaign documents, use relative paths to reference library content:
 
-### Shadowdark Library References
+  **Core Rules:**
 
-From campaign documents, use relative paths to reference library content:
-
-**Core Rules:**
-
-```markdown
-[Core Rules Guide](../../shadowdark-library/core-rules/CORE_RULES_GUIDE.md)
-[Monsters & Tables](../../shadowdark-library/monsters/MONSTERS_AND_TABLES.md)
-```
+  ```markdown
+  [Core Rules Guide](../../shadowdark-library/core-rules/CORE_RULES_GUIDE.md)
+  [Monsters & Tables](../../shadowdark-library/monsters/MONSTERS_AND_TABLES.md)
+  ```
 
 - [Core Rules Guide](../shadowdark-library/core-rules/CORE_RULES_GUIDE.md)
 - [Monsters & Tables](../shadowdark-library/monsters/MONSTERS_AND_TABLES.md)
 - [Monsters Guide](../shadowdark-library/monsters/MONSTERS_GUIDE.md)
 
-**Monster Stat Blocks:**
+  **Monster Stat Blocks:**
 
-```markdown
-[Goblin](../../shadowdark-library/monsters/manual-monsters/goblin.md)
-[Basilisk](../../shadowdark-library/monsters/manual-monsters/basilisk.md)
-```
+  ```markdown
+  [Goblin](../../shadowdark-library/monsters/manual-monsters/goblin.md)
+  [Basilisk](../../shadowdark-library/monsters/manual-monsters/basilisk.md)
+  ```
 
 - Example: [Goblin](../shadowdark-library/monsters/manual-monsters/goblin.md) |
   [Basilisk](../shadowdark-library/monsters/manual-monsters/basilisk.md) |
   [Treant](../shadowdark-library/monsters/manual-monsters/treant.md)
 
-**Adventures:**
+  **Adventures:**
 
-```markdown
-[River of Night Adventure](../../shadowdark-library/adventures/ADVENTURES_GUIDE.md)
-```
+  ```markdown
+  [River of Night Adventure](../../shadowdark-library/adventures/ADVENTURES_GUIDE.md)
+  ```
 
 - [Adventures Guide](../shadowdark-library/adventures/ADVENTURES_GUIDE.md)
 - [Other Resources](../shadowdark-library/other/OTHER_RESOURCES_GUIDE.md)
+- ### Session Cross-References
 
-### Session Cross-References
+  Link between session files using wiki-style links (for Logseq compatibility):
 
-Link between session files using wiki-style links (for Logseq compatibility):
+  ```markdown
+  [[Session 01 - The House on Mivvin's Rest]] [[Session 02 - The Proving Ground]]
+  ```
 
-```markdown
-[[Session 01 - The House on Mivvin's Rest]] [[Session 02 - The Proving Ground]]
-```
+  Or use relative paths:
 
-Or use relative paths:
+  ```markdown
+  [Session 01](Session%2001%20-%20The%20House%20on%20Mivvin's%20Rest.md)
+  ```
 
-```markdown
-[Session 01](Session%2001%20-%20The%20House%20on%20Mivvin's%20Rest.md)
-```
+- ### NPC References
 
-### NPC References
+  Link to NPC files from sessions or campaign documents:
 
-Link to NPC files from sessions or campaign documents:
+  **Wiki-style (recommended for Logseq):**
 
-**Wiki-style (recommended for Logseq):**
+  ```markdown
+  [[Lady Lara Croft Johnson]] [[Colonel Percival Huzzard]]
+  ```
 
-```markdown
-[[Lady Lara Croft Johnson]] [[Colonel Percival Huzzard]]
-```
+  **Relative paths:**
 
-**Relative paths:**
-
-```markdown
-[Lady Johnson](npcs/mivvins-rest/lady-lara-croft-johnson.md)
-[Colonel Huzzard](npcs/albion-dominion/colonel-percival-huzzard.md)
-```
+  ```markdown
+  [Lady Johnson](npcs/mivvins-rest/lady-lara-croft-johnson.md)
+  [Colonel Huzzard](npcs/albion-dominion/colonel-percival-huzzard.md)
+  ```
 
 - Examples:
   [Lady Lara Croft Johnson](River%20of%20Night/npcs/mivvins-rest/lady-lara-croft-johnson.md)
@@ -145,11 +138,10 @@ Link to NPC files from sessions or campaign documents:
   [Colonel Huzzard](River%20of%20Night/npcs/albion-dominion/colonel-percival-huzzard.md)
   |
   [Captain Blackwood](River%20of%20Night/npcs/albion-dominion/captain-blackwood.md)
+- ## NPC Organization
 
-## NPC Organization
-
-The `npcs/` folder organizes NPCs by faction/group for easy reference during
-gameplay:
+  The `npcs/` folder organizes NPCs by faction/group for easy reference during
+  gameplay:
 
 - **mivvins-rest/**: Patron (Lady Johnson), allies (Quatermain), workers
 - **albion-dominion/**: Military characters (Colonel Huzzard, officers)
@@ -157,7 +149,7 @@ gameplay:
 - **jungle-spirits/**: Supernatural entities (Maied, Alistair's ghost)
 - **servants/**: Minor characters and witnesses
 
-Each NPC file includes:
+  Each NPC file includes:
 
 - Tags for Logseq (#npc, #faction-name, #status)
 - Role, location, current status
@@ -168,45 +160,40 @@ Each NPC file includes:
 - Roleplay quotes
 - GM notes
 
-See [npcs/NPC_DIRECTORY.md](River%20of%20Night/npcs/NPC_DIRECTORY.md) for the
-full NPC directory and relationship map.
+  See [npcs/NPC_DIRECTORY.md](River%20of%20Night/npcs/NPC_DIRECTORY.md) for the
+  full NPC directory and relationship map.
 
-## Logseq Integration
+- ## Logseq Integration
 
-This workspace is optimized for Logseq, an open-source knowledge management
-tool:
+  This workspace is optimized for Logseq, an open-source knowledge management
+  tool:
 
-**Setup:**
+  **Setup:**
+  1. Open Logseq
+  2. Click "Open existing graph"
+  3. Select the `campaigns/River of Night/` folder
 
-1. Open Logseq
-2. Click "Open existing graph"
-3. Select the `campaigns/River of Night/` folder
-
-**Features:**
+  **Features:**
 
 - **Wiki-links**: Use `[[double brackets]]` to link between files
 - **Tags**: Use `#tags` for categorization and filtering
 - **Graph View**: Visualize relationships between sessions, NPCs, and monsters
 - **Backlinks**: See all references to a character or location automatically
 
-**Recommended Tags:**
+  **Recommended Tags:**
 
 - `#session` - Session notes
 - `#npc` - Character files
 - `#location` - Places and areas
 - `#river-of-night` - Campaign identifier
 - `#active` / `#deceased` / `#imprisoned` - NPC status
-
-## Path Navigation Tips
-
+- ## Path Navigation Tips
 - `..` steps up one directory from the current folder
 - `../..` steps up two directories (e.g., from session to repo root)
 - Adjust paths based on file nesting depth
 - Use `%20` for spaces in file paths when using relative links
 - Most editors and Logseq will open relative links when previewing Markdown
-
-## Git Best Practices
-
+- ## Git Best Practices
 - **Commit session notes** after each game session
 - **Track NPC changes** when status updates occur
 - **Version campaign documents** regularly (CAMPAIGN.md, CAMPAIGN_NOTES.md)
@@ -218,29 +205,29 @@ tool:
   [[Session 01 - The House on Mivvin's Rest]]
   [[Session 02 - The Proving Ground]]
 
-````
+  ````
 
-Or use relative paths:
-```markdown
-[Session 01](Session%2001%20-%20The%20House%20on%20Mivvin's%20Rest.md)
-````
+  Or use relative paths:
+  ```markdown
+  [Session 01](Session%2001%20-%20The%20House%20on%20Mivvin's%20Rest.md)
+  ````
 
-### NPC References
+  ### NPC References
 
-Link to NPC files from sessions or campaign documents:
+  Link to NPC files from sessions or campaign documents:
 
-**Wiki-style (recommended for Logseq):**
+  **Wiki-style (recommended for Logseq):**
 
-```markdown
-[[Lady Lara Croft Johnson]] [[Colonel Percival Huzzard]]
-```
+  ```markdown
+  [[Lady Lara Croft Johnson]] [[Colonel Percival Huzzard]]
+  ```
 
-**Relative paths:**
+  **Relative paths:**
 
-```markdown
-[Lady Johnson](npcs/mivvins-rest/lady-lara-croft-johnson.md)
-[Colonel Huzzard](npcs/albion-dominion/colonel-percival-huzzard.md)
-```
+  ```markdown
+  [Lady Johnson](npcs/mivvins-rest/lady-lara-croft-johnson.md)
+  [Colonel Huzzard](npcs/albion-dominion/colonel-percival-huzzard.md)
+  ```
 
 - Examples:
   [Lady Lara Croft Johnson](River%20of%20Night/npcs/mivvins-rest/lady-lara-croft-johnson.md)
@@ -250,14 +237,14 @@ Link to NPC files from sessions or campaign documents:
   |
   [Captain Blackwood](River%20of%20Night/npcs/albion-dominion/captain-blackwood.md)
 
-Notes about relative links
+  Notes about relative links
 
 - `..` steps up one directory from the campaign folder to the repo root. Adjust
   the path if your file is nested deeper.
 - If you move files, update the links accordingly. Most editors will open
   relative links when previewing Markdown.
 
-Preserving folders in Git
+  Preserving folders in Git
 
 - Keep this repository lightweight: we track only the `INSTRUCTIONS.md` files
   inside `shadowdark-library`.
