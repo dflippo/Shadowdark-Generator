@@ -2,6 +2,9 @@
 node_modules/
 package-lock.json
 
+# Logseq automatic backups (already hidden in Logseq config)
+logseq/bak/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
