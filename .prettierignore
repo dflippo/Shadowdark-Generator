@@ -36,3 +36,6 @@ shadowdark-library/core-rules/Shadowdark*/
 
 # Package lock files (auto-generated)
 package-lock.json
+
+# Logseq pages with long markdown links (Logseq requires single-line links)
+pages/contents.md

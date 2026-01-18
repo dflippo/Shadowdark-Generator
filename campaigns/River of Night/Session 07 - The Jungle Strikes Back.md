@@ -11,8 +11,7 @@ killed in combat
 #session #river-of-night #session-07 #investigation #mystery #boss-fight #combat
 #betrayal #albion-dominion-arc #jungle-spirits-arc
 
-> **Campaign:** [[CAMPAIGN]] | **Notes:** [[CAMPAIGN_NOTES]] | **Previous:**
-> [[Session 06 - The Albion Dominion]]
+> **Campaign:** [[CAMPAIGN]] | **Notes:** [[CAMPAIGN_NOTES]] | **Previous:** [[Session 06 - The Albion Dominion]]
 
 ## Introduction for the Game Master
 
@@ -528,19 +527,19 @@ annoying, he can be annoying in the front lines."
 - [[Governor's Clearing]]
 - [[Star Map Temple]]
 - [[Mivvin's Rest]]
-- See [[LOCATIONS.md]] for full location index
+- See [[LOCATIONS]] for full location index
 
 **Factions:**
 
 - [[Albion Dominion]]
 - [[Jungle Spirits]]
 - [[League of Extraordinary Gentlemen]]
-- See [[FACTIONS.md]] for faction details
+- See [[FACTIONS]] for faction details
 
 **Campaign Resources:**
 
-- [[TIMELINE.md]] - Full campaign chronology
-- [[CAMPAIGN.md]] - Campaign overview
-- [[CAMPAIGN_NOTES.md]] - Session summaries
-- [[NPC_DIRECTORY.md]] - All NPCs
-- [[PARTY_ROSTER.md]] - Party members
+- [[TIMELINE]] - Full campaign chronology
+- [[CAMPAIGN]] - Campaign overview
+- [[CAMPAIGN_NOTES]] - Session summaries
+- [[npcs/NPC_DIRECTORY]] - All NPCs
+- [[party/PARTY_ROSTER]] - Party members

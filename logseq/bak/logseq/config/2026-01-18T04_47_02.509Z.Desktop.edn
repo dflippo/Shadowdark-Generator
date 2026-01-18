@@ -82,11 +82,11 @@
 
  ;; Enable flashcards.
  ;; Default value: true
- :feature/enable-flashcards? false
+ ;; :feature/enable-flashcards? true
 
  ;; Enable whiteboards.
  ;; Default value: true
- :feature/enable-whiteboards? false
+ ;; :feature/enable-whiteboards? true
 
  ;; Disable the journal's built-in 'Scheduled tasks and deadlines' query.
  ;; Default value: false
@@ -225,7 +225,7 @@
  ;; The "NEXT" query returns tasks with "NOW", "LATER", or "TODO" status.
  :default-queries
  {:journals
-  [{:title "⚔️ SESSION PREP"
+  [{:title "🔨 NOW"
     :query [:find (pull ?h [*])
             :in $ ?start ?today
             :where
@@ -242,7 +242,7 @@
                                    (get h :block/priority "Z")) result))
     :group-by-page? false
     :collapsed? false}
-   {:title "🗺️ CAMPAIGN TASKS"
+   {:title "📅 NEXT"
     :query [:find (pull ?h [*])
             :in $ ?start ?next
             :where
@@ -255,16 +255,7 @@
             [(< ?d ?next)]]
     :inputs [:today :7d-after]
     :group-by-page? false
-    :collapsed? false}
-   {:title "🎭 PLOT HOOKS"
-    :query [:find (pull ?b [*])
-            :where
-            [?b :block/marker ?marker]
-            [(contains? #{"LATER"} ?marker)]
-            (or [?b :block/refs ?r]
-                [?b :block/path-refs ?r])
-            [?r :block/name "plot-hooks"]]
-    :collapsed? true}]}
+    :collapsed? false}]}
 
  ;; Add custom commands to the command palette
  ;; Example usage:
@@ -291,15 +282,7 @@
  ;; input "{{poem red,blue}}"
  ;; becomes
  ;; Rose is red, violet's blue. Life's ordered: Org assists you.
- :macros {"hp" "**HP:** $1"
-          "ac" "**AC:** $1"
-          "atk" "**ATK:** $1"
-          "mv" "**MV:** $1"
-          "d20" "🎲 d20"
-          "d6" "🎲 d6"
-          "statblock" "**$1**\n**HP:** $2 | **AC:** $3 | **ATK:** $4 | **MV:** $5\n$6"
-          "npc" "**$1**\n*$2*\n$3"
-          "location" "📍 **$1**\n$2"}
+ :macros {}
 
  ;; Configure the default expansion level for linked references.
  ;; For example, consider the following block hierarchy:
@@ -315,7 +298,7 @@
 
  ;; Configure the threshold for linked references before collapsing.
  ;; Default value: 100
- :ref/linked-references-collapsed-threshold 100
+ :ref/linked-references-collapsed-threshold 50
 
  ;; Graph view configuration.
  ;; Example usage:
@@ -335,19 +318,10 @@
  ;; Favorites to list on the left sidebar
  :favorites ["Contents" 
              "campaigns/River of Night/CAMPAIGN" 
-             "campaigns/River of Night/CAMPAIGN_NOTES"
              "campaigns/River of Night/TIMELINE"
              "campaigns/River of Night/FACTIONS"
-             "campaigns/River of Night/LOCATIONS"
-             "campaigns/River of Night/Session 01 - The House on Mivvin's Rest"
-             "campaigns/River of Night/Session 02 - The Proving Ground"
-             "campaigns/River of Night/Session 03 - Teeth in the Night"
-             "campaigns/River of Night/Session 04 - The Serpent's Eye"
-             "campaigns/River of Night/Session 05 - The Burden of Beasts"
-             "campaigns/River of Night/Session 06 - The Albion Dominion"
-             "campaigns/River of Night/Session 07 - The Jungle Strikes Back"
-             "campaigns/River of Night/npcs/NPC_DIRECTORY"
-             "campaigns/River of Night/party/PARTY_ROSTER"]
+             "campaigns/River of Night/NPC_DIRECTORY"
+             "campaigns/River of Night/PARTY_ROSTER"]
 
  ;; Set flashcards interval.
  ;; Expected value:
@@ -363,7 +337,6 @@
  ;; Hide specific block properties.
  ;; Example usage:
  ;; :block-hidden-properties #{:public :icon}
- :block-hidden-properties #{:id :public :icon}
 
  ;; Create a page for all properties.
  ;; Default value: true
@@ -377,7 +350,6 @@
  ;; page references. You can add properties to enable it.
  ;; Example usage:
  ;; :property/separated-by-commas #{:alias :tags}
- :property/separated-by-commas #{:alias :tags :factions :locations :npcs :party}
 
  ;; Properties that are ignored when parsing property values for references
  ;; Example usage:
