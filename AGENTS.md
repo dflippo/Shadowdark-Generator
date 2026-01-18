@@ -12,7 +12,7 @@ and understand where resources are located.
   power the agent's capabilities in this workspace.
 - **campaigns/**: The directory where all campaign-specific notes, session logs,
   and tracking documents are stored.
-  - **INSTRUCTIONS.md**: Instructions for managing campaigns.
+  - **CAMPAIGN_MANAGEMENT_GUIDE.md**: Instructions for managing campaigns.
   - **River of Night/** (Example Campaign Folder):
     - **CAMPAIGN.md**: The main campaign bible and reference document.
     - **CAMPAIGN_NOTES.md**: Running notes, todos, and scratchpad for the
@@ -26,16 +26,16 @@ and understand where resources are located.
   - **adventures/**: Pre-written adventures and modules.
     - **Cursed Scroll 4 - River of Night V1-2 (horizontal pages).pdf**:
       Adventure PDF.
-    - **INSTRUCTIONS.md**: Usage instructions.
+    - **ADVENTURES_GUIDE.md**: Usage instructions.
   - **core-rules/**: Core rulebooks and supplements.
     - **Shadowdark RPG - V4-8.pdf**: The core rulebook PDF.
-    - **INSTRUCTIONS.md**: Usage instructions.
+    - **CORE_RULES_GUIDE.md**: Usage instructions.
   - **monsters/**: Monster statistics and lore.
     - **MONSTERS_AND_TABLES.md**: Comprehensive markdown of monster stats and
       tables.
-    - **INSTRUCTIONS.md**: Usage instructions.
+    - **MONSTERS_GUIDE.md**: Usage instructions.
   - **other/**: Miscellaneous resources.
-    - **INSTRUCTIONS.md**: Usage instructions.
+    - **OTHER_RESOURCES_GUIDE.md**: Usage instructions.
 - **AGENT.md**: The primary documentation file for the agent, listing available
   skills and how to use them.
 - **AGENTS.md**: Additional documentation regarding agent rules and skills.
