@@ -1,23 +1,32 @@
 # River of Night Campaign Reference
 
-> **Note**: This file contains campaign-specific details for the River of Night adventure.
-> To use this skill for your own campaign, replace the contents of this file with your own campaign information.
-> The SKILL.md file will automatically reference this CAMPAIGN.md file when generating sessions.
+> **Note**: This file contains campaign-specific details for the River of Night
+> adventure. To use this skill for your own campaign, replace the contents of
+> this file with your own campaign information. The SKILL.md file will
+> automatically reference this CAMPAIGN.md file when generating sessions.
 
-This document contains campaign-specific information for the River of Night adventure. Reference this when creating sessions for this specific campaign.
+This document contains campaign-specific information for the River of Night
+adventure. Reference this when creating sessions for this specific campaign.
 
 ## Campaign Overview
 
 **Module Base**: Shadowdark Cursed Scroll 4 - River of Night  
-**Style**: West Marches style game - players return to Lady Johnson's mansion between adventures  
-**Tone**: Mix of horror and adventure, like Tomb Raider movies but with monsters  
-**Player Level**: Starting at level 3
-**Technology**: No firearms. Crossbows and bows only.
+**Style**: West Marches style game - players return to Lady Johnson's mansion
+between adventures  
+**Tone**: Mix of horror and adventure, like Tomb Raider movies but with
+monsters  
+**Player Level**: Starting at level 3 **Technology**: No firearms. Crossbows and
+bows only.
 
 ## Source Materials
 
-- **Shadowdark Core Rules**: Guide for monsters and atmosphere (see [../shadowdark_docs/Shadowdark RPG - V4-8.pdf](../shadowdark_docs/Shadowdark RPG - V4-8.pdf))
-- **Shadowdark Cursed Scroll 4 - River of Night**: Dungeons and plot material, hex locations, encounters (see [Cursed Scroll 4 - River of Night V1-2 (horizontal pages).pdf](Cursed Scroll 4 - River of Night V1-2 (horizontal pages).pdf) in this folder)
+- **Shadowdark Core Rules**: Guide for monsters and atmosphere (see
+  [../shadowdark_docs/Shadowdark RPG - V4-8.pdf](../shadowdark_docs/Shadowdark
+  RPG - V4-8.pdf))
+- **Shadowdark Cursed Scroll 4 - River of Night**: Dungeons and plot material,
+  hex locations, encounters (see [Cursed Scroll 4 - River of Night V1-2
+  (horizontal pages).pdf](Cursed Scroll 4 - River of Night V1-2 (horizontal
+  pages).pdf) in this folder)
 
 ## Key Setting Details
 
@@ -60,7 +69,9 @@ This is a **West Marches style campaign**:
 - Values competence and bravery
 - Has extensive knowledge of local ruins and artifacts
 
-**Organization**: Leader of the League of Extraordinary Gentlemen - an adventurer's guild where people come from far and wide to hunt in the jungle and search for treasure
+**Organization**: Leader of the League of Extraordinary Gentlemen - an
+adventurer's guild where people come from far and wide to hunt in the jungle and
+search for treasure
 
 ### Allan Quatermain
 
@@ -69,7 +80,8 @@ This is a **West Marches style campaign**:
 
 - Professional big game hunter
 - Occasional trader in the southern jungle
-- Supported colonial efforts while favoring indigenous peoples having a say in their affairs
+- Supported colonial efforts while favoring indigenous peoples having a say in
+  their affairs
 - Quintessential imperial outdoorsman
 
 **Personality**:
@@ -80,13 +92,21 @@ This is a **West Marches style campaign**:
 - Tests newcomers to ensure they can survive
 - Weathered appearance, speaks tersely but wisely
 
-**Knowledge**: Expert on jungle dangers, native customs, wildlife, and survival techniques
+**Knowledge**: Expert on jungle dangers, native customs, wildlife, and survival
+techniques
 
-**Equipment**: Wields a powerful magic double heavy crossbow (twin-stringed, twin-track). Treat as a heavy crossbow for proficiency. It can hold and fire two bolts before reloading. Firing options:
+**Equipment**: Wields a powerful magic double heavy crossbow (twin-stringed,
+twin-track). Treat as a heavy crossbow for proficiency. It can hold and fire two
+bolts before reloading. Firing options:
 
-- Single Target (Both Bolts): Roll two attack rolls, choose the better (advantage), then roll damage once (apply any magic bonus). Counts as firing both tracks.
-- Split Fire (Two Targets): Make separate attack rolls and damage rolls for each bolt.
-  Reloading both tracks requires 2 full rounds (or 1 round to reload a single track). The arcane reinforcement bands cause the first non-magical attempt to sunder/break it each session to automatically fail. Counts as magical for overcoming resistances.
+- Single Target (Both Bolts): Roll two attack rolls, choose the better
+  (advantage), then roll damage once (apply any magic bonus). Counts as firing
+  both tracks.
+- Split Fire (Two Targets): Make separate attack rolls and damage rolls for each
+  bolt. Reloading both tracks requires 2 full rounds (or 1 round to reload a
+  single track). The arcane reinforcement bands cause the first non-magical
+  attempt to sunder/break it each session to automatically fail. Counts as
+  magical for overcoming resistances.
 
 ### The Ghost of Johnson's Uncle
 
@@ -171,13 +191,18 @@ Use plot elements and characters from League of Extraordinary Gentlemen stories:
 
 When creating sessions for this campaign:
 
-1. **Always reference previous sessions**: Players have ongoing relationships with NPCs
-2. **Use the mansion as bookends**: Sessions typically start and end at the mansion
+1. **Always reference previous sessions**: Players have ongoing relationships
+   with NPCs
+2. **Use the mansion as bookends**: Sessions typically start and end at the
+   mansion
 3. **Integrate League NPCs**: Can introduce famous adventurers as needed
-4. **Build on established threats**: The Basilisk Cult, jungle dangers, ancient ruins
-5. **Reward exploration**: Hidden locations, lost artifacts, valuable discoveries
+4. **Build on established threats**: The Basilisk Cult, jungle dangers, ancient
+   ruins
+5. **Reward exploration**: Hidden locations, lost artifacts, valuable
+   discoveries
 6. **Maintain West Marches style**: Players choose where to explore next
-7. **Balance horror and adventure**: Deadly dangers but also thrilling discoveries
+7. **Balance horror and adventure**: Deadly dangers but also thrilling
+   discoveries
 
 ### First Session Summary (for reference)
 
@@ -190,12 +215,15 @@ The first session should include:
 - Finding the regional map
 - Unexpected safe area with magical healing for rest
 
-**Important**: Players fought vampires previously, so avoid vampire encounters early on but introduce them again later.
+**Important**: Players fought vampires previously, so avoid vampire encounters
+early on but introduce them again later.
 
 ## Hex Locations of Note
 
-**Hex 603**: Gorilla Statue - magical statue that transforms fruit into potions, guarded by apes  
-**Hex 104**: Dig Site A - slaughtered archaeological camp, Basilisk Cult attack site  
+**Hex 603**: Gorilla Statue - magical statue that transforms fruit into potions,
+guarded by apes  
+**Hex 104**: Dig Site A - slaughtered archaeological camp, Basilisk Cult attack
+site  
 **Hex 706**: Basilisk Cult Temple - home of the Stone Warriors
 
 (Reference Cursed Scroll 4 - River of Night for complete hex details)
