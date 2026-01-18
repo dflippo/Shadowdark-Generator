@@ -266,22 +266,22 @@ Quatermain's full force.
 
 - [[The Serpent's Eye]]
 - [[Mivvin's Rest]]
-- See [[LOCATIONS.md]] for full index
+- See [[LOCATIONS]] for full index
 
 **Factions:**
 
 - [[Basilisk Cult]]
 - [[League of Extraordinary Gentlemen]]
-- See [[FACTIONS.md]] for details
+- See [[FACTIONS]] for details
 
 **Timeline:**
 
-- [[TIMELINE.md]] - Day 12 events
+- [[TIMELINE]] - Day 12 events
 
 **Campaign Resources:**
 
-- [[CAMPAIGN.md]] - Campaign overview
-- [[CAMPAIGN_NOTES.md]] - Session summaries
+- [[CAMPAIGN]] - Campaign overview
+- [[CAMPAIGN_NOTES]] - Session summaries
 
 **Sessions:**
 

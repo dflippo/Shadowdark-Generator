@@ -13,7 +13,7 @@
 ## Session 1: The House on Mivvin's Rest
 
 **Full Session Notes**: [[Session 01 - The House on Mivvin's Rest]]  
-**Journal Entry**: [[../../journals/2025_11_30]]
+**Journal Entry**: [[journals/2025_11_30]]
 
 **What Actually Happened:**
 
@@ -30,7 +30,7 @@ fever. They received everything in The Reward section.
 ## Session 2: The Proving Ground
 
 **Full Session Notes**: [[Session 02 - The Proving Ground]]  
-**Journal Entry**: [[../../journals/2025_12_07]]
+**Journal Entry**: [[journals/2025_12_07]]
 
 **What Actually Happened:**
 
@@ -45,7 +45,7 @@ to help the other player characters survive the jungle.
 ## Session 3: Teeth in the Night
 
 **Full Session Notes**: [[Session 03 - Teeth in the Night]]  
-**Journal Entry**: [[../../journals/2025_12_14]]
+**Journal Entry**: [[journals/2025_12_14]]
 
 **What Actually Happened:**
 
@@ -70,7 +70,7 @@ Sir Robin from Monty Python and the Holy Grail).
 ## Session 4: The Serpent's Eye
 
 **Full Session Notes**: [[Session 04 - The Serpent's Eye]]  
-**Journal Entry**: [[../../journals/2025_12_21]]
+**Journal Entry**: [[journals/2025_12_21]]
 
 **What Actually Happened:**
 
@@ -93,7 +93,7 @@ all-out attack to wipe out Mivvin's Rest.
 ## Session 5: The Burden of Beasts
 
 **Full Session Notes**: [[Session 05 - The Burden of Beasts]]  
-**Journal Entry**: [[../../journals/2025_12_28]]
+**Journal Entry**: [[journals/2025_12_28]]
 
 **What Actually Happened:**
 
@@ -110,7 +110,7 @@ taken by the Herald, who then misty stepped away with it.
 ## Session 6: The Albion Dominion
 
 **Full Session Notes**: [[Session 06 - The Albion Dominion]]  
-**Journal Entry**: [[../../journals/2026_01_11]]
+**Journal Entry**: [[journals/2026_01_11]]
 
 **What Actually Happened:**
 
@@ -127,7 +127,7 @@ party was forced to flee. They ultimately decided not to kill the
 ## Session 7: The Jungle Strikes Back
 
 **Full Session Notes**: [[Session 07 - The Jungle Strikes Back]]  
-**Journal Entry**: [[../../journals/2026_01_18]]
+**Journal Entry**: [[journals/2026_01_18]]
 
 **What Actually Happened:**
 

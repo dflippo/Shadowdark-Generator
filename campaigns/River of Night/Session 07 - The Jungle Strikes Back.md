@@ -532,5 +532,5 @@ killed in combat
 - [[TIMELINE]] - Full campaign chronology
 - [[CAMPAIGN]] - Campaign overview
 - [[CAMPAIGN_NOTES]] - Session summaries
-- [[npcs/NPC_DIRECTORY]] - All NPCs
-- [[party/PARTY_ROSTER]] - Party members
+- [[NPC_DIRECTORY]] - All NPCs
+- [[PARTY_ROSTER]] - Party members

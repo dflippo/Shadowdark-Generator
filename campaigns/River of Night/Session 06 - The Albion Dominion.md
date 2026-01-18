@@ -329,23 +329,23 @@ to hum...
 - [[Star Map Temple]]
 - [[The Green Hell]]
 - [[Mivvin's Rest]]
-- See [[LOCATIONS.md]] for full index
+- See [[LOCATIONS]] for full index
 
 **Factions:**
 
 - [[Albion Dominion]]
 - [[Jungle Spirits]]
 - [[League of Extraordinary Gentlemen]]
-- See [[FACTIONS.md]] for details
+- See [[FACTIONS]] for details
 
 **Timeline:**
 
-- [[TIMELINE.md]] - Days 24-45 events
+- [[TIMELINE]] - Days 24-45 events
 
 **Campaign Resources:**
 
-- [[CAMPAIGN.md]] - Campaign overview
-- [[CAMPAIGN_NOTES.md]] - Session summaries
+- [[CAMPAIGN]] - Campaign overview
+- [[CAMPAIGN_NOTES]] - Session summaries
 
 **Sessions:**
 

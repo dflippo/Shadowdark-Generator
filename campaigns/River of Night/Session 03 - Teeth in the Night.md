@@ -388,22 +388,22 @@ and strike back before they can mount another assault.
 
 - [[Mivvin's Rest]]
 - [[The Serpent's Eye]] (discovered)
-- See [[LOCATIONS.md]] for full index
+- See [[LOCATIONS]] for full index
 
 **Factions:**
 
 - [[Basilisk Cult]]
 - [[League of Extraordinary Gentlemen]]
-- See [[FACTIONS.md]] for details
+- See [[FACTIONS]] for details
 
 **Timeline:**
 
-- [[TIMELINE.md]] - Day 10 events
+- [[TIMELINE]] - Day 10 events
 
 **Campaign Resources:**
 
-- [[CAMPAIGN.md]] - Campaign overview
-- [[CAMPAIGN_NOTES.md]] - Session summaries
+- [[CAMPAIGN]] - Campaign overview
+- [[CAMPAIGN_NOTES]] - Session summaries
 
 **Sessions:**
 

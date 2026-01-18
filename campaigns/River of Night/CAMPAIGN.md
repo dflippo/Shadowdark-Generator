@@ -240,12 +240,12 @@ Track between sessions:
 
 **Campaign Organization:**
 
-- [[CAMPAIGN_NOTES.md]] - Session summaries and planning
-- [[TIMELINE.md]] - Complete chronology (Day 1 to present)
-- [[LOCATIONS.md]] - All discovered locations
-- [[FACTIONS.md]] - Faction relationships and status
-- [[NPC_DIRECTORY.md]] - Complete NPC roster by faction
-- [[PARTY_ROSTER.md]] - Party members and status
+- [[CAMPAIGN_NOTES]] - Session summaries and planning
+- [[TIMELINE]] - Complete chronology (Day 1 to present)
+- [[LOCATIONS]] - All discovered locations
+- [[FACTIONS]] - Faction relationships and status
+- [[NPC_DIRECTORY]] - Complete NPC roster by faction
+- [[PARTY_ROSTER]] - Party members and status
 
 **Session Files:**
 

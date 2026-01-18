@@ -221,21 +221,21 @@ stage for the rest of the campaign.
 
 - [[Mivvin's Rest]]
 - [[The House on Mivvin's Rest]]
-- See [[LOCATIONS.md]] for full index
+- See [[LOCATIONS]] for full index
 
 **Factions:**
 
 - [[League of Extraordinary Gentlemen]]
-- See [[FACTIONS.md]] for details
+- See [[FACTIONS]] for details
 
 **Timeline:**
 
-- [[TIMELINE.md]] - Day 1 events
+- [[TIMELINE]] - Day 1 events
 
 **Campaign Resources:**
 
-- [[CAMPAIGN.md]] - Campaign overview
-- [[CAMPAIGN_NOTES.md]] - Session summaries
+- [[CAMPAIGN]] - Campaign overview
+- [[CAMPAIGN_NOTES]] - Session summaries
 
 **Next Session:**
 

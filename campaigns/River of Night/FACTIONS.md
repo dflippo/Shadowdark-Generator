@@ -209,7 +209,7 @@ Unknown - party killed a major guardian, consequences TBD
 
 ## Related
 
-- [[LOCATIONS.md]] - Faction territories and bases
-- [[TIMELINE.md]] - Chronological faction events
-- [[NPC_DIRECTORY.md]] - NPCs organized by faction
-- [[CAMPAIGN.md]] - Campaign overview and faction summaries
+- [[LOCATIONS]] - Faction territories and bases
+- [[TIMELINE]] - Chronological faction events
+- [[NPC_DIRECTORY]] - NPCs organized by faction
+- [[CAMPAIGN]] - Campaign overview and faction summaries

@@ -262,22 +262,22 @@ Cult from the temple at hex 706, who want their egg back.
 - [[The Proving Ground]]
 - [[The Green Hell]]
 - [[Mivvin's Rest]]
-- See [[LOCATIONS.md]] for full index
+- See [[LOCATIONS]] for full index
 
 **Factions:**
 
 - [[League of Extraordinary Gentlemen]]
 - [[Basilisk Cult]] (first evidence)
-- See [[FACTIONS.md]] for details
+- See [[FACTIONS]] for details
 
 **Timeline:**
 
-- [[TIMELINE.md]] - Day 8 events
+- [[TIMELINE]] - Day 8 events
 
 **Campaign Resources:**
 
-- [[CAMPAIGN.md]] - Campaign overview
-- [[CAMPAIGN_NOTES.md]] - Session summaries
+- [[CAMPAIGN]] - Campaign overview
+- [[CAMPAIGN_NOTES]] - Session summaries
 
 **Sessions:**
 

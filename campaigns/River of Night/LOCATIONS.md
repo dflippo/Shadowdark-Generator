@@ -120,7 +120,7 @@ campaign.
 
 ## Related
 
-- [[FACTIONS.md]] - Faction control of locations
-- [[TIMELINE.md]] - Chronological location discoveries
-- [[NPC_DIRECTORY.md]] - NPCs by location
-- [[CAMPAIGN.md]] - Campaign overview
+- [[FACTIONS]] - Faction control of locations
+- [[TIMELINE]] - Chronological location discoveries
+- [[NPC_DIRECTORY]] - NPCs by location
+- [[CAMPAIGN]] - Campaign overview

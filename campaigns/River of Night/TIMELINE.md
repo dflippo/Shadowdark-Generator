@@ -298,8 +298,8 @@ treason
 
 ## Related
 
-- [[LOCATIONS.md]] - Location discovery timeline
-- [[FACTIONS.md]] - Faction emergence and conflicts
-- [[NPC_DIRECTORY.md]] - NPC introductions by session
-- [[CAMPAIGN.md]] - Campaign overview
-- [[CAMPAIGN_NOTES.md]] - Session summaries and planning
+- [[LOCATIONS]] - Location discovery timeline
+- [[FACTIONS]] - Faction emergence and conflicts
+- [[NPC_DIRECTORY]] - NPC introductions by session
+- [[CAMPAIGN]] - Campaign overview
+- [[CAMPAIGN_NOTES]] - Session summaries and planning
