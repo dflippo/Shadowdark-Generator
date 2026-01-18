@@ -184,10 +184,10 @@ cython_debug/
 # Approach: ignore folder contents but re-include the directories so negations work.
 
 # Ignore top-level entries under shadowdark-library (files and subfolders)
-#shadowdark-library/**
+shadowdark-library/**
 
 # But keep the INSTRUCTIONS.md files in each directory
-#!/shadowdark-library/**/INSTRUCTIONS.md
+!/shadowdark-library/**/INSTRUCTIONS.md
 
 # Ignore top-level entries under campaigns (files and subfolders)
 #campaigns/**
@@ -197,3 +197,6 @@ cython_debug/
 
 # Allow River of Night campaign
 #!/campaigns/River of Night/**
+.vscode/**
+
+Shadowdark-Generator.code-workspace
