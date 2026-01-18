@@ -8,8 +8,7 @@
 
 ## Description
 
-Leader of the Basilisk Cult's religious ceremonies. Presides over horrific
-sacrifices to the "Stone God."
+Leader of the Basilisk Cult's religious ceremonies. Presides over horrific sacrifices to the "Stone God."
 
 ## Appearance
 
@@ -27,8 +26,7 @@ sacrifices to the "Stone God."
 
 ## Key Events
 
-**Session 04 - The Ceremony:** Forced a cultist father to choose which of his
-two children (ages 8 and 10) to:
+**Session 04 - The Ceremony:** Forced a cultist father to choose which of his two children (ages 8 and 10) to:
 
 - Push into a pit (to basilisk or lava)
 - Give to the cult as an acolyte
@@ -45,9 +43,6 @@ two children (ages 8 and 10) to:
 
 ## Notes
 
-Represents the cult's religious fanaticism. The party witnessed her ceremony but
-could not intervene due to the lava moat and overwhelming numbers. Her location
-and fate remain unknown - a potential future antagonist.
+Represents the cult's religious fanaticism. The party witnessed her ceremony but could not intervene due to the lava moat and overwhelming numbers. Her location and fate remain unknown - a potential future antagonist.
 
-**For GM:** Consider giving her a name and developing her backstory if she
-becomes a recurring villain.
+**For GM:** Consider giving her a name and developing her backstory if she becomes a recurring villain.

@@ -4,8 +4,7 @@ index-type:: Locations campaign:: [[River of Night]] status:: Active
 
 #index #locations #river-of-night
 
-This index tracks all significant locations discovered in the River of Night
-campaign.
+This index tracks all significant locations discovered in the River of Night campaign.
 
 ---
 
@@ -19,8 +18,7 @@ campaign.
 - **Owner:** [[Lady Johnson]]
 - **Notable Features:** Main house, servants' quarters, gardens, defensive walls
 - **Factions:** [[League of Extraordinary Gentlemen]], [[Albion Dominion]]
-- **Sessions:** 01, 03, 05, 06, 07
-  #location #safe-haven #plantation #mivvins-rest
+- **Sessions:** 01, 03, 05, 06, 07 #location #safe-haven #plantation #mivvins-rest
 
 ### [[Governor's Clearing]]
 
@@ -29,8 +27,7 @@ campaign.
 - **First Appearance:** [[Session 06 - The Albion Dominion]]
 - **Commander:** [[Colonel Huzzard]]
 - **Purpose:** Colonial administration, military base
-- **Sessions:** 06, 07
-  #location #safe-haven #military #albion-dominion
+- **Sessions:** 06, 07 #location #safe-haven #military #albion-dominion
   ***
 
 ## Dungeons & Temples
@@ -43,8 +40,7 @@ campaign.
 - **Creator:** [[Alistair Johnson]] (deceased)
 - **Challenges:** Mirror room, dining hall puzzles, candelabra solutions
 - **Rewards:** 2000 GP, Knowledge of [[The Serpent's Eye]]
-- **Sessions:** 01
-  #location #dungeon #puzzle #cleared #haunted-house
+- **Sessions:** 01 #location #dungeon #puzzle #cleared #haunted-house
 
 ### [[The Serpent's Eye]]
 
@@ -88,8 +84,7 @@ campaign.
 - **Features:** Ancient warriors cursed to unlife, peaceful ant family, lichen forest
 - **Notable Treasure:** [[Eye of Ejami]] (garnet that grants see invisible & sense undead), 500 gp, blue pearl
 - **Factions:** Giant ants vs. mushroomfolk conflict, undead guardians
-- **Details:** [[dungeons/Army Ants|Full Dungeon Details]]
-  #location #dungeon #tomb #undead #unexplored #pale-queen
+- **Details:** [[dungeons/Army Ants|Full Dungeon Details]] #location #dungeon #tomb #undead #unexplored #pale-queen
 
 ### [[Black Ziggurat]]
 
@@ -103,8 +98,7 @@ campaign.
 - **Warning:** The Nexus transformation is irreversible except by divine intervention
 - **Connection:** [[Shune the Vile]] interfered here (creating [[Obe-Ixx]])
 - **Eclipse Connection:** One of three obsidian temples that release void beings during eclipses
-- **Details:** [[dungeons/Black Ziggurat|Full Dungeon Details]]
-  #location #dungeon #temple #void-beings #unexplored #dangerous #eclipse
+- **Details:** [[dungeons/Black Ziggurat|Full Dungeon Details]] #location #dungeon #temple #void-beings #unexplored #dangerous #eclipse
 
 ### [[Chanichu]]
 
@@ -117,8 +111,7 @@ campaign.
 - **Notable Treasure:** Skandrill eggs (100 gp each), precious metal chains (d100 gp each), gold bricks, rubies
 - **Connection:** Lava flows to [[The Confluence]] (Hex 1309) where it meets the Black River
 - **NPCs:** Dmitri conducting dangerous scientific experiment in skandrill costume
-- **Details:** [[dungeons/Chanichu|Full Dungeon Details]]
-  #location #dungeon #volcano #wilderness #unexplored #treasure
+- **Details:** [[dungeons/Chanichu|Full Dungeon Details]] #location #dungeon #volcano #wilderness #unexplored #treasure
 
 ### [[Eclipse Dial]]
 
@@ -135,8 +128,7 @@ campaign.
 - **Connection:** [[Lord Hedron]] recruits adventurers to explore for [[Obe-Ixx]]
 - **Opposition:** Village of [[Bibolga]] (Hex 1302) guards against intruders
 - **Eclipse Connection:** One of three obsidian temples (with [[The Black Seed]] and [[Black Ziggurat]])
-- **Details:** [[dungeons/Eclipse Dial|Full Dungeon Details]]
-  #location #dungeon #temple #void-beings #unexplored #apocalyptic #eclipse
+- **Details:** [[dungeons/Eclipse Dial|Full Dungeon Details]] #location #dungeon #temple #void-beings #unexplored #apocalyptic #eclipse
 
 ### [[Flooded Ruins]]
 
@@ -152,8 +144,7 @@ campaign.
 - **Reputation:** Locals of [[Tiwara]] (Hex 716) view as accursed, haunted by lost explorers
 - **Architecture:** Foreign to Itzalca design, predates or originates from different culture
 - **Key Required:** Arm wearing [[Rokara]]'s gold armband (Hex 812) opens tower door
-- **Details:** [[dungeons/Flooded Ruins|Full Dungeon Details]]
-  #location #dungeon #temple #shune #unexplored #haunted #cursed
+- **Details:** [[dungeons/Flooded Ruins|Full Dungeon Details]] #location #dungeon #temple #shune #unexplored #haunted #cursed
 
 ### [[The Black Seed]]
 
@@ -173,8 +164,7 @@ campaign.
 - **Treasure:** Void Junk table (includes Kytherian Cog, Obsidian Witchknife, magic items)
 - **Warning:** MAXIMUM DANGER - 84 void beings, catastrophic if activation sequence triggered
 - **Eclipse Connection:** One of three obsidian temples (with [[Eclipse Dial]] and [[Black Ziggurat]])
-- **Details:** [[dungeons/The Black Seed|Full Dungeon Details]]
-  #location #dungeon #temple #void-beings #unexplored #apocalyptic #eclipse
+- **Details:** [[dungeons/The Black Seed|Full Dungeon Details]] #location #dungeon #temple #void-beings #unexplored #apocalyptic #eclipse
 
 ### [[The Lost City of Zuchotl|Zuchotl]]
 
@@ -208,8 +198,7 @@ campaign.
 - **Associated NPCs:** [[Alistair Johnson]] (had maps/knowledge), [[Colonel Huzzard]]
 - **Factions:** Criminal outcasts, tribal groups (details unknown)
 - **Dangers:** Tribal warfare, ancient traps, lost magic, structural decay
-- **Sessions:** 06 (mentioned), 07 (expedition planned)
-  #location #dungeon #lost-city #itzalca #ruins #zuchotl #pale-queen
+- **Sessions:** 06 (mentioned), 07 (expedition planned) #location #dungeon #lost-city #itzalca #ruins #zuchotl #pale-queen
   ***
 
 ## Wilderness & Regions
@@ -259,8 +248,7 @@ campaign.
 - **Threats:** Jungle beasts, hostile plants, [[Jungle Spirits]]
 - **Notable Events:** [[The Proving Ground]] trial, [[Maied]] encounters
 - **Sessions:** 02, 06, 07
-- **Hex Maps:** [West Region](maps/hexmap_black_river_west.jpeg) | [East Region](maps/hexmap_black_river_east.jpeg)
-  #location #wilderness #jungle #dangerous #green-hell
+- **Hex Maps:** [West Region](maps/hexmap_black_river_west.jpeg) | [East Region](maps/hexmap_black_river_east.jpeg) #location #wilderness #jungle #dangerous #green-hell
 
 ### [[The Black River]]
 
@@ -269,8 +257,7 @@ campaign.
 - **First Appearance:** Campaign Background
 - **Significance:** Main waterway, campaign namesake
 - **Sessions:** Referenced throughout
-- **Hex Maps:** [West Region](maps/hexmap_black_river_west.jpeg) | [East Region](maps/hexmap_black_river_east.jpeg)
-  #location #wilderness #river #trade-route
+- **Hex Maps:** [West Region](maps/hexmap_black_river_west.jpeg) | [East Region](maps/hexmap_black_river_east.jpeg) #location #wilderness #river #trade-route
 
 ### [[The Proving Ground]]
 
@@ -280,8 +267,7 @@ campaign.
 - **Purpose:** [[League of Extraordinary Gentlemen]] membership test
 - **Challenges:** Jungle survival, beast encounters
 - **Result:** [[Doctor Googoo]] failed, others passed
-- **Sessions:** 02
-  #location #wilderness #trial #league-test
+- **Sessions:** 02 #location #wilderness #trial #league-test
   ***
 
 ## Quick Reference by Session
@@ -291,10 +277,8 @@ campaign.
 - **Session 03:** [[Locations#Mivvin's Rest]] (night raid defense)
 - **Session 04:** [[The Serpent's Eye]] (infiltration)
 - **Session 05:** [[The Serpent's Eye]] (nursery chaos)
-- **Session 06:** [[Governor's Clearing]], [[Star Map Temple]],
-  [[The Green Hell]], [[Zuchotl]] (mentioned), [[Tsibalba Volcano]] (mentioned)
-- **Session 07:** [[Governor's Clearing]], [[Star Map Temple]],
-  [[Locations#Mivvin's Rest]], [[Zuchotl]] (mentioned)
+- **Session 06:** [[Governor's Clearing]], [[Star Map Temple]], [[The Green Hell]], [[Zuchotl]] (mentioned), [[Tsibalba Volcano]] (mentioned)
+- **Session 07:** [[Governor's Clearing]], [[Star Map Temple]], [[Locations#Mivvin's Rest]], [[Zuchotl]] (mentioned)
 
   ***
 

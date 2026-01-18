@@ -1,18 +1,11 @@
 ---
 name: PDF Reading
-description:
-  Extract text and images from PDF files for accurate page-by-page analysis. Use
-  when working with PDF documents, game rulebooks, modules, or any PDF that
-  needs text extraction or visual analysis. Creates one text file and one image
-  per page in a subdirectory.
+description: Extract text and images from PDF files for accurate page-by-page analysis. Use when working with PDF documents, game rulebooks, modules, or any PDF that needs text extraction or visual analysis. Creates one text file and one image per page in a subdirectory.
 ---
 
 # PDF Reading
 
-Extract text and images from PDF files to enable accurate page-by-page reading
-and analysis. This skill converts PDFs into structured text and image files,
-making content accessible to LLMs while preserving page numbers and visual
-elements.
+Extract text and images from PDF files to enable accurate page-by-page reading and analysis. This skill converts PDFs into structured text and image files, making content accessible to LLMs while preserving page numbers and visual elements.
 
 ## When to Use This Skill
 
@@ -30,8 +23,7 @@ Extract a PDF:
 python scripts/extract_pdf.py "path/to/document.pdf"
 ```
 
-This creates a subdirectory named after the PDF (without .pdf extension)
-containing:
+This creates a subdirectory named after the PDF (without .pdf extension) containing:
 
 - `page_0000.txt`, `page_0001.txt`, ... (text content)
 - `page_0000.png`, `page_0001.png`, ... (page images)
@@ -51,9 +43,7 @@ Shadowdark RPG - V4-8/
 └── ...
 ```
 
-**Page numbering**: Files use 4-digit zero-padded numbers (0000, 0001, etc.)
-starting from 0 for proper sorting. The first page in the PDF = `page_0000.txt`
-and `page_0000.png` (typically the title page).
+**Page numbering**: Files use 4-digit zero-padded numbers (0000, 0001, etc.) starting from 0 for proper sorting. The first page in the PDF = `page_0000.txt` and `page_0000.png` (typically the title page).
 
 ## Usage Patterns
 
@@ -80,18 +70,13 @@ After extraction, read specific pages:
 
 ## Benefits
 
-**Accurate page references**: File names directly correspond to PDF page
-numbers, making it easy to cite sources (page 0 is the first page/title page,
-page 23 → `page_0023.txt`)
+**Accurate page references**: File names directly correspond to PDF page numbers, making it easy to cite sources (page 0 is the first page/title page, page 23 → `page_0023.txt`)
 
-**Dual format**: Text files for fast reading and searching; images for visual
-elements (maps, tables, artwork, complex layouts)
+**Dual format**: Text files for fast reading and searching; images for visual elements (maps, tables, artwork, complex layouts)
 
-**Scanned PDF support**: Even image-based PDFs (scanned books) can be analyzed
-via the extracted PNG images
+**Scanned PDF support**: Even image-based PDFs (scanned books) can be analyzed via the extracted PNG images
 
-**Token efficiency**: Read only the pages you need rather than loading entire
-PDFs
+**Token efficiency**: Read only the pages you need rather than loading entire PDFs
 
 ## Dependencies
 
@@ -106,8 +91,7 @@ Install with:
 pip install PyMuPDF Pillow
 ```
 
-Both packages are available in the standard Python ecosystem and work across
-platforms.
+Both packages are available in the standard Python ecosystem and work across platforms.
 
 ## Script Behavior
 
@@ -120,21 +104,17 @@ python scripts/extract_pdf.py <pdf_file> [--output-dir <directory>]
 **Arguments**:
 
 - `<pdf_file>` (required) - Path to the PDF file to extract
-- `--output-dir` (optional) - Custom output directory; defaults to subdirectory
-  named after the PDF
+- `--output-dir` (optional) - Custom output directory; defaults to subdirectory named after the PDF
 
 ### Extraction Details
 
 **Image quality**: 2x zoom (~144 DPI) in PNG format for clear text and diagrams
 
-**File naming**: 4-digit zero-padded numbers starting from 0 (page_0000.txt =
-first page)
+**File naming**: 4-digit zero-padded numbers starting from 0 (page_0000.txt = first page)
 
-**Output**: Creates paired files for each page (`.txt` for text, `.png` for
-image)
+**Output**: Creates paired files for each page (`.txt` for text, `.png` for image)
 
-**Error handling**: Validates inputs, creates directories, fails explicitly with
-clear messages
+**Error handling**: Validates inputs, creates directories, fails explicitly with clear messages
 
 **Progress**: Shows real-time progress for each page during extraction
 
@@ -183,10 +163,7 @@ Example: ToC says "Character Creation - page 12"
 cat "Shadowdark RPG - V4-8/page_0012.txt"
 ```
 
-**Pro tip**: The page numbers in the ToC/index refer to the book's printed page
-numbers, which typically match the file numbers (page_0012.txt = page 12 in the
-book). However, if the book has a preface or introduction with Roman numerals,
-you may need to add an offset.
+**Pro tip**: The page numbers in the ToC/index refer to the book's printed page numbers, which typically match the file numbers (page_0012.txt = page 12 in the book). However, if the book has a preface or introduction with Roman numerals, you may need to add an offset.
 
 ## Example Workflow
 
@@ -215,36 +192,26 @@ you may need to add an offset.
    cat "Shadowdark RPG - V4-8/page_0042.txt"
    ```
 
-5. **Analyze visual elements**: Review `page_0042.png` to see tables, stat
-   blocks, or illustrations that accompany the text.
+5. **Analyze visual elements**: Review `page_0042.png` to see tables, stat blocks, or illustrations that accompany the text.
 
 ## Troubleshooting
 
-**"Missing required package" error**: Install dependencies with
-`pip install PyMuPDF Pillow`
+**"Missing required package" error**: Install dependencies with `pip install PyMuPDF Pillow`
 
-**"PDF file not found" error**: Check the file path. Use quotes around paths
-with spaces.
+**"PDF file not found" error**: Check the file path. Use quotes around paths with spaces.
 
-**"File is not a PDF" error**: Ensure the file has a .pdf extension and is a
-valid PDF.
+**"File is not a PDF" error**: Ensure the file has a .pdf extension and is a valid PDF.
 
-**Empty or garbled text files**: Some PDFs are purely images (scanned). Use the
-PNG image files for these pages instead.
+**Empty or garbled text files**: Some PDFs are purely images (scanned). Use the PNG image files for these pages instead.
 
 ## Best Practices
 
-- **Start with navigation pages**: Read the table of contents and index first to
-  understand structure
+- **Start with navigation pages**: Read the table of contents and index first to understand structure
 - **Extract PDFs once** and reference the extracted files multiple times
-- **Use ToC/index for direct access**: Jump to specific pages when you know what
-  you're looking for
-- **Use grep for discovery**: Search across all pages when exploring unfamiliar
-  topics
+- **Use ToC/index for direct access**: Jump to specific pages when you know what you're looking for
+- **Use grep for discovery**: Search across all pages when exploring unfamiliar topics
 - **Use text files** for searching and quick reading
 - **Use image files** for maps, tables, complex layouts, and visual verification
 - **Keep extracted directories organized** by source document name
-- **Cite page numbers** directly from filenames (page_0000.txt = page 0/title
-  page, page_0023.txt = page 23)
-- **Remember page 0**: The first page is page_0000.txt (often the title or cover
-  page)
+- **Cite page numbers** directly from filenames (page_0000.txt = page 0/title page, page_0023.txt = page 23)
+- **Remember page 0**: The first page is page_0000.txt (often the title or cover page)

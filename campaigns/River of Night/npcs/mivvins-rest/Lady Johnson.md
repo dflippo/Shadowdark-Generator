@@ -2,10 +2,7 @@
 
 AKA [[Lady Lara Croft Johnson]]
 
-npc-type:: Patron faction:: [[League of Extraordinary Gentlemen]] status::
-Active first-appearance:: [[Session 01 - The House on Mivvin's Rest]]
-alignment:: Lawful Good threat-level:: Ally family:: [[Alistair Johnson]]
-(uncle, deceased), Lord Johnson (brother)
+npc-type:: Patron faction:: [[League of Extraordinary Gentlemen]] status:: Active first-appearance:: [[Session 01 - The House on Mivvin's Rest]] alignment:: Lawful Good threat-level:: Ally family:: [[Alistair Johnson]] (uncle, deceased), Lord Johnson (brother)
 
 #npc #mivvins-rest #patron #league-of-extraordinary-gentlemen #ally #active
 
@@ -15,10 +12,7 @@ alignment:: Lawful Good threat-level:: Ally family:: [[Alistair Johnson]]
 
 ## Description
 
-Sharp and intelligent, Lady Johnson is a wealthy explorer and adventurer who
-inherited her uncle [[Alistair Johnson]]'s estate at Mivvin's Rest. She founded
-the **League of Extraordinary Gentlemen** to fund expeditions into the Black
-River jungle.
+Sharp and intelligent, Lady Johnson is a wealthy explorer and adventurer who inherited her uncle [[Alistair Johnson]]'s estate at Mivvin's Rest. She founded the **League of Extraordinary Gentlemen** to fund expeditions into the Black River jungle.
 
 **Background:**
 
@@ -31,8 +25,7 @@ River jungle.
 
 - Well-dressed in colonial-era explorer's attire
 - Carries a hand crossbow
-- Previously suffered from jungle fever (cured in
-  [[Session 01 - The House on Mivvin's Rest]])
+- Previously suffered from jungle fever (cured in [[Session 01 - The House on Mivvin's Rest]])
 
 ## Personality
 
@@ -68,17 +61,13 @@ River jungle.
 
 Lady Johnson founded and leads this adventurer's guild. The League is:
 
-- An organization where people come from far and wide to hunt in the jungle and
-  search for treasure
+- An organization where people come from far and wide to hunt in the jungle and search for treasure
 - Headquartered at Mivvin's Rest
 - Funded by Lady Johnson's wealth and expedition proceeds
-- Selective - members must prove themselves worthy (see
-  [[Session 02 - The Proving Ground]])
+- Selective - members must prove themselves worthy (see [[Session 02 - The Proving Ground]])
 
   For current members, see [Party Roster](../../party/PARTY_ROSTER.md).
 
 ## Notes
 
-Her mansion functions as a museum filled with artifacts from various
-expeditions. She is willing to fund adventures in exchange for a share of
-findings.
+Her mansion functions as a museum filled with artifacts from various expeditions. She is willing to fund adventures in exchange for a share of findings.

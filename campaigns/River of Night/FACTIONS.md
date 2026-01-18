@@ -4,8 +4,7 @@ index-type:: Factions campaign:: [[River of Night]] status:: Active
 
 #index #factions #river-of-night
 
-This index tracks all factions, organizations, and allegiances in the River of
-Night campaign.
+This index tracks all factions, organizations, and allegiances in the River of Night campaign.
 
 ---
 
@@ -39,8 +38,7 @@ Night campaign.
 #### Key Events
 
 - **Session 01:** Introduced, hired party to solve [[Alistair Johnson]]'s puzzle
-- **Session 02:** Tested party in [[The Proving Ground]] (only [[Doctor Googoo]]
-  failed)
+- **Session 02:** Tested party in [[The Proving Ground]] (only [[Doctor Googoo]] failed)
 - **Session 03:** Defended [[Locations#Mivvin's Rest]] against basilisk raid
 - **Session 06-07:** Diplomatic negotiations with [[Albion Dominion]]
 
@@ -59,8 +57,7 @@ Night campaign.
 #### Members
 
 - [[Colonel Huzzard]] - Commander, 4th Arbalesters
-- [[Lieutenant Sterling]] - Intelligence Officer (replaced
-  [[Captain Blackwood]])
+- [[Lieutenant Sterling]] - Intelligence Officer (replaced [[Captain Blackwood]])
 - [[Captain Blackwood]] - Former Intelligence (imprisoned for treason)
 - [[Major "Mad Jack" Ponsonby]] - Artillery Commander
 
@@ -74,15 +71,13 @@ Night campaign.
 #### Key Events
 
 - **Session 06:** Arrived with 500 troops, established [[Governor's Clearing]]
-- **Session 07:** [[Captain Blackwood]] exposed as traitor, arrested for
-  attempted murder
+- **Session 07:** [[Captain Blackwood]] exposed as traitor, arrested for attempted murder
 - **Session 07:** Diplomatic relations strained after [[Maied]] incident
 
 #### Internal Politics
 
 - [[Colonel Huzzard]]: Professional, negotiable
-- [[Captain Blackwood]]: Secret agent for The Home Office, working against
-  Colonial Office
+- [[Captain Blackwood]]: Secret agent for The Home Office, working against Colonial Office
 - Party aided Dominion against [[Maied]], earning favor
 
   ***
@@ -115,10 +110,8 @@ Night campaign.
 
 - **Session 02:** First evidence discovered in jungle
 - **Session 03:** Raided [[Locations#Mivvin's Rest]] at night, party defended
-- **Session 04:** Party infiltrated [[The Serpent's Eye]], rescued
-  [[Durgan Coalbeard]]
-- **Session 05:** Party destroyed cult, killed leaders, released basilisk
-  nursery (chaotic comedy ensued)
+- **Session 04:** Party infiltrated [[The Serpent's Eye]], rescued [[Durgan Coalbeard]]
+- **Session 05:** Party destroyed cult, killed leaders, released basilisk nursery (chaotic comedy ensued)
 
   ***
 
@@ -148,8 +141,7 @@ Night campaign.
 #### Key Events
 
 - **Session 06:** [[Maied]] first encountered at [[Star Map Temple]], peaceful
-- **Session 07:** [[Maied]] poisoned [[Albion Dominion]] soldiers, party tracked
-  and killed her
+- **Session 07:** [[Maied]] poisoned [[Albion Dominion]] soldiers, party tracked and killed her
 - **Session 07:** Party may now be viewed as enemies by remaining spirits
 
 #### Future Threat
@@ -164,8 +156,7 @@ Unknown - party killed a major guardian, consequences TBD
 
 **Type:** Civilian Labor  
  **Status:** Active  
- **Notable Members:** [[Durgan Coalbeard]], [[Head Chef Gaston]],
-[[Ensign Pip]]  
+ **Notable Members:** [[Durgan Coalbeard]], [[Head Chef Gaston]], [[Ensign Pip]]  
  #faction #civilians #mivvins-rest #active
 
 ### The Home Office (Mentioned)

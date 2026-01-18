@@ -1,7 +1,6 @@
 # PDF Reader Skill
 
-This skill enables accurate page-by-page reading of PDF files by extracting text
-and images.
+This skill enables accurate page-by-page reading of PDF files by extracting text and images.
 
 ## Structure
 
@@ -22,8 +21,7 @@ This creates a subdirectory with the PDF's name containing:
 - One `.txt` file per page (extracted text)
 - One `.png` file per page (page image)
 
-Files are numbered `page_0000.txt`, `page_0001.txt`, etc., starting from 0 (page
-0 = first page/title page).
+Files are numbered `page_0000.txt`, `page_0001.txt`, etc., starting from 0 (page 0 = first page/title page).
 
 ## Requirements
 

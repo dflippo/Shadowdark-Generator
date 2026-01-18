@@ -2,10 +2,7 @@
 
 #campaign #shadowdark #river-of-night
 
-> **Note**: This file contains campaign-specific details for the River of Night
-> adventure. To use this skill for your own campaign, replace the contents of
-> this file with your own campaign information. The SKILL.md file will
-> automatically reference this CAMPAIGN.md file when generating sessions.
+> **Note**: This file contains campaign-specific details for the River of Night adventure. To use this skill for your own campaign, replace the contents of this file with your own campaign information. The SKILL.md file will automatically reference this CAMPAIGN.md file when generating sessions.
 
 ## Quick Links
 
@@ -18,28 +15,19 @@
 - [Core Rules](../../shadowdark-library/core-rules/CORE_RULES_GUIDE.md)
 - [Adventures Guide](../../shadowdark-library/adventures/ADVENTURES_GUIDE.md)
 
-  This document contains campaign-specific information for the River of Night
-  adventure. Reference this when creating sessions for this specific campaign.
+  This document contains campaign-specific information for the River of Night adventure. Reference this when creating sessions for this specific campaign.
 
 ## Campaign Overview
 
 **Module Base**: Shadowdark Cursed Scroll 4 - River of Night  
- **Style**: West Marches style game - players return to Lady Johnson's mansion
-between adventures  
- **Tone**: Mix of horror and adventure, like Tomb Raider movies but with
-monsters  
- **Player Level**: Starting at level 3 **Technology**: No firearms. Crossbows and
-bows only.
+ **Style**: West Marches style game - players return to Lady Johnson's mansion between adventures  
+ **Tone**: Mix of horror and adventure, like Tomb Raider movies but with monsters  
+ **Player Level**: Starting at level 3 **Technology**: No firearms. Crossbows and bows only.
 
 ## Source Materials
 
-- **Shadowdark Core Rules**: Guide for monsters and atmosphere (see
-  [../shadowdark_docs/Shadowdark RPG - V4-8.pdf](../shadowdark_docs/Shadowdark
-  RPG - V4-8.pdf))
-- **Shadowdark Cursed Scroll 4 - River of Night**: Dungeons and plot material,
-  hex locations, encounters (see [Cursed Scroll 4 - River of Night V1-2
-  (horizontal pages).pdf](Cursed Scroll 4 - River of Night V1-2 (horizontal
-  pages).pdf) in this folder)
+- **Shadowdark Core Rules**: Guide for monsters and atmosphere (see [../shadowdark_docs/Shadowdark RPG - V4-8.pdf](../shadowdark_docs/Shadowdark RPG - V4-8.pdf))
+- **Shadowdark Cursed Scroll 4 - River of Night**: Dungeons and plot material, hex locations, encounters (see [Cursed Scroll 4 - River of Night V1-2 (horizontal pages).pdf](Cursed Scroll 4 - River of Night V1-2 (horizontal pages).pdf) in this folder)
 
 ## Key Setting Details
 
@@ -66,15 +54,11 @@ This is a **West Marches style campaign**:
 
 ### Lady Lara Croft Johnson
 
-**Full Profile**:
-[Lady Lara Croft Johnson](npcs/mivvins-rest/lady-lara-croft-johnson.md)
+**Full Profile**: [Lady Lara Croft Johnson](npcs/mivvins-rest/lady-lara-croft-johnson.md)
 
 **Role**: Quest giver, patron, leader of the League of Extraordinary Gentlemen
 
-**Quick Summary:** Wealthy archaeologist and "tomb raider" who inherited
-Mivvin's Rest from her uncle [[Alistair Johnson]]. Founded the League of
-Extraordinary Gentlemen to fund jungle expeditions. Brilliant, resourceful, and
-values competence.
+**Quick Summary:** Wealthy archaeologist and "tomb raider" who inherited Mivvin's Rest from her uncle [[Alistair Johnson]]. Founded the League of Extraordinary Gentlemen to fund jungle expeditions. Brilliant, resourceful, and values competence.
 
 ### Allan Quatermain
 
@@ -82,10 +66,7 @@ values competence.
 
 **Role**: Mentor, guide, expert on jungle survival
 
-**Quick Summary:** Professional big-game hunter and
-[[Lady Lara Croft Johnson|Lady Johnson]]'s adviser. Grizzled, experienced, and
-practical. Tests newcomers with "The Proving Ground" walkabout. Expert on jungle
-dangers, wildlife, and survival. Wields a magic double heavy crossbow.
+**Quick Summary:** Professional big-game hunter and [[Lady Lara Croft Johnson|Lady Johnson]]'s adviser. Grizzled, experienced, and practical. Tests newcomers with "The Proving Ground" walkabout. Expert on jungle dangers, wildlife, and survival. Wields a magic double heavy crossbow.
 
 ### The Ghost of Johnson's Uncle
 
@@ -93,11 +74,7 @@ dangers, wildlife, and survival. Wields a magic double heavy crossbow.
 
 **Role**: Source of lore and mystery
 
-**Quick Summary:** [[Lady Lara Croft Johnson|Lady Johnson]]'s eccentric uncle
-who disappeared researching ancient temples and solar eclipses. Haunted his
-secret chamber until the party completed his star chart puzzle in
-[[Session 01 - The House on Mivvin's Rest]]. Left behind maps and the Font of
-Healing.
+**Quick Summary:** [[Lady Lara Croft Johnson|Lady Johnson]]'s eccentric uncle who disappeared researching ancient temples and solar eclipses. Haunted his secret chamber until the party completed his star chart puzzle in [[Session 01 - The House on Mivvin's Rest]]. Left behind maps and the Font of Healing.
 
 ## Player Background
 
@@ -160,13 +137,10 @@ Use plot elements and characters from League of Extraordinary Gentlemen stories:
 
 **Basilisk Cult** (introduced in [[Session 02 - The Proving Ground]]):
 
-- Stone Warriors who worship six-legged
-  [basilisks](../../shadowdark-library/monsters/manual-monsters/basilisk.md)
+- Stone Warriors who worship six-legged [basilisks](../../shadowdark-library/monsters/manual-monsters/basilisk.md)
 - Live deeper in the jungle (temple at hex 706)
 - Slaughtered archaeologists at Dig Site A (hex 104)
-- Retrieved
-  [basilisk](../../shadowdark-library/monsters/manual-monsters/basilisk.md) egg
-  now stored in mansion vault
+- Retrieved [basilisk](../../shadowdark-library/monsters/manual-monsters/basilisk.md) egg now stored in mansion vault
 - Will eventually attack mansion to reclaim the egg
 - See also: [Basilisk Cult NPCs](npcs/basilisk-cult/)
 
@@ -174,18 +148,13 @@ Use plot elements and characters from League of Extraordinary Gentlemen stories:
 
 When creating sessions for this campaign:
 
-1. **Always reference previous sessions**: Players have ongoing relationships
-   with NPCs
-2. **Use the mansion as bookends**: Sessions typically start and end at the
-   mansion
+1. **Always reference previous sessions**: Players have ongoing relationships with NPCs
+2. **Use the mansion as bookends**: Sessions typically start and end at the mansion
 3. **Integrate League NPCs**: Can introduce famous adventurers as needed
-4. **Build on established threats**: The Basilisk Cult, jungle dangers, ancient
-   ruins
-5. **Reward exploration**: Hidden locations, lost artifacts, valuable
-   discoveries
+4. **Build on established threats**: The Basilisk Cult, jungle dangers, ancient ruins
+5. **Reward exploration**: Hidden locations, lost artifacts, valuable discoveries
 6. **Maintain West Marches style**: Players choose where to explore next
-7. **Balance horror and adventure**: Deadly dangers but also thrilling
-   discoveries
+7. **Balance horror and adventure**: Deadly dangers but also thrilling discoveries
 
 ### First Session Summary (for reference)
 
@@ -198,21 +167,15 @@ The first session should include:
 - Finding the regional map
 - Unexpected safe area with magical healing for rest
 
-  **Important**: Players fought vampires previously, so avoid vampire encounters
-  early on but introduce them again later.
+  **Important**: Players fought vampires previously, so avoid vampire encounters early on but introduce them again later.
 
 ## Hex Locations of Note
 
-**Hex 603**: Gorilla Statue - magical statue that transforms fruit into potions,
-guarded by [apes](../../shadowdark-library/monsters/manual-monsters/ape.md)  
- **Hex 104**: Dig Site A - slaughtered archaeological camp,
-[Basilisk Cult](npcs/basilisk-cult/) attack site  
- **Hex 706**: [Basilisk Cult](npcs/basilisk-cult/) Temple - home of the Stone
-Warriors
+**Hex 603**: Gorilla Statue - magical statue that transforms fruit into potions, guarded by [apes](../../shadowdark-library/monsters/manual-monsters/ape.md)  
+ **Hex 104**: Dig Site A - slaughtered archaeological camp, [Basilisk Cult](npcs/basilisk-cult/) attack site  
+ **Hex 706**: [Basilisk Cult](npcs/basilisk-cult/) Temple - home of the Stone Warriors
 
-(Reference
-[River of Night Adventure](../../shadowdark-library/adventures/ADVENTURES_GUIDE.md)
-for complete hex details)
+(Reference [River of Night Adventure](../../shadowdark-library/adventures/ADVENTURES_GUIDE.md) for complete hex details)
 
 ## Tone and Atmosphere Guidelines
 

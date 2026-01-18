@@ -1,13 +1,10 @@
 # Campaign Timeline
 
-timeline-type:: Chronological Events campaign:: [[River of Night]] start-date::
-2025-11-30 (real) / Day 1 (in-game) current-date:: 2026-01-18 (real) / Day 47+
-(in-game)
+timeline-type:: Chronological Events campaign:: [[River of Night]] start-date:: 2025-11-30 (real) / Day 1 (in-game) current-date:: 2026-01-18 (real) / Day 47+ (in-game)
 
 #timeline #river-of-night #chronology
 
-This timeline tracks the chronological progression of the River of Night
-campaign, organized by in-game days and real-world session dates.
+This timeline tracks the chronological progression of the River of Night campaign, organized by in-game days and real-world session dates.
 
 ---
 
@@ -178,8 +175,7 @@ campaign, organized by in-game days and real-world session dates.
 
 ### Events
 
-- [[Albion Dominion]] arrives with 500 troops, establishes
-  [[Governor's Clearing]]
+- [[Albion Dominion]] arrives with 500 troops, establishes [[Governor's Clearing]]
 - Party explores [[Star Map Temple]], meets [[Maied]] (peaceful)
 - Diplomatic meetings with [[Colonel Huzzard]]
 - Tense negotiations between League and Dominion
@@ -270,8 +266,7 @@ campaign, organized by in-game days and real-world session dates.
 
 **Sessions:** 06-07  
  **Status:** Active  
- **Key Events:** Colonial arrival, [[Maied]] conflict, [[Captain Blackwood]]
-treason  
+ **Key Events:** Colonial arrival, [[Maied]] conflict, [[Captain Blackwood]] treason  
  #albion-dominion-arc #active
 
 ### Arc 3: The Jungle Spirits (Days 24-47+)

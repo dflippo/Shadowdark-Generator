@@ -8,8 +8,7 @@
 
 ## Description
 
-A nervous young ensign assigned to serving duties during Colonel Huzzard's
-formal dinner. Witnessed suspicious activity at the serving station.
+A nervous young ensign assigned to serving duties during Colonel Huzzard's formal dinner. Witnessed suspicious activity at the serving station.
 
 ## Appearance
 
@@ -28,12 +27,9 @@ formal dinner. Witnessed suspicious activity at the serving station.
 
 **Session 07 - Poisoning Investigation:**
 
-Guarding the serving station after the poisoning attempt. Provided crucial
-testimony:
+Guarding the serving station after the poisoning attempt. Provided crucial testimony:
 
-> "I didn't do it! I just carried the tray! But... I did see someone loitering
-> here before the speech. Someone high ranking. They said they were 'inspecting
-> the crystal for flaws'."
+> "I didn't do it! I just carried the tray! But... I did see someone loitering here before the speech. Someone high ranking. They said they were 'inspecting the crystal for flaws'."
 
 ## Testimony Details
 
@@ -51,8 +47,7 @@ testimony:
 
 ## Evidence Contribution
 
-His testimony about the "click-drag" footsteps was crucial - it matched
-[[Captain Blackwood]]'s prosthetic toe, helping identify him as the poisoner.
+His testimony about the "click-drag" footsteps was crucial - it matched [[Captain Blackwood]]'s prosthetic toe, helping identify him as the poisoner.
 
 ## Key Relationships
 
@@ -62,6 +57,4 @@ His testimony about the "click-drag" footsteps was crucial - it matched
 
 ## Notes
 
-Represents the low-ranking soldiers who see everything but are often overlooked.
-His attention to detail (remembering the boot sounds) proved invaluable to the
-investigation.
+Represents the low-ranking soldiers who see everything but are often overlooked. His attention to detail (remembering the boot sounds) proved invaluable to the investigation.
