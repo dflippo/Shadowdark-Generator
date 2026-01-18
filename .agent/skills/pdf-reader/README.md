@@ -1,6 +1,7 @@
 # PDF Reader Skill
 
-This skill enables accurate page-by-page reading of PDF files by extracting text and images.
+This skill enables accurate page-by-page reading of PDF files by extracting text
+and images.
 
 ## Structure
 
@@ -17,10 +18,12 @@ python scripts/extract_pdf.py "path/to/document.pdf"
 ```
 
 This creates a subdirectory with the PDF's name containing:
+
 - One `.txt` file per page (extracted text)
 - One `.png` file per page (page image)
 
-Files are numbered `page_0000.txt`, `page_0001.txt`, etc., starting from 0 (page 0 = first page/title page).
+Files are numbered `page_0000.txt`, `page_0001.txt`, etc., starting from 0 (page
+0 = first page/title page).
 
 ## Requirements
 
@@ -55,6 +58,7 @@ grep -r "death saving throw" "Shadowdark RPG - V4-8/"
 ## Best Practices
 
 Following general best practices for agent tool use:
+
 - ✅ Concise documentation with progressive disclosure
 - ✅ Utility script handles errors explicitly
 - ✅ Clear usage examples and workflows
