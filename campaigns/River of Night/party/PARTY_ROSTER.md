@@ -33,7 +33,7 @@ campaign.
 - **Session 06:** Explored celestial temple, obtained Heavy Brass Cogs from
   [[Maied]], fled from her wrath
 - **Session 07:** Exposed [[Captain Blackwood]] as traitor, received land
-  charter from [[Colonel Percival Huzzard]]
+  charter from [[Colonel Huzzard]]
 
 ## Party Relationships
 
@@ -42,7 +42,7 @@ campaign.
 - [[Lady Johnson]] - Patron and employer
 - [[Allan Quatermain]] - Mentor (hostile to [[Doctor Googoo]])
 - [[Durgan Coalbeard]] - Owes life-debt (hates [[Doctor Googoo]])
-- [[Colonel Percival Huzzard]] - Political ally, granted land charter
+- [[Colonel Huzzard]] - Political ally, granted land charter
 - [[Lieutenant Sterling]] - Admires the party as heroes
 
 **Enemies:**

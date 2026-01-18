@@ -38,7 +38,7 @@ over personal loyalty. Attempted to assassinate Colonel Huzzard for being
 
 ## Key Relationships
 
-- **[[Colonel Percival Huzzard]]:** Attempted to assassinate (poisoning)
+- **[[Colonel Huzzard]]:** Attempted to assassinate (poisoning)
 - **The Party:** Investigated and exposed him
 - **The Home Office:** True loyalty; reports to shadow government
 - **[[Major "Mad Jack" Ponsonby]] & [[Lieutenant Sterling]]:** Former colleagues

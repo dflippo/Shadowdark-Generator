@@ -102,7 +102,7 @@ Doctor Googoo's embarrassment (see [[Session 05 - The Burden of Beasts]] and
 
 ### Session 07: The Jungle Strikes Back
 
-- Attended formal dinner with [[Colonel Percival Huzzard]]
+- Attended formal dinner with [[Colonel Huzzard]]
 - Endured more minstrel performances
 - Helped investigate the poisoning attempt
 - Participated in exposing [[Captain Blackwood]] as traitor

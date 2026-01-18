@@ -58,7 +58,7 @@ His testimony about the "click-drag" footsteps was crucial - it matched
 
 - **The Party:** Provided witness testimony
 - **[[Captain Blackwood]]:** Unknowingly witnessed the poisoning preparation
-- **[[Colonel Percival Huzzard]]:** Serves under his command
+- **[[Colonel Huzzard]]:** Serves under his command
 
 ## Notes
 

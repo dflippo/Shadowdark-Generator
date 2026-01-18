@@ -19,7 +19,7 @@
 
 The party was successful in session 1 defending against the
 [Lizardfolk](../../shadowdark-library/monsters/manual-monsters/lizardfolk.md)
-raiders. They met [[Lady Lara Croft Johnson]] and [[Allan Quatermain]]. They
+raiders. They met [[Lady Johnson]] and [[Allan Quatermain]]. They
 were able to get past the globe puzzle and they completed the
 [[Alistair Johnson|ghost]]'s star chart puzzle without fighting him. They used
 the Font of Healing to cure [[Lady Lara Croft Johnson|Lady Johnson]]'s jungle

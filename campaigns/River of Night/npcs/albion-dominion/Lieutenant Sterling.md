@@ -28,7 +28,7 @@ greatly admires Colonel Huzzard.
 
 ## Key Relationships
 
-- **[[Colonel Percival Huzzard]]:** Idol and commanding officer
+- **[[Colonel Huzzard]]:** Idol and commanding officer
 - **The Party:** Admires them as heroes
 - **[[Captain Blackwood]]:** Initially trusted, helped subdue him
 - **[[Major "Mad Jack" Ponsonby]]:** Intimidated by the gruff veteran

@@ -16,14 +16,14 @@ Night campaign.
 **Type:** Adventure Society  
 **Status:** Active, Allied  
 **Base:** [[Mivvin's Rest]]  
-**Leader:** [[Lady Lara Croft Johnson]]  
+**Leader:** [[Lady Johnson]]  
 **First Appearance:** [[Session 01 - The House on Mivvin's Rest]]
 
 #faction #allies #league-of-extraordinary-gentlemen #active
 
 #### Members
 
-- [[Lady Lara Croft Johnson]] - Patron, Leader
+- [[Lady Johnson]] - Patron, Leader
 - [[Allan Quatermain]] - Hunter, Mentor
 - [[Grimm Ironfoot]] - Dwarf Warrior (party member)
 - [[Martha]] - Cook, Herbalist

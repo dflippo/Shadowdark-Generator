@@ -42,7 +42,7 @@ Interrogated about Colonel Huzzard's poisoning. Provided key information:
 
 ## Key Relationships
 
-- **[[Colonel Percival Huzzard]]:** Serves at formal dinners
+- **[[Colonel Huzzard]]:** Serves at formal dinners
 - **The Party:** Witness and evidence source
 - **[[Captain Blackwood]]:** Unknowingly assisted the poisoning attempt
 

@@ -46,7 +46,7 @@ River jungle.
 - **[[Allan Quatermain]]:** Trusted adviser and guild member
 - **The Party:** Patron and employer
 - **Uncle [[Alistair Johnson]]:** Inherited his estate and artifacts
-- **[[Colonel Percival Huzzard]]:** Political ally with the Albion Dominion
+- **[[Colonel Huzzard]]:** Political ally with the Albion Dominion
 
 ## Notable Events
 

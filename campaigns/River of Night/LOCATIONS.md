@@ -16,7 +16,7 @@ campaign.
 - **Type:** Plantation Estate
 - **Status:** Active, Threatened
 - **First Appearance:** [[Session 01 - The House on Mivvin's Rest]]
-- **Owner:** [[Lady Lara Croft Johnson]]
+- **Owner:** [[Lady Johnson]]
 - **Notable Features:** Main house, servants' quarters, gardens, defensive walls
 - **Factions:** [[League of Extraordinary Gentlemen]], [[Albion Dominion]]
 - **Sessions:** 01, 03, 05, 06, 07

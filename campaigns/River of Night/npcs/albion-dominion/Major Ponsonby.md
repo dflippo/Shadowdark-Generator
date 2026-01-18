@@ -31,7 +31,7 @@ Understands the jungle's dangers better than his peers.
 
 ## Key Relationships
 
-- **[[Colonel Percival Huzzard]]:** Critical but loyal; wanted his rank but not
+- **[[Colonel Huzzard]]:** Critical but loyal; wanted his rank but not
   through murder
 - **[[Lieutenant Sterling]]:** Dismissive of his naivety
 - **[[Captain Blackwood]]:** Suspected him, helped arrest him

@@ -8,7 +8,7 @@
 
 ## Description
 
-[[Lady Lara Croft Johnson]]'s eccentric uncle who inherited and built the
+[[Lady Johnson]]'s eccentric uncle who inherited and built the
 Mivvin's Rest estate. A brilliant cartographer and astronomer who disappeared
 years ago while researching "ancient, dark temples and a coming solar eclipse."
 
@@ -77,7 +77,7 @@ his spirit to rest with a peaceful smile.
 
 The party solved his celestial puzzle, completing his life's work. His ghost
 faded away peacefully, finally able to rest. His discoveries enabled
-[[Lady Lara Croft Johnson]] to found the League and begin exploration of the
+[[Lady Johnson]] to found the League and begin exploration of the
 jungle.
 
 ## Quotes (Journal)

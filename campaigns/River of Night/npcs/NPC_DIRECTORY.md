@@ -96,7 +96,7 @@ Mivvin's Rest
 ├── [[Lady Johnson]] (Patron)
 │   ├── [[Allan Quatermain]] (Adviser)
 │   ├── The Party (Employees) - see [[PARTY_ROSTER]]
-│   └── [[Colonel Percival Huzzard]] (Political Ally)
+│   └── [[Colonel Huzzard]] (Political Ally)
 │
 ├── Laborers
 │   ├── [[Durgan Coalbeard]] (Worker → Embittered)
@@ -106,7 +106,7 @@ Mivvin's Rest
 └── [[Alistair Johnson]] (Uncle) [GHOST → RESOLVED]
 
 Albion Dominion
-├── [[Colonel Percival Huzzard]] (Commander)
+├── [[Colonel Huzzard]] (Commander)
 │   ├── [[Lieutenant Sterling]] (Loyal)
 │   ├── [[Major "Mad Jack" Ponsonby]] (Critical but Loyal)
 │   └── [[Captain Blackwood]] (Traitor) [ARRESTED]
