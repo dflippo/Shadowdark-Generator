@@ -2,10 +2,10 @@
 
 session-number:: 7 session-date:: 2026-01-18 in-game-date:: Day 47 of expedition
 level:: 4-5 location:: [[Mivvin's Rest]] main-npcs::
-[[Colonel Percival Huzzard]], [[npcs/albion-dominion/captain-blackwood|Captain Blackwood]], [[npcs/albion-dominion/lieutenant-sterling|Lieutenant Sterling]],
+[[Colonel Percival Huzzard]], [[Captain Blackwood]], [[Lieutenant Sterling]],
 [[Major "Mad Jack" Ponsonby]], [[Maied]] main-threats:: Poison mystery,
 [[Basilisk Cult]] infiltration, [[Maied]] boss fight rewards:: Arrested traitor,
-defended Mivvin's Rest key-events:: [[npcs/albion-dominion/captain-blackwood|Captain Blackwood]] exposed as traitor, Maied
+defended Mivvin's Rest key-events:: [[Captain Blackwood]] exposed as traitor, Maied
 killed in combat
 
 #session #river-of-night #session-07 #investigation #mystery #boss-fight #combat
@@ -19,7 +19,7 @@ killed in combat
   chaos. The theme shifts from **Colonial Satire** to **Desperate Survival**.
 
   **Key Elements:**
-  1.  **The Mystery:** Who poisoned [[npcs/albion-dominion/colonel-percival-huzzard|Colonel Huzzard]]?
+  1.  **The Mystery:** Who poisoned [[Colonel Huzzard]]?
   2.  **The Betrayal:** The "Trojan Rabbit" is a portal for the Cult.
   3.  **The Boss Fight:** Maied returns, furious and powerful.
 
@@ -54,7 +54,7 @@ killed in combat
   _[[Colonel Percival Huzzard]] looks flushed and victorious, ignoring the
   lyrics._
 
-  **[[npcs/albion-dominion/lieutenant-sterling|Lieutenant Sterling]]:** _(Approaching the party, holding a glass of
+  **[[Lieutenant Sterling]]:** _(Approaching the party, holding a glass of
   sherry)_ "Ah, the heroes of the hour! Look at you. You clean up well,
   Considering where you've been. The Colonel is in high spirits tonight. He
   believes the star map is the key to everything. Bringing civilization to this
@@ -74,7 +74,7 @@ killed in combat
 
 - ### Scene 2: The Toast & The Poison
 
-  _The music stops. [[npcs/albion-dominion/colonel-percival-huzzard|Colonel Huzzard]] taps a spoon against his crystal goblet. The
+  _The music stops. [[Colonel Huzzard]] taps a spoon against his crystal goblet. The
   room quiets._
 
   **COLONEL HUZZARD:** "Ladies, Gentlemen, Officers of the Dominion! _(He raises
@@ -100,10 +100,10 @@ killed in combat
   **[[Major "Mad Jack" Ponsonby]]:** _(Shouting, but not moving to help)_ "He's
   down! The Colonel is down!"
 
-  **[[npcs/albion-dominion/lieutenant-sterling|Lieutenant Sterling]]:** _(Freezing in panic)_ "Sir! Somebody help him! He's
+  **[[Lieutenant Sterling]]:** _(Freezing in panic)_ "Sir! Somebody help him! He's
   choking!"
 
-  **[[npcs/albion-dominion/captain-blackwood|Captain Blackwood]]:** _(Calmly stepping back, watching the crowd)_ "Not
+  **[[Captain Blackwood]]:** _(Calmly stepping back, watching the crowd)_ "Not
   choking. Poison. Secure the exits. No one leaves."
 
 - ### Scene 3: The Rush to the Font
@@ -119,7 +119,7 @@ killed in combat
 
   _The party must drag him through the panicked crowd. Officers block their path._
 
-  **[[npcs/albion-dominion/lieutenant-sterling|Lieutenant Sterling]]:** _(Blocking the door)_ "Where are you taking him?
+  **[[Lieutenant Sterling]]:** _(Blocking the door)_ "Where are you taking him?
   This is a military matter! Surgeions only! You can't just drag the Commander
   into a cellar!"
 
@@ -142,7 +142,7 @@ killed in combat
 
 - ## Part 2: The Chaos Erupts (The Storm)
 
-  _Just as [[npcs/albion-dominion/colonel-percival-huzzard|Colonel Huzzard]] catches his breath, a siren wails from the camp outside. It is
+  _Just as [[Colonel Huzzard]] catches his breath, a siren wails from the camp outside. It is
   the distinct, rhythmic horn blast of the Dominion alarm._
 
   **SOLDIER (Off-screen):** "BREACH! PERIMETER BREACH! TO THE BARRICADES!"
@@ -331,9 +331,9 @@ killed in combat
   though the windows are shattered. **Atmosphere:** Tense, paranoid, and smelling
   of ozone and wet wool.
 
-  _[[npcs/albion-dominion/colonel-percival-huzzard|Colonel Huzzard]] sits behind his desk. He is wrapped in a blanket, his face
+  _[[Colonel Huzzard]] sits behind his desk. He is wrapped in a blanket, his face
   pale, but his eyes are sharp. He sips a cup of steaming herbal tea provided by
-  the Medic. [[npcs/albion-dominion/major-mad-jack-ponsonby|Major Ponsonby]], [[npcs/albion-dominion/captain-blackwood|Captain Blackwood]], [[npcs/albion-dominion/lieutenant-sterling|Lieutenant Sterling]], and the Party
+  the Medic. [[Major Ponsonby]], [[Captain Blackwood]], [[Lieutenant Sterling]], and the Party
   are present. The air is thick with suspicion._
 
   **COLONEL HUZZARD:** _(Voice rasping, but steady)_ "The savage is dead. The
@@ -396,11 +396,11 @@ killed in combat
 
   _The party searches the rooms of the three main suspects._
 
-- **[[npcs/albion-dominion/lieutenant-sterling|Lieutenant Sterling]]'s Room:** Immaculate. Letters to his mother about how much he
+- **[[Lieutenant Sterling]]'s Room:** Immaculate. Letters to his mother about how much he
   admires Huzzard. _Not the killer._
 - **Ponsonby's Room:** A mess. Empty whiskey bottles. A diary that says "Huzzard
   is a fool, but he pays well." _Not the killer._
-- **[[npcs/albion-dominion/captain-blackwood|Captain Blackwood]]'s Room:** Sparse. Mathematical charts. A locked chest (DC 15 to
+- **[[Captain Blackwood]]'s Room:** Sparse. Mathematical charts. A locked chest (DC 15 to
   pick). Inside: A report to the "Home Office" detailing Huzzard's incompetence
   and a recommendation for "Immediate Replacement via Natural Causes."
 - ### Scene 2: The Confrontation
@@ -408,15 +408,15 @@ killed in combat
   _The party returns to the study. They must present their evidence._
 
   **Evidence Points:**
-  1.  **The Boots:** "Click-drag" matches [[npcs/albion-dominion/captain-blackwood|Captain Blackwood]], who has a prosthetic
+  1.  **The Boots:** "Click-drag" matches [[Captain Blackwood]], who has a prosthetic
       toe he never mentions.
   2.  **The Gloves:** The Silver Hawk is the crest of the Intelligence
-      Corps—[[npcs/albion-dominion/captain-blackwood|Captain Blackwood]]'s unit.
+      Corps—[[Captain Blackwood]]'s unit.
   3.  **The Report:** The letter in the chest is a smoking gun.
 
   **COLONEL HUZZARD:** "Well? Who is the snake in my garden?"
 
-  _If the Party accuses [[npcs/albion-dominion/captain-blackwood|Captain Blackwood]] with evidence:_
+  _If the Party accuses [[Captain Blackwood]] with evidence:_
 
   **CAPTAIN BLACKWOOD:** _(He stops writing. He closes his notebook with a snap.
   He adjusts his glasses.)_ "Efficient. I underestimated your observational
@@ -429,7 +429,7 @@ killed in combat
   stops to make speeches while the jungle encroaches. The algorithm demanded your
   removal."
 
-  _[[npcs/albion-dominion/captain-blackwood|Captain Blackwood]] draws a hidden weapon—a prototype repeating hand-crossbow._
+  _[[Captain Blackwood]] draws a hidden weapon—a prototype repeating hand-crossbow._
 
   **CAPTAIN BLACKWOOD:** "Regrettably, I must now purge the witnesses.
   Calculations suggest I have a 60% chance of escape if I kill the nearest
@@ -437,10 +437,10 @@ killed in combat
 
   **Combat:**
 
-- **[[npcs/albion-dominion/captain-blackwood|Captain Blackwood]]:** (Use
+- **[[Captain Blackwood]]:** (Use
   [Thief](../../shadowdark-library/monsters/manual-monsters/thief.md)/[Assassin](../../shadowdark-library/monsters/manual-monsters/assassin.md)
   stats, but with a Repeating Hand Crossbow: 1d6 dmg, 2 attacks per round).
-- He is quickly subdued by [[npcs/albion-dominion/major-mad-jack-ponsonby|Major Ponsonby]] and [[npcs/albion-dominion/lieutenant-sterling|Lieutenant Sterling]] if the party delays, but he
+- He is quickly subdued by [[Major Ponsonby]] and [[Lieutenant Sterling]] if the party delays, but he
   should get one shot off at Huzzard (Misses) or a PC.
 
   ***
@@ -448,7 +448,7 @@ killed in combat
 - ## Part 5: The March Begins
 
   **Scene:** Dawn. The rain has stopped. The camp is battered but functional.
-  **[[npcs/albion-dominion/captain-blackwood|Captain Blackwood]]** is in irons, being loaded onto a prisoner wagon.
+  **[[Captain Blackwood]]** is in irons, being loaded onto a prisoner wagon.
 
   **COLONEL HUZZARD:** _(Standing on the steps, looking healthier. The Font of
   Healing works miracles.)_ "Take him away. He can explain his 'algorithms' to the
@@ -508,8 +508,8 @@ killed in combat
   **NPCs in This Session:**
 
 - [[Colonel Percival Huzzard]]
-- [[npcs/albion-dominion/captain-blackwood|Captain Blackwood]]
-- [[npcs/albion-dominion/lieutenant-sterling|Lieutenant Sterling]]
+- [[Captain Blackwood]]
+- [[Lieutenant Sterling]]
 - [[Maied]]
 - [[Doctor Googoo]]
 

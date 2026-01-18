@@ -2,8 +2,8 @@
 
 session-number:: 6 session-date:: 2026-01-11 in-game-date:: Day 24-45 of
 expedition level:: 4 location:: [[Mivvin's Rest]], [[Star Map Temple]]
-main-npcs:: [[Colonel Percival Huzzard]], [[npcs/albion-dominion/captain-blackwood|Captain Blackwood]],
-[[npcs/albion-dominion/lieutenant-sterling|Lieutenant Sterling]], [[Maied]] main-threats:: Bureaucracy, social intrigue,
+main-npcs:: [[Colonel Percival Huzzard]], [[Captain Blackwood]],
+[[Lieutenant Sterling]], [[Maied]] main-threats:: Bureaucracy, social intrigue,
 [[Panther]], formal dinner rewards:: Land charter, access to Star Map
 key-events:: Met Albion Dominion, obtained land charter, befriended [[Maied]],
 obtained brass cogs
@@ -107,9 +107,9 @@ The climax of the session is a formal dinner hosted by
 
 - **[[Colonel Percival Huzzard]]:** Large, ruddy-faced, wears a monocle.
   Believes the jungle can be beaten with "Discipline and Geometry."
-- **[[npcs/albion-dominion/lieutenant-sterling|Lieutenant Sterling]]:** Young, eager, desperate for glory. Thinks the
+- **[[Lieutenant Sterling]]:** Young, eager, desperate for glory. Thinks the
   party are romantic heroes.
-- **[[npcs/albion-dominion/captain-blackwood|Captain Blackwood]]:** The Intelligence Officer. Cold, suspicious. Watches
+- **[[Captain Blackwood]]:** The Intelligence Officer. Cold, suspicious. Watches
   [[Doctor Googoo]] closely.
 
 **The Social Combat:** The dinner is played in rounds, just like combat.
@@ -119,12 +119,12 @@ The climax of the session is a formal dinner hosted by
 
 - **Challenge:** Using the correct spoon. Not slurping.
 - **Check:** DC 12 CHA or WIS.
-- **Failure:** [[npcs/albion-dominion/colonel-percival-huzzard|Colonel Huzzard]] frowns. "A bit... rustic, aren't we?"
+- **Failure:** [[Colonel Huzzard]] frowns. "A bit... rustic, aren't we?"
   (Disadvantage on next roll).
 
 **Round 2: The War Stories (Bragging)**
 
-- [[npcs/albion-dominion/colonel-percival-huzzard|Colonel Huzzard]] asks: "So, how exactly did you survive the Temple of the Serpent? I
+- [[Colonel Huzzard]] asks: "So, how exactly did you survive the Temple of the Serpent? I
   assume you used standard flanking maneuvers?"
 - **Challenge:** Describing their chaotic adventures in military terms.
 - **Check:** DC 12 CHA (Performance) or INT (History).
@@ -132,7 +132,7 @@ The climax of the session is a formal dinner hosted by
 
 **Round 3: The Interrogation (Secrets)**
 
-- [[npcs/albion-dominion/captain-blackwood|Captain Blackwood]] leans in. "We've had reports of... creatures. Reptiles. Kept
+- [[Captain Blackwood]] leans in. "We've had reports of... creatures. Reptiles. Kept
   as pets. Surely not true, Doctor?"
 - **Challenge:** Lying or deflecting.
 - **Check:** DC 14 CHA (Deception).
@@ -148,7 +148,7 @@ servants.
 **The Map:** He unrolls a large canvas map on the table. It is detailed, but one
 sector is circled in red ink: **Hex 44-B.**
 
-> **[[npcs/albion-dominion/colonel-percival-huzzard|Colonel Huzzard]]:** "We've secured the river. We've routed the savages. But
+> **[[Colonel Huzzard]]:** "We've secured the river. We've routed the savages. But
 > _this_... this is a problem."
 
 **The Situation:**
@@ -166,7 +166,7 @@ sector is circled in red ink: **Hex 44-B.**
 
 - "Do this, and the Dominion will officially recognize your claim to Mivvin's
   Rest. We will grant you a Charter. You will be landed gentry, not squatters."
-- **The Catch:** "[[npcs/albion-dominion/captain-blackwood|Captain Blackwood]] will accompany you. To observe."
+- **The Catch:** "[[Captain Blackwood]] will accompany you. To observe."
 
 ---
 
@@ -174,7 +174,7 @@ sector is circled in red ink: **Hex 44-B.**
 
 The next morning, the party sets out for **Hex 44-B**.
 
-- **The Companion:** [[npcs/albion-dominion/captain-blackwood|Captain Blackwood]] accompanies them. He wears a pristine
+- **The Companion:** [[Captain Blackwood]] accompanies them. He wears a pristine
   uniform and constantly makes notes in a leather ledger.
 - **The Jungle:** The area around the temple is unnaturally quiet. The birds
   don't sing; they whisper.
@@ -184,7 +184,7 @@ The next morning, the party sets out for **Hex 44-B**.
 - _DC 12 WIS (Perception):_ You spot figures in the trees. Pale, stick-thin
   humanoids with featureless faces (**The Silent Ones**). They do not attack.
   They watch.
-- **[[npcs/albion-dominion/captain-blackwood|Captain Blackwood]]'s Reaction:** He doesn't see them. "Stop imagining things. Focus
+- **[[Captain Blackwood]]'s Reaction:** He doesn't see them. "Stop imagining things. Focus
   on the mission."
 
 ---
@@ -294,16 +294,16 @@ The central mechanic of the temple is a series of massive celestial wheels.
 ## Conclusion
 
 **The Mission Complete:** If the party secures the **Star Map rubbings**
-(Area 6) and clears the threats (Panthers/Diplomacy with Treant), [[npcs/albion-dominion/captain-blackwood|Captain Blackwood]] is
+(Area 6) and clears the threats (Panthers/Diplomacy with Treant), [[Captain Blackwood]] is
 satisfied.
 
-**[[npcs/albion-dominion/captain-blackwood|Captain Blackwood]]'s Report:**
+**[[Captain Blackwood]]'s Report:**
 
 > "The area is secured, Colonel. Though I must note the irregulars fraternized
 > with a sentient bush and refused to cull the local predators. Highly
 > unprofessional."
 
-**The Reward:** [[npcs/albion-dominion/colonel-percival-huzzard|Colonel Huzzard]] grants the party the **Charter for Mivvin's
+**The Reward:** [[Colonel Huzzard]] grants the party the **Charter for Mivvin's
 Rest**. They are no longer squatters; they are Lairds.
 
 **Next Session:** The Star Map points to **Zuchotl** or the **Black Ziggurat**.
@@ -317,8 +317,8 @@ to hum...
 **NPCs:**
 
 - [[Colonel Percival Huzzard]]
-- [[npcs/albion-dominion/lieutenant-sterling|Lieutenant Sterling]]
-- [[npcs/albion-dominion/captain-blackwood|Captain Blackwood]]
+- [[Lieutenant Sterling]]
+- [[Captain Blackwood]]
 - [[Major "Mad Jack" Ponsonby]]
 - [[Maied]]
 - [[Lady Lara Croft Johnson]]
