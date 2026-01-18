@@ -1,9 +1,22 @@
 # River of Night Campaign Reference
 
+#campaign #shadowdark #river-of-night
+
 > **Note**: This file contains campaign-specific details for the River of Night
 > adventure. To use this skill for your own campaign, replace the contents of
 > this file with your own campaign information. The SKILL.md file will
 > automatically reference this CAMPAIGN.md file when generating sessions.
+
+## Quick Links
+
+- [[CAMPAIGN_NOTES]] - Session summaries and what actually happened
+- [[Session 01 - The House on Mivvin's Rest]] - First session
+- [[Session 07 - The Jungle Strikes Back]] - Most recent session
+- [NPCs Directory](npcs/NPC_DIRECTORY.md) - All campaign NPCs by faction
+- [Party Roster](party/PARTY_ROSTER.md) - Player characters
+- [Monsters & Tables](../../shadowdark-library/monsters/MONSTERS_AND_TABLES.md)
+- [Core Rules](../../shadowdark-library/core-rules/CORE_RULES_GUIDE.md)
+- [Adventures Guide](../../shadowdark-library/adventures/ADVENTURES_GUIDE.md)
 
 This document contains campaign-specific information for the River of Night
 adventure. Reference this when creating sessions for this specific campaign.
@@ -53,72 +66,27 @@ This is a **West Marches style campaign**:
 
 ### Lady Lara Croft Johnson
 
-**Role**: Quest giver, patron, leader of the League of Extraordinary Gentlemen  
-**Background**:
+**Full Profile**: [Lady Lara Croft Johnson](npcs/mivvins-rest/lady-lara-croft-johnson.md)
 
-- Archaeologist and "tomb raider"
-- Inherited the mansion from her eccentric uncle who disappeared (now a ghost)
-- Older sister of Lord Johnson (mayor of Blackmire)
-- Recently suffered from jungle fever, unable to journey into the jungle herself
-- Seeking adventurers to help her archaeological efforts
+**Role**: Quest giver, patron, leader of the League of Extraordinary Gentlemen
 
-**Personality**:
-
-- Brilliant and resourceful
-- Experienced explorer now sidelined by illness
-- Values competence and bravery
-- Has extensive knowledge of local ruins and artifacts
-
-**Organization**: Leader of the League of Extraordinary Gentlemen - an
-adventurer's guild where people come from far and wide to hunt in the jungle and
-search for treasure
+**Quick Summary:** Wealthy archaeologist and "tomb raider" who inherited Mivvin's Rest from her uncle [[Alistair Johnson]]. Founded the League of Extraordinary Gentlemen to fund jungle expeditions. Brilliant, resourceful, and values competence.
 
 ### Allan Quatermain
 
-**Role**: Mentor, guide, expert on jungle survival  
-**Background**:
+**Full Profile**: [Allan Quatermain](npcs/mivvins-rest/allan-quatermain.md)
 
-- Professional big game hunter
-- Occasional trader in the southern jungle
-- Supported colonial efforts while favoring indigenous peoples having a say in
-  their affairs
-- Quintessential imperial outdoorsman
+**Role**: Mentor, guide, expert on jungle survival
 
-**Personality**:
-
-- Finds cities and their climate unbearable
-- Prefers to spend most of his life in the jungle
-- Grizzled, experienced, and practical
-- Tests newcomers to ensure they can survive
-- Weathered appearance, speaks tersely but wisely
-
-**Knowledge**: Expert on jungle dangers, native customs, wildlife, and survival
-techniques
-
-**Equipment**: Wields a powerful magic double heavy crossbow (twin-stringed,
-twin-track). Treat as a heavy crossbow for proficiency. It can hold and fire two
-bolts before reloading. Firing options:
-
-- Single Target (Both Bolts): Roll two attack rolls, choose the better
-  (advantage), then roll damage once (apply any magic bonus). Counts as firing
-  both tracks.
-- Split Fire (Two Targets): Make separate attack rolls and damage rolls for each
-  bolt. Reloading both tracks requires 2 full rounds (or 1 round to reload a
-  single track). The arcane reinforcement bands cause the first non-magical
-  attempt to sunder/break it each session to automatically fail. Counts as
-  magical for overcoming resistances.
+**Quick Summary:** Professional big-game hunter and [[Lady Lara Croft Johnson|Lady Johnson]]'s adviser. Grizzled, experienced, and practical. Tests newcomers with "The Proving Ground" walkabout. Expert on jungle dangers, wildlife, and survival. Wields a magic double heavy crossbow.
 
 ### The Ghost of Johnson's Uncle
 
-**Role**: Source of lore and mystery  
-**Location**: Haunts a secret chamber in the mansion  
-**Background**:
+**Full Profile**: [Alistair Johnson](npcs/jungle-spirits/alistair-johnson.md)
 
-- Lady Johnson's eccentric uncle
-- Disappeared under mysterious circumstances
-- Left behind a map of the region in his secret chamber
+**Role**: Source of lore and mystery
 
-**Purpose**: Provides historical context and clues about ancient sites
+**Quick Summary:** [[Lady Lara Croft Johnson|Lady Johnson]]'s eccentric uncle who disappeared researching ancient temples and solar eclipses. Haunted his secret chamber until the party completed his star chart puzzle in [[Session 01 - The House on Mivvin's Rest]]. Left behind maps and the Font of Healing.
 
 ## Player Background
 
@@ -179,13 +147,14 @@ Use plot elements and characters from League of Extraordinary Gentlemen stories:
 
 ### Ongoing Threats
 
-**Basilisk Cult** (introduced in Session 2):
+**Basilisk Cult** (introduced in [[Session 02 - The Proving Ground]]):
 
-- Stone Warriors who worship six-legged basilisks
+- Stone Warriors who worship six-legged [basilisks](../../shadowdark-library/monsters/manual-monsters/basilisk.md)
 - Live deeper in the jungle (temple at hex 706)
 - Slaughtered archaeologists at Dig Site A (hex 104)
-- Retrieved basilisk egg now stored in mansion vault
+- Retrieved [basilisk](../../shadowdark-library/monsters/manual-monsters/basilisk.md) egg now stored in mansion vault
 - Will eventually attack mansion to reclaim the egg
+- See also: [Basilisk Cult NPCs](npcs/basilisk-cult/)
 
 ### Session Design Considerations
 
@@ -221,12 +190,12 @@ early on but introduce them again later.
 ## Hex Locations of Note
 
 **Hex 603**: Gorilla Statue - magical statue that transforms fruit into potions,
-guarded by apes  
-**Hex 104**: Dig Site A - slaughtered archaeological camp, Basilisk Cult attack
+guarded by [apes](../../shadowdark-library/monsters/manual-monsters/ape.md)  
+**Hex 104**: Dig Site A - slaughtered archaeological camp, [Basilisk Cult](npcs/basilisk-cult/) attack
 site  
-**Hex 706**: Basilisk Cult Temple - home of the Stone Warriors
+**Hex 706**: [Basilisk Cult](npcs/basilisk-cult/) Temple - home of the Stone Warriors
 
-(Reference Cursed Scroll 4 - River of Night for complete hex details)
+(Reference [River of Night Adventure](../../shadowdark-library/adventures/ADVENTURES_GUIDE.md) for complete hex details)
 
 ## Tone and Atmosphere Guidelines
 
@@ -247,3 +216,30 @@ Track between sessions:
 - Ongoing threats (Basilisk Cult status)
 - Resources stored at the mansion
 - Reputation within the League of Extraordinary Gentlemen
+
+---
+
+## Related
+
+**Campaign Organization:**
+- [[CAMPAIGN_NOTES.md]] - Session summaries and planning
+- [[TIMELINE.md]] - Complete chronology (Day 1 to present)
+- [[LOCATIONS.md]] - All discovered locations
+- [[FACTIONS.md]] - Faction relationships and status
+- [[NPC_DIRECTORY.md]] - Complete NPC roster by faction
+- [[PARTY_ROSTER.md]] - Party members and status
+
+**Session Files:**
+- [[Session 01 - The House on Mivvin's Rest]]
+- [[Session 02 - The Proving Ground]]
+- [[Session 03 - Teeth in the Night]]
+- [[Session 04 - The Serpent's Eye]]
+- [[Session 05 - The Burden of Beasts]]
+- [[Session 06 - The Albion Dominion]]
+- [[Session 07 - The Jungle Strikes Back]]
+
+**Reference Materials:**
+- [Core Rules](../../shadowdark-library/core-rules/CORE_RULES_GUIDE.md)
+- [Monsters & Tables](../../shadowdark-library/monsters/MONSTERS_GUIDE.md)
+- [Adventure Guide](../../shadowdark-library/adventures/ADVENTURES_GUIDE.md)
+
