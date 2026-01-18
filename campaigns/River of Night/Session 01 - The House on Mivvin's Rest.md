@@ -4,7 +4,7 @@ session-number:: 1 session-date:: 2025-11-30 in-game-date:: Day 1 of expedition
 level:: 3 location:: [[Mivvin's Rest]] main-npcs:: [[Lady Lara Croft Johnson]],
 [[Allan Quatermain]], [[Alistair Johnson]] main-threats:: [[Lizardfolk]] ambush,
 [[Alistair Johnson|Ghost]] puzzle rewards:: Font of Healing access, regional
-map, 150gp, emeralds, potion key-events:: Met patrons, cured Lady Johnson,
+map, 150gp, emeralds, potion key-events:: Met patrons, cured [[Lady Johnson]],
 solved star chart, laid Alistair to rest
 
 #session #river-of-night #session-01 #introduction #combat #puzzle #exploration
@@ -76,8 +76,8 @@ blowgun.
 
 After the ambush, the party arrives at a large, manicured clearing containing a
 magnificent, two-story colonial-style house with wide verandas. On the porch, a
-weathered man introduces himself as **Allan Quatermain**. He offers the party
-refreshments and informs them that Lady Johnson is expecting them but is unwell.
+weathered man introduces himself as **[[Allan Quatermain]]**. He offers the party
+refreshments and informs them that [[Lady Johnson]] is expecting them but is unwell.
 
 ### Meeting the Patrons
 
@@ -91,8 +91,8 @@ from exploring and proposes to fund the party's expeditions in exchange for a
 share of their findings. She introduces her adventurer's guild, the **League of
 Extraordinary Gentlemen**, and invites the party to join.
 
-**Allan Quatermain:** He is a famed big-game hunter and explorer who serves as
-Lady Johnson's adviser and a potential resource for the party. He is wary of the
+**[[Allan Quatermain]]:** He is a famed big-game hunter and explorer who serves as
+[[Lady Johnson]]'s adviser and a potential resource for the party. He is wary of the
 jungle's supernatural elements but is an unparalleled expert on its mundane
 dangers, flora, and fauna. He can offer advice on travel and survival.
 
@@ -102,7 +102,7 @@ dangers, flora, and fauna. He can offer advice on travel and survival.
 
 ### The Mystery
 
-Lady Johnson mentions that she inherited the house from her eccentric uncle, a
+[[Lady Johnson]] mentions that she inherited the house from her eccentric uncle, a
 cartographer who disappeared years ago. His old desk is still in the study.
 
 ### The Puzzle
@@ -153,7 +153,7 @@ the west and an archway to the east.
 
 **The Ghost:** The
 **[Ghost](../../shadowdark-library/monsters/manual-monsters/ghost.md)** of
-Alistair Johnson haunts this room. He appears as a sad, translucent man who
+[[Alistair Johnson]] haunts this room. He appears as a sad, translucent man who
 cannot speak but will try to guide the party toward a large, incomplete star
 chart on a central table. He will only become hostile if his work is damaged. To
 appease the ghost, the party must place several wooden, star-shaped pieces
@@ -202,7 +202,7 @@ pick). Inside, they find:
 
 ## Session Conclusion
 
-The party can return to Lady Johnson with the map, journal, and a bottle of the
+The party can return to [[Lady Johnson]] with the map, journal, and a bottle of the
 fountain's healing water. The water will cure her fever, and she will
 enthusiastically hire them to explore the locations on the map, setting the
 stage for the rest of the campaign.

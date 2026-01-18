@@ -4,7 +4,7 @@ session-number:: 5 session-date:: 2025-12-28 in-game-date:: Day 15 of expedition
 level:: 4 location:: [[Mivvin's Rest]] main-npcs:: [[Doctor Googoo]],
 [[Allan Quatermain]], [[Durgan Coalbeard]], The Herald main-threats:: Baby
 basilisks, The Herald, [[Earth Elemental]] rewards:: One basilisk retained,
-fortification upgrades key-events:: Doctor Googoo's mockery, basilisk nursery
+fortification upgrades key-events:: Doctor [[Doctor Googoo]]'s mockery, basilisk nursery
 chaos, Herald attacked and escaped with one basilisk
 
 #session #river-of-night #session-05 #roleplay #comedy #combat
@@ -50,7 +50,7 @@ from _Monty Python and the Holy Grail_)
 > _"When the Jaguar came to feed, Doctor Googoo showed his speed!_ _Not to fight
 > or save the lad, but to hide inside his pad!_ _He didn't save the Dwarf named
 > Grimm, 'cause danger was too much for him!_ _And while the cultists killed and
-> burned, Googoo's stomach simply turned!_ _Brave, Brave, Brave, Brave Doctor
+> burned, [[Doctor Googoo]]'s stomach simply turned!_ _Brave, Brave, Brave, Brave Doctor
 > Googoo!"_
 >
 > _"He slept through screams and bloody fights, and ignored the jungle's biting
@@ -63,21 +63,21 @@ from _Monty Python and the Holy Grail_)
 Hungry and perhaps hoping to ignore the song, Googoo heads to the field kitchen
 for coffee.
 
-- **The Cook:** A large, usually jovial woman named **Martha**. Today, she slams
+- **The Cook:** A large, usually jovial woman named **[[Martha]]**. Today, she slams
   a metal ladle onto the table as he approaches.
-- **Martha:** "No."
+- **[[Martha]]:** "No."
 - **Googoo:** (If he asks why)
-- **Martha:** "Coffee is for the workers. For the people building the walls to
+- **[[Martha]]:** "Coffee is for the workers. For the people building the walls to
   keep us safe. Not for..." She waves the ladle vaguely at him. "Not for
   guests."
 - **The Insult:** She deliberately pours the last of the fresh pot into the
   dirt, maintaining eye contact. "Looks like we're out. Shame."
 
-### The Realization (Durgan Coalbeard)
+### The Realization ([[Durgan Coalbeard]])
 
-Walking away from the kitchen, Googoo finds **Durgan Coalbeard** sitting on a
+Walking away from the kitchen, [[Doctor Googoo]] finds **[[Durgan Coalbeard]]** sitting on a
 crate near the blackened ruins of the bunkhouse. He is sharpening a massive,
-heavy pickaxe—**Grimm Ironfoot’s pickaxe**. The sound is rhythmic and harsh:
+heavy pickaxe—**[[Grimm Ironfoot]]’s pickaxe**. The sound is rhythmic and harsh:
 _Shhhk. Shhhk. Shhhk._
 
 He looks older. His face is smeared with soot and sweat, and his eyes are
@@ -96,7 +96,7 @@ red-rimmed. He doesn't look up when Googoo approaches.
 > beam. I tried to pull him out, but I wasn't strong enough. kept thinking...
 > 'Where are the heroes? Where's the magic?'"
 >
-> _He spits on the ground near Googoo's feet._
+> _He spits on the ground near [[Doctor Googoo]]'s feet._
 >
 > **Durgan:** "But you were sleeping, weren't you? Dreaming of brave deeds, no
 > doubt. Stay out of my way, Doctor. I have a grave to dig before sunset."
@@ -182,7 +182,7 @@ crew.
   _Failure:_ A tree falls the wrong way, crushing a supply crate.
 
 **Scene B: The Reinforcements (Intelligence/Engineering)** The wall needs mass.
-Lady Johnson reluctantly allows the use of the mansion's furniture.
+[[Lady Johnson]] reluctantly allows the use of the mansion's furniture.
 
 - **Action:** Hauling heavy oak wardrobes, dining tables, and bookshelves to
   reinforce the weak points of the fence.
@@ -216,7 +216,7 @@ Simultaneously, Googoo is dealing with a nightmare in the stables.
 teething.
 
 - **Iggy:** The smaller one. Loves to chew on metal. Keeps trying to eat the key
-  ring on Googoo's belt.
+  ring on [[Doctor Googoo]]'s belt.
 - **Pop:** The larger one. Aggressive. Hisses at anything that moves.
 
 **The Heist (Getting Food):** The babies start shrieking. A high-pitched,
@@ -225,12 +225,12 @@ oscillating wail that hurts the teeth.
 > **Quatermain (shouting from the roof):** "Silence those beasts, Doctor, or I
 > will silence YOU!"
 
-Googoo needs meat. But Martha the Cook has banned him from the kitchen.
+[[Doctor Googoo]] needs meat. But [[Martha]] the Cook has banned him from the kitchen.
 
 - **Mission:** Sneak into the pantry and steal a raw roast beef or a string of
   sausages.
-- **Obstacle:** Martha is sharpening a cleaver. The door squeaks.
-- **Check:** DC 12 DEX (Stealth). _Failure:_ Martha spots him. He has to flee
+- **Obstacle:** [[Martha]] is sharpening a cleaver. The door squeaks.
+- **Check:** DC 12 DEX (Stealth). _Failure:_ [[Martha]] spots him. He has to flee
   with a cloud of flour in his face, perhaps grabbing only a bag of dried jerky
   (which the babies hate).
 
@@ -256,7 +256,7 @@ off his face), "Iggy" bites his finger and scuttles out of the cage.
   - _Stealth (DEX):_ To sneak up without startling it.
   - _Athletics (STR):_ To dive and grab it.
   - _Animal Handling (WIS):_ To calm it down with cooing noises.
-  - _Failure:_ Duchess becomes a statue. Lady Johnson screams from the balcony.
+  - _Failure:_ Duchess becomes a statue. [[Lady Johnson]] screams from the balcony.
     (Consequence: Shop prices triple, and she refuses to heal Googoo).
   - _Success:_ Googoo catches it just in time. The baby nuzzles into his chest,
     spitting a little acid on his coat. It looks up at him and chirps, "Mama?"
@@ -314,9 +314,9 @@ unnatural, grinding resonance.
 
 - **Quatermain:** Is leveling his crossbow, waiting for the order. "I can take
   him, but not the big ones."
-- **Lady Johnson:** "Don't you dare give them those babies! If we give in now,
+- **[[Lady Johnson]]:** "Don't you dare give them those babies! If we give in now,
   they'll just kill us later!"
-- **Googoo's Choice:** The Herald seems to sniff the air. "I smell them... the
+- **[[Doctor Googoo]]'s Choice:** The Herald seems to sniff the air. "I smell them... the
   Mother-Scent is on one of you. Step forward, false-mother!"
 
 ---
@@ -430,7 +430,7 @@ lawn.
 **Round 4: The Crisis** One of the Golems bypasses the party and tears a pillar
 off the veranda. The roof groans.
 
-- Lady Johnson fires her crossbow, but the bolt shatters against the stone
+- [[Lady Johnson]] fires her crossbow, but the bolt shatters against the stone
   chest. "It's not working!"
 - A player must distract this Golem or the roof collapses (potentially pinning
   Quatermain).

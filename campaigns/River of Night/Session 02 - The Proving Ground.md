@@ -20,14 +20,14 @@ _Reference: Cursed Scroll 4 - River of Night V1-2, Hexes 603 & 706_
 
 This session is designed to deepen the party's connection to their new patrons
 and the grim realities of the world they've entered. Having been cured of her
-jungle fever, a grateful Lady Johnson is ready to formally induct the characters
-into her guild. However, the grizzled explorer Allan Quatermain believes they
+jungle fever, a grateful [[Lady Johnson]] is ready to formally induct the characters
+into her guild. However, the grizzled explorer [[Allan Quatermain]] believes they
 need a true taste of the jungle's perils before they are worthy. He will lead
 them on a "walkabout" that serves as an informal test, taking them to a place of
 strange jungle magic and then to the site of a horrific tragedy that befell
 another team of explorers.
 
-This session will establish Quatermain as a vital source of knowledge, showcase
+This session will establish [[Allan Quatermain]] as a vital source of knowledge, showcase
 the constant, ambient danger of the jungle, and foreshadow the looming threat of
 the Basilisk Cult.
 
@@ -46,19 +46,19 @@ walls.
 
 ### NPC Interaction
 
-Lady Johnson is seated at her uncle's desk, looking vibrant and energetic, a
-stark contrast to her previous state. Allan Quatermain stands near a window,
+[[Lady Johnson]] is seated at her uncle's desk, looking vibrant and energetic, a
+stark contrast to her previous state. [[Allan Quatermain]] stands near a window,
 cleaning a large-caliber heavy crossbow, his expression as weathered and
 unreadable as a river stone.
 
 **Read the following to the players:**
 
-> "Lady Johnson beams at you, her eyes sharp and clear. 'Thanks to you, I feel
+> "[[Lady Johnson]] beams at you, her eyes sharp and clear. 'Thanks to you, I feel
 > myself again. That miraculous water... it's a discovery for the ages! You've
 > more than proven your resourcefulness. I would be honored to formally welcome
 > you into the League of Extraordinary Gentlemen.'
 >
-> From the window, Allan Quatermain works a bolt into his heavy crossbow with a
+> From the window, [[Allan Quatermain]] works a bolt into his heavy crossbow with a
 > metallic clack. He doesn't look at you, his gaze fixed on the jungle's edge.
 > 'They found a secret passage in a dusty library, Lara. This jungle chews up
 > and spits out men who've faced far worse than a confused old ghost.'
@@ -68,12 +68,12 @@ unreadable as a river stone.
 > want to see how you handle the Green Hell. A little walkabout. We leave in one
 > hour.'"
 
-Lady Johnson will defer to Quatermain's judgment, explaining that he is the
+[[Lady Johnson]] will defer to [[Allan Quatermain]]'s judgment, explaining that he is the
 guild's foremost expert on jungle survival and his approval is essential. She
 offers to resupply the party from the manor's stores (they can replenish
 standard gear like torches, rations, rope, etc.).
 
-Quatermain will be curt and professional, offering no more details than
+[[Allan Quatermain]] will be curt and professional, offering no more details than
 necessary. He expects them to be ready on the veranda in one hour.
 
 ---
@@ -91,7 +91,7 @@ sounds of the jungle.
 
 ### Guided Encounters
 
-Quatermain leads the party south, deliberately taking them through areas of
+[[Allan Quatermain]] leads the party south, deliberately taking them through areas of
 interest to test their awareness and skills. This is less a hex-crawl and more a
 guided tour of danger.
 
@@ -119,14 +119,14 @@ any warm-blooded creature that moves within a close distance of it.
   slashing damage before being severed. It is immune to piercing damage. Fire
   deals double damage to it.
 
-Quatermain will not intervene unless a character is about to die, watching
+[[Allan Quatermain]] will not intervene unless a character is about to die, watching
 silently to see how they handle the threat. Success earns a curt nod.
 
 ### Encounter 2: The Gorilla Statue (Hex 603)
 
 _Reference: Cursed Scroll 4 - River of Night V1-2, Hex 603_
 
-After a few hours of travel, Quatermain leads you into a sun-dappled clearing
+After a few hours of travel, [[Allan Quatermain]] leads you into a sun-dappled clearing
 dominated by an incredible sight.
 
 > "A massive, stone statue of a gorilla, pocked with age and draped in moss,
@@ -141,7 +141,7 @@ They are not interested in a fight to the death, only in driving the party away.
 
 **Challenge:**
 
-- **Puzzle:** Quatermain knows the secret of this place. He'll mutter, "The old
+- **Puzzle:** [[Allan Quatermain]] knows the secret of this place. He'll mutter, "The old
   ones believed in fair trade. A gift for a gift." If the players place a piece
   of fruit in the statue's hands, it will magically transform into a random
   potion.
@@ -164,7 +164,7 @@ They are not interested in a fight to the death, only in driving the party away.
 
 ### Atmosphere
 
-Quatermain leads the party east from the statue, his demeanor growing more grim.
+[[Allan Quatermain]] leads the party east from the statue, his demeanor growing more grim.
 The jungle becomes quieter, the air heavier.
 
 > "There's a dig site nearby I was meaning to check on. Run by a promising young
@@ -203,9 +203,9 @@ where they fell.
 > Rest for study. The local guides are terrified; they speak of a 'stone cult'
 > that worships the beasts. Superstitious nonsense."
 
-### Quatermain's Insight
+### [[Allan Quatermain]]'s Insight
 
-Once the clues are gathered, Quatermain will piece it together, his voice low
+Once the clues are gathered, [[Allan Quatermain]] will piece it together, his voice low
 and grim.
 
 > "'Basilisk Cultists,' he spits, gesturing with his chin at the spearhead.
@@ -223,14 +223,14 @@ the manor's vault. He hadn't realized its significance until now.
 ## Session Conclusion
 
 The party returns to Mivvin's Rest, the grim reality of their new vocation
-weighing heavily upon them. Quatermain will lead them to the veranda and pour
+weighing heavily upon them. [[Allan Quatermain]] will lead them to the veranda and pour
 them a stiff drink.
 
 > "'You kept your heads. You learned. You survived.' He raises his glass in a
 > short, sharp gesture. 'That's all the jungle asks. You're in.' He drains his
 > glass. 'Welcome to the League.'"
 
-Lady Johnson will greet them, her expression turning somber as Quatermain
+[[Lady Johnson]] will greet them, her expression turning somber as Quatermain
 explains what they found. She will confirm the basilisk egg is safe but is now
 deeply concerned.
 
@@ -241,7 +241,7 @@ deeply concerned.
 > house."
 
 **The session ends here.** The players are now full members of the League of
-Extraordinary Gentlemen, they have the respect of Allan Quatermain, and they
+Extraordinary Gentlemen, they have the respect of [[Allan Quatermain]], and they
 have a clear and present threat to confront in the coming sessions: the Basilisk
 Cult from the temple at hex 706, who want their egg back.
 

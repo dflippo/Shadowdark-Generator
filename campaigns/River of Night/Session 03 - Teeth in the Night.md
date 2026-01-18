@@ -67,12 +67,12 @@ bunkmates. This scene is **critical** for establishing empathy.
 
 **The Dwarves:**
 
-- **Grimm Ironfoot (Foreman):** Gruff, older, smoking a pipe. He respects
+- **[[Grimm Ironfoot]] (Foreman):** Gruff, older, smoking a pipe. He respects
   strength.
-- **Durgan Coalbeard (The Victim):** Young, wide-eyed, and eager. He is
+- **[[Durgan Coalbeard]] (The Victim):** Young, wide-eyed, and eager. He is
   star-struck by the "heroes."
 
-**Roleplay Moment:** Durgan approaches Doctor Googoo with a bottle of cheap but
+**Roleplay Moment:** Durgan approaches Doctor [[Doctor Googoo]] with a bottle of cheap but
 strong dwarven spirits. He sits on a crate, eyes wide with admiration.
 
 > "Is it true then? What they say?" Durgan asks, leaning in. "Did you really
@@ -130,7 +130,7 @@ deafening chorus of insects.
 > night breeze. The cot next to you—Durgan's cot—is empty. The canvas is
 > shredded, and there is blood on the floor.
 >
-> Grimm Ironfoot is scrambling for his pickaxe, his face pale in the lantern
+> [[Grimm Ironfoot]] is scrambling for his pickaxe, his face pale in the lantern
 > light. 'The lad!' he roars, his voice cracking. 'Something took the lad! I saw
 > it—eyes like burning coals! It dragged him into the dark!'"
 
@@ -288,7 +288,7 @@ servants' quarters and breach the mansion.
 
 - **The Servants' Quarters:** Two tents are on fire. Dwarves and servants are
   fighting desperately with shovels and picks against masked warriors.
-- **The Veranda:** Lady Johnson is pinned down behind a flipped table, firing a
+- **The Veranda:** [[Lady Johnson]] is pinned down behind a flipped table, firing a
   hand crossbow at cultists trying to smash the front doors.
 
 ### Objective
@@ -300,10 +300,10 @@ servants' quarters and breach the mansion.
     slaughtering the unarmed laborers.
     > "Die, soft-skins! The Stone God demands it!" one cultist screams as he
     > raises a spear over a cowering servant.
-2.  **Protect Lady Johnson:** 4
+2.  **Protect [[Lady Johnson]]:** 4
     [Cultists](../../shadowdark-library/monsters/manual-monsters/cultist.md) and
     a **Cult Leader** are breaching the main house.
-    > Lady Johnson shouts from the veranda, "Hold them back! Don't let them
+    > [[Lady Johnson]] shouts from the veranda, "Hold them back! Don't let them
     > inside! Allan! Where the hell is Allan?!" She looses a bolt that catches a
     > cultist in the shoulder.
 
@@ -320,7 +320,7 @@ within near range have Advantage on attacks)._
 
 - The cultists are suicidal. They want to cause maximum damage.
 - If the party saves the servants, the dwarves rally and help fight.
-- If the party rushes to Lady Johnson, the servants suffer heavy casualties
+- If the party rushes to [[Lady Johnson]], the servants suffer heavy casualties
   (impacting future morale/services).
 
 ---
@@ -338,7 +338,7 @@ and the illusion of safety is shattered.
 > "The last cultist falls. The silence that follows is heavy, broken only by the
 > crackle of dying fires and the weeping of the survivors.
 >
-> Lady Johnson steps out from the veranda, her face smeared with soot, her
+> [[Lady Johnson]] steps out from the veranda, her face smeared with soot, her
 > crossbow still in hand. She looks at the bodies of the cultists—men wearing
 > stone masks—and then at you.
 >
@@ -355,7 +355,7 @@ and the illusion of safety is shattered.
 
 - **XP:** Awarded for the Jaguar and Cultists.
 - **Durgan:** If saved, he swears a life-debt to the party. If dead, Grimm
-  Ironfoot becomes a grim, vengeance-obsessed ally.
+  [[Grimm Ironfoot]] becomes a grim, vengeance-obsessed ally.
 - **The Mansion:** Repairs will take time. The party may need to invest gold to
   fortify the defenses (walls, guards) for future sessions.
 

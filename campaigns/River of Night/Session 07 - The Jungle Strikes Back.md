@@ -5,7 +5,7 @@ level:: 4-5 location:: [[Mivvin's Rest]] main-npcs::
 [[Colonel Percival Huzzard]], [[Captain Blackwood]], [[Lieutenant Sterling]],
 [[Major "Mad Jack" Ponsonby]], [[Maied]] main-threats:: Poison mystery,
 [[Basilisk Cult]] infiltration, [[Maied]] boss fight rewards:: Arrested traitor,
-defended Mivvin's Rest key-events:: Captain Blackwood exposed as traitor, Maied
+defended Mivvin's Rest key-events:: [[Captain Blackwood]] exposed as traitor, Maied
 killed in combat
 
 #session #river-of-night #session-07 #investigation #mystery #boss-fight #combat
@@ -20,7 +20,7 @@ chaos. The theme shifts from **Colonial Satire** to **Desperate Survival**.
 
 **Key Elements:**
 
-1.  **The Mystery:** Who poisoned Colonel Huzzard?
+1.  **The Mystery:** Who poisoned [[Colonel Huzzard]]?
 2.  **The Betrayal:** The "Trojan Rabbit" is a portal for the Cult.
 3.  **The Boss Fight:** Maied returns, furious and powerful.
 
@@ -38,13 +38,13 @@ chaos. The theme shifts from **Colonial Satire** to **Desperate Survival**.
 
 **Scene:** The Governor’s Mansion. The main hall is unrecognizable. Tapestries
 depicting the "Taming of the Wild" cover the moldy walls. In the corner,
-**Doctor Googoo's personal minstrels** (who he unfortunately paid in advance)
+**Doctor [[Doctor Googoo]]'s personal minstrels** (who he unfortunately paid in advance)
 are providing the entertainment.
 
 ### Scene 1: The Gathering
 
 _The party enters. The room is a sea of red uniforms and silk dresses. Colonel
-Huzzard stands by a large punch bowl. As Doctor Googoo appears, the minstrels
+[[Colonel Huzzard]] stands by a large punch bowl. As [[Doctor Googoo]] appears, the minstrels
 strike up a jaunty, mocking tune:_
 
 > "Brave Doctor Googoo ran away! (I didn't!) Bravely ran away away! When danger
@@ -68,14 +68,14 @@ feet. Huzzard’s a fool. He thinks drawing lines on a map makes the land ours. 
 hasn't seen what lives in the dark. I have."
 
 **CAPTAIN BLACKWOOD:** _(Materializing beside the party, notebook in hand)_
-"Major Ponsonby, your cheerfulness is noted. And you, adventurers. I trust you
+"[[Major Ponsonby]], your cheerfulness is noted. And you, adventurers. I trust you
 are prepared for the next phase? Once the Colonel announces the Charter, we
 march for Zuchotl. No more wandering. No more... pets." _(He glares at Doctor
 Googoo, if present)._
 
 ### Scene 2: The Toast & The Poison
 
-_The music stops. Colonel Huzzard taps a spoon against his crystal goblet. The
+_The music stops. [[Colonel Huzzard]] taps a spoon against his crystal goblet. The
 room quiets._
 
 **COLONEL HUZZARD:** "Ladies, Gentlemen, Officers of the Dominion! _(He raises
@@ -143,7 +143,7 @@ Before they finish the job."
 
 ## Part 2: The Chaos Erupts (The Storm)
 
-_Just as Huzzard catches his breath, a siren wails from the camp outside. It is
+_Just as [[Colonel Huzzard]] catches his breath, a siren wails from the camp outside. It is
 the distinct, rhythmic horn blast of the Dominion alarm._
 
 **SOLDIER (Off-screen):** "BREACH! PERIMETER BREACH! TO THE BARRICADES!"
@@ -180,7 +180,7 @@ rumble that isn't an explosion. It's the earth moving._
 
 > The treeline to the south explodes. It doesn't burn—it _bursts_. Massive trees
 > are uprooted and tossed aside like twigs. Stepping from the jungle is a figure
-> you know. Maied. But the flowers are gone. Her eyes burn with green, baleful
+> you know. [[Maied]]. But the flowers are gone. Her eyes burn with green, baleful
 > fire. Her bark is black and spiked. She wields a staff the size of a sapling.
 
 **MAIED:** _(Her voice is a grinding earthquake, booming across the clearing)_
@@ -258,12 +258,12 @@ Beast, Neutral_ **AC:** 14 | **HP:** 14 | **MV:** Near **Attacks:** +3 Claws
 
 ---
 
-## Boss Encounter: Maied, The Vengeful Mother
+## Boss Encounter: [[Maied]], The Vengeful Mother
 
 **Location:** The mud-churned clearing. Rain begins to fall. **The Situation:**
 The Army is pinned by
 [Cultists](../../shadowdark-library/monsters/manual-monsters/cultist.md). The
-Party must stop Maied.
+Party must stop [[Maied]].
 
 **Stats (Enhanced
 [Dryad](../../shadowdark-library/monsters/manual-monsters/dryad.md)):** **AC:**
@@ -290,7 +290,7 @@ dealt the most damage._ **MAIED:** "Come here! Look into my eyes! Tell me... did
 they suffer? Did my beautiful panthers suffer when you butchered them?!"
 
 - **Effect:** **+4 Attack vs AC**. On a hit, the target takes **1d6 damage** and
-  is pulled to **Close** range with Maied.
+  is pulled to **Close** range with [[Maied]].
 
 **Round 3: Spore Cloud** _The flowers on Maied's shoulders wilt and rot in
 seconds, puffing out a cloud of choking yellow dust._ **MAIED:** "Breathe deep.
@@ -335,9 +335,9 @@ Dominion discipline is holding, but barely._
 though the windows are shattered. **Atmosphere:** Tense, paranoid, and smelling
 of ozone and wet wool.
 
-_Colonel Huzzard sits behind his desk. He is wrapped in a blanket, his face
+_[[Colonel Huzzard]] sits behind his desk. He is wrapped in a blanket, his face
 pale, but his eyes are sharp. He sips a cup of steaming herbal tea provided by
-the Medic. Major Ponsonby, Captain Blackwood, Lieutenant Sterling, and the Party
+the Medic. [[Major Ponsonby]], [[Captain Blackwood]], [[Lieutenant Sterling]], and the Party
 are present. The air is thick with suspicion._
 
 **COLONEL HUZZARD:** _(Voice rasping, but steady)_ "The savage is dead. The
@@ -392,7 +392,7 @@ _Where the drinks were poured. A nervous young ensign is guarding the area._
 someone loitering here before the speech. Someone high ranking. They said they
 were 'inspecting the crystal for flaws'."
 
-**Dialogue with Ensign Pip:**
+**Dialogue with [[Ensign Pip]]:**
 
 - **PC:** "Who was it?"
 - **Pip:** "I... I couldn't see their face clearly. The lighting was dim. But I
@@ -402,11 +402,11 @@ were 'inspecting the crystal for flaws'."
 
 _The party searches the rooms of the three main suspects._
 
-- **Sterling's Room:** Immaculate. Letters to his mother about how much he
+- **[[Lieutenant Sterling]]'s Room:** Immaculate. Letters to his mother about how much he
   admires Huzzard. _Not the killer._
 - **Ponsonby's Room:** A mess. Empty whiskey bottles. A diary that says "Huzzard
   is a fool, but he pays well." _Not the killer._
-- **Blackwood's Room:** Sparse. Mathematical charts. A locked chest (DC 15 to
+- **[[Captain Blackwood]]'s Room:** Sparse. Mathematical charts. A locked chest (DC 15 to
   pick). Inside: A report to the "Home Office" detailing Huzzard's incompetence
   and a recommendation for "Immediate Replacement via Natural Causes."
 
@@ -416,15 +416,15 @@ _The party returns to the study. They must present their evidence._
 
 **Evidence Points:**
 
-1.  **The Boots:** "Click-drag" matches Captain Blackwood, who has a prosthetic
+1.  **The Boots:** "Click-drag" matches [[Captain Blackwood]], who has a prosthetic
     toe he never mentions.
 2.  **The Gloves:** The Silver Hawk is the crest of the Intelligence
-    Corps—Blackwood's unit.
+    Corps—[[Captain Blackwood]]'s unit.
 3.  **The Report:** The letter in the chest is a smoking gun.
 
 **COLONEL HUZZARD:** "Well? Who is the snake in my garden?"
 
-_If the Party accuses Blackwood with evidence:_
+_If the Party accuses [[Captain Blackwood]] with evidence:_
 
 **CAPTAIN BLACKWOOD:** _(He stops writing. He closes his notebook with a snap.
 He adjusts his glasses.)_ "Efficient. I underestimated your observational
@@ -437,7 +437,7 @@ erratic. Emotional. This expedition is too important to be led by a man who
 stops to make speeches while the jungle encroaches. The algorithm demanded your
 removal."
 
-_Blackwood draws a hidden weapon—a prototype repeating hand-crossbow._
+_[[Captain Blackwood]] draws a hidden weapon—a prototype repeating hand-crossbow._
 
 **CAPTAIN BLACKWOOD:** "Regrettably, I must now purge the witnesses.
 Calculations suggest I have a 60% chance of escape if I kill the nearest
@@ -445,10 +445,10 @@ mercenary and jump through the window."
 
 **Combat:**
 
-- **Captain Blackwood:** (Use
+- **[[Captain Blackwood]]:** (Use
   [Thief](../../shadowdark-library/monsters/manual-monsters/thief.md)/[Assassin](../../shadowdark-library/monsters/manual-monsters/assassin.md)
   stats, but with a Repeating Hand Crossbow: 1d6 dmg, 2 attacks per round).
-- He is quickly subdued by Ponsonby and Sterling if the party delays, but he
+- He is quickly subdued by [[Major Ponsonby]] and [[Lieutenant Sterling]] if the party delays, but he
   should get one shot off at Huzzard (Misses) or a PC.
 
 ---
@@ -456,7 +456,7 @@ mercenary and jump through the window."
 ## Part 5: The March Begins
 
 **Scene:** Dawn. The rain has stopped. The camp is battered but functional.
-**Captain Blackwood** is in irons, being loaded onto a prisoner wagon.
+**[[Captain Blackwood]]** is in irons, being loaded onto a prisoner wagon.
 
 **COLONEL HUZZARD:** _(Standing on the steps, looking healthier. The Font of
 Healing works miracles.)_ "Take him away. He can explain his 'algorithms' to the
