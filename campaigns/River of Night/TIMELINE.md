@@ -181,13 +181,13 @@ campaign, organized by in-game days and real-world session dates.
 - [[Albion Dominion]] arrives with 500 troops, establishes
   [[Governor's Clearing]]
 - Party explores [[Star Map Temple]], meets [[Maied]] (peaceful)
-- Diplomatic meetings with [[Colonel Percival Huzzard]]
+- Diplomatic meetings with [[Colonel Huzzard]]
 - Tense negotiations between League and Dominion
 - [[Captain Blackwood]] begins poisoning investigation (secretly the poisoner)
 
 ### NPCs Met
 
-- [[Colonel Percival Huzzard]]
+- [[Colonel Huzzard]]
 - [[Lieutenant Sterling]]
 - [[Captain Blackwood]]
 - [[Major "Mad Jack" Ponsonby]]

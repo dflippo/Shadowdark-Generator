@@ -2,7 +2,7 @@
 
 session-number:: 7 session-date:: 2026-01-18 in-game-date:: Day 47 of expedition
 level:: 4-5 location:: [[Mivvin's Rest]] main-npcs::
-[[Colonel Percival Huzzard]], [[Captain Blackwood]], [[Lieutenant Sterling]],
+[[Colonel Huzzard]], [[Captain Blackwood]], [[Lieutenant Sterling]],
 [[Major "Mad Jack" Ponsonby]], [[Maied]] main-threats:: Poison mystery,
 [[Basilisk Cult]] infiltration, [[Maied]] boss fight rewards:: Arrested traitor,
 defended Mivvin's Rest key-events:: [[Captain Blackwood]] exposed as traitor, Maied
@@ -51,7 +51,7 @@ killed in combat
   > shrieked in fright, And gallantly ran into the night! Brave, brave, brave,
   > brave [[Doctor Googoo]]!"
 
-  _[[Colonel Percival Huzzard]] looks flushed and victorious, ignoring the
+  _[[Colonel Huzzard]] looks flushed and victorious, ignoring the
   lyrics._
 
   **[[Lieutenant Sterling]]:** _(Approaching the party, holding a glass of
@@ -83,17 +83,17 @@ killed in combat
   Governors! We have driven back the lizard-men! We have mapped the stars! We have
   brought order to the chaos!"
 
-  _(Applause. [[Colonel Percival Huzzard|Huzzard]] beams, sweat beading on his
+  _(Applause. [[Colonel Huzzard|Huzzard]] beams, sweat beading on his
   forehead.)_
 
-  **[[Colonel Percival Huzzard]]:** "And to our special guests... the irregulars
+  **[[Colonel Huzzard]]:** "And to our special guests... the irregulars
   who found the Star Map. I hereby grant you the Royal Charter for Mivvin's Rest!
   You are no longer squatters. You are subjects of the Crown!"
 
   _(He takes a deep, long draught of his wine. He swallows. He smiles. Then, his
   eyes widen. He coughs—a wet, hacking sound.)_
 
-  **[[Colonel Percival Huzzard]]:** "I... I..." _(He clutches his throat. The
+  **[[Colonel Huzzard]]:** "I... I..." _(He clutches his throat. The
   crystal goblet smashes on the floor. Purple foam bubbles at his lips.)_
   "Treason... The wine... it burns..."
 
@@ -108,10 +108,10 @@ killed in combat
 
 - ### Scene 3: The Rush to the Font
 
-  _[[Colonel Percival Huzzard|Huzzard]] collapses into the party's arms. He is
+  _[[Colonel Huzzard|Huzzard]] collapses into the party's arms. He is
   heavy, convulsing._
 
-  **[[Colonel Percival Huzzard]]:** _(Gasping, clutching a PC's lapel)_ "Don't...
+  **[[Colonel Huzzard]]:** _(Gasping, clutching a PC's lapel)_ "Don't...
   let them... see me... die."
 
   **party Member (Medicine DC 12):** "It's Purple Lotus extract. He has seconds,
@@ -127,11 +127,11 @@ killed in combat
   them pass, boy! If he dies, he dies. If they can save him, let them try. Unless
   you _want_ him dead, [[Lieutenant Sterling|Sterling]]?"
 
-  _They reach the basement. They dunk [[Colonel Percival Huzzard|Huzzard]] into
+  _They reach the basement. They dunk [[Colonel Huzzard|Huzzard]] into
   the glowing Font of Healing. The purple foam dissolves. He gasps, inhaling huge
   lungfuls of air._
 
-  **[[Colonel Percival Huzzard]]:** _(Soaked, shivering, trembling with rage)_
+  **[[Colonel Huzzard]]:** _(Soaked, shivering, trembling with rage)_
   "Who? Which one? [[Major "Mad Jack" Ponsonby|Ponsonby]] has wanted my rank for
   years... [[Lieutenant Sterling|Sterling]] is impatient...
   [[Captain Blackwood|Blackwood]] knows too much... _(He grabs the PC's arm)_ You.
@@ -507,7 +507,7 @@ killed in combat
 
   **NPCs in This Session:**
 
-- [[Colonel Percival Huzzard]]
+- [[Colonel Huzzard]]
 - [[Captain Blackwood]]
 - [[Lieutenant Sterling]]
 - [[Maied]]

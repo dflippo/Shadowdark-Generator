@@ -2,7 +2,7 @@
 
 session-number:: 6 session-date:: 2026-01-11 in-game-date:: Day 24-45 of
 expedition level:: 4 location:: [[Mivvin's Rest]], [[Star Map Temple]]
-main-npcs:: [[Colonel Percival Huzzard]], [[Captain Blackwood]],
+main-npcs:: [[Colonel Huzzard]], [[Captain Blackwood]],
 [[Lieutenant Sterling]], [[Maied]] main-threats:: Bureaucracy, social intrigue,
 [[Panther]], formal dinner rewards:: Land charter, access to Star Map
 key-events:: Met Albion Dominion, obtained land charter, befriended [[Maied]],
@@ -94,7 +94,7 @@ Rest:
 ## Part 3: The Officer's Mess
 
 The climax of the session is a formal dinner hosted by
-**[[Colonel Percival Huzzard]]** in the newly commandeered "Governor's Hall"
+**[[Colonel Huzzard]]** in the newly commandeered "Governor's Hall"
 (formerly part of Mivvin's Rest or a grand tent).
 
 **The Invitation:**
@@ -105,7 +105,7 @@ The climax of the session is a formal dinner hosted by
 
 **The Guests:**
 
-- **[[Colonel Percival Huzzard]]:** Large, ruddy-faced, wears a monocle.
+- **[[Colonel Huzzard]]:** Large, ruddy-faced, wears a monocle.
   Believes the jungle can be beaten with "Discipline and Geometry."
 - **[[Lieutenant Sterling]]:** Young, eager, desperate for glory. Thinks the
   party are romantic heroes.
@@ -316,7 +316,7 @@ to hum...
 
 **NPCs:**
 
-- [[Colonel Percival Huzzard]]
+- [[Colonel Huzzard]]
 - [[Lieutenant Sterling]]
 - [[Captain Blackwood]]
 - [[Major "Mad Jack" Ponsonby]]

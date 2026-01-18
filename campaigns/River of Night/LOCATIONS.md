@@ -27,7 +27,7 @@ campaign.
 - **Type:** Military Outpost
 - **Status:** Active (Albion Dominion)
 - **First Appearance:** [[Session 06 - The Albion Dominion]]
-- **Commander:** [[Colonel Percival Huzzard]]
+- **Commander:** [[Colonel Huzzard]]
 - **Purpose:** Colonial administration, military base
 - **Sessions:** 06, 07
 - #location #safe-haven #military #albion-dominion

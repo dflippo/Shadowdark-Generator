@@ -51,14 +51,14 @@ Night campaign.
 **Type:** Colonial Military Government  
 **Status:** Active, Neutral (Political Tension)  
 **Base:** [[Governor's Clearing]]  
-**Commander:** [[Colonel Percival Huzzard]]  
+**Commander:** [[Colonel Huzzard]]  
 **First Appearance:** [[Session 06 - The Albion Dominion]]
 
 #faction #colonial #albion-dominion #military #active
 
 #### Members
 
-- [[Colonel Percival Huzzard]] - Commander, 4th Arbalesters
+- [[Colonel Huzzard]] - Commander, 4th Arbalesters
 - [[Lieutenant Sterling]] - Intelligence Officer (replaced
   [[Captain Blackwood]])
 - [[Captain Blackwood]] - Former Intelligence (imprisoned for treason)
