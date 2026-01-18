@@ -379,7 +379,7 @@ and strike back before they can mount another assault.
 **NPCs:**
 
 - [[Durgan Coalbeard]]
-- [[Lady Lara Croft Johnson]]
+- [[Lady Johnson]]
 - [[Allan Quatermain]]
 - [[Head Chef Gaston]]
 - [[Ensign Pip]]

@@ -1,7 +1,7 @@
 # Session 1: The House on Mivvin's Rest
 
 session-number:: 1 session-date:: 2025-11-30 in-game-date:: Day 1 of expedition
-level:: 3 location:: [[Mivvin's Rest]] main-npcs:: [[Lady Lara Croft Johnson]],
+level:: 3 location:: [[Mivvin's Rest]] main-npcs:: [[Lady Johnson]],
 [[Allan Quatermain]], [[Alistair Johnson]] main-threats:: [[Lizardfolk]] ambush,
 [[Alistair Johnson|Ghost]] puzzle rewards:: Font of Healing access, regional
 map, 150gp, emeralds, potion key-events:: Met patrons, cured [[Lady Johnson]],
@@ -213,7 +213,7 @@ stage for the rest of the campaign.
 
 **NPCs:**
 
-- [[Lady Lara Croft Johnson]]
+- [[Lady Johnson]]
 - [[Allan Quatermain]]
 - [[Alistair Johnson]]
 

@@ -29,7 +29,7 @@ Respected strength and hard work.
 
 - **[[Durgan Coalbeard]]:** Mentored the young dwarf like a son
 - **The Laborers:** Led and protected them
-- **[[Lady Lara Croft Johnson]]:** Employer
+- **[[Lady Johnson]]:** Employer
 
 ## Death
 

@@ -62,7 +62,7 @@ Staff, servants, and minor characters:
 
 ### Active Allies
 
-- [[Lady Lara Croft Johnson]]
+- [[Lady Johnson]]
 - [[Allan Quatermain]]
 - [[Durgan Coalbeard]]
 - [[Martha]]
@@ -93,7 +93,7 @@ Staff, servants, and minor characters:
 
 ```
 Mivvin's Rest
-├── [[Lady Lara Croft Johnson]] (Patron)
+├── [[Lady Johnson]] (Patron)
 │   ├── [[Allan Quatermain]] (Adviser)
 │   ├── The Party (Employees) - see [[PARTY_ROSTER]]
 │   └── [[Colonel Percival Huzzard]] (Political Ally)

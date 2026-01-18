@@ -39,7 +39,7 @@ campaign.
 
 **Allies:**
 
-- [[Lady Lara Croft Johnson]] - Patron and employer
+- [[Lady Johnson]] - Patron and employer
 - [[Allan Quatermain]] - Mentor (hostile to [[Doctor Googoo]])
 - [[Durgan Coalbeard]] - Owes life-debt (hates [[Doctor Googoo]])
 - [[Colonel Percival Huzzard]] - Political ally, granted land charter

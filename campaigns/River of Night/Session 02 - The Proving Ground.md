@@ -2,7 +2,7 @@
 
 session-number:: 2 session-date:: 2025-12-07 in-game-date:: Day 8 of expedition
 level:: 3 location:: [[The Green Hell]], Hex 603, Dig Site A main-npcs::
-[[Allan Quatermain]], [[Lady Lara Croft Johnson]] main-threats:: Jungle survival
+[[Allan Quatermain]], [[Lady Johnson]] main-threats:: Jungle survival
 test, [[Ape]] guardians rewards:: League membership (most party), basilisk egg
 discovered key-events:: The Proving Ground walkabout, Doctor Googoo failed test,
 discovered Basilisk Cult threat
@@ -252,7 +252,7 @@ Cult from the temple at hex 706, who want their egg back.
 **NPCs:**
 
 - [[Allan Quatermain]]
-- [[Lady Lara Croft Johnson]]
+- [[Lady Johnson]]
 - [[Martha]]
 - [[Grimm Ironfoot]]
 - [[Doctor Googoo]]

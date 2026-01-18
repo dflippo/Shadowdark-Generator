@@ -63,7 +63,7 @@ Doctor Googoo's embarrassment (see [[Session 05 - The Burden of Beasts]] and
 
 - Traveled to Mivvin's Rest with the party
 - Fought lizardfolk raiders
-- Met [[Lady Lara Croft Johnson]] and [[Allan Quatermain]]
+- Met [[Lady Johnson]] and [[Allan Quatermain]]
 - Helped solve Alistair's star chart puzzle
 
 ### Session 02: The Proving Ground

@@ -17,7 +17,7 @@ campaign, organized by in-game days and real-world session dates.
 
 - Party adventures in Blackmire, defeats ancient vampire
 - [[Alistair Johnson]] dies, leaves puzzle mansion and 2000 GP
-- [[Lady Lara Croft Johnson]] inherits [[Mivvin's Rest]]
+- [[Lady Johnson]] inherits [[Mivvin's Rest]]
 - [[Basilisk Cult]] establishes presence at [[The Serpent's Eye]]
 
 ---
@@ -31,7 +31,7 @@ campaign, organized by in-game days and real-world session dates.
 ### Events
 
 - Party arrives at [[Mivvin's Rest]]
-- Meet [[Lady Lara Croft Johnson]] and [[Allan Quatermain]]
+- Meet [[Lady Johnson]] and [[Allan Quatermain]]
 - Hired to solve [[Alistair Johnson]]'s puzzle mansion
 - Explore haunted house: mirror room, dining hall, candelabra puzzles
 - Discover clues about [[The Serpent's Eye]] basilisk temple
@@ -39,7 +39,7 @@ campaign, organized by in-game days and real-world session dates.
 
 ### NPCs Met
 
-- [[Lady Lara Croft Johnson]]
+- [[Lady Johnson]]
 - [[Allan Quatermain]]
 - [[Alistair Johnson]] (ghost/flashback)
 

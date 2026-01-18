@@ -321,7 +321,7 @@ to hum...
 - [[Captain Blackwood]]
 - [[Major "Mad Jack" Ponsonby]]
 - [[Maied]]
-- [[Lady Lara Croft Johnson]]
+- [[Lady Johnson]]
 
 **Locations:**
 

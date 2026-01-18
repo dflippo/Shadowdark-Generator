@@ -47,7 +47,7 @@ the jungle's mundane dangers, flora, and fauna.
 
 ## Key Relationships
 
-- **[[Lady Lara Croft Johnson]]:** Employer and friend
+- **[[Lady Johnson]]:** Employer and friend
 - **The Party:** Mentor and evaluator
 - **[[Doctor Googoo]]:** Openly hostile; seeks to eliminate him
 - **[[Durgan Coalbeard]]:** Respected his potential before his death
