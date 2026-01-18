@@ -319,7 +319,7 @@ to hum...
 - [[Colonel Huzzard]]
 - [[Lieutenant Sterling]]
 - [[Captain Blackwood]]
-- [[Major "Mad Jack" Ponsonby]]
+- [[Major Ponsonby]]
 - [[Maied]]
 - [[Lady Johnson]]
 

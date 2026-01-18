@@ -3,7 +3,7 @@
 session-number:: 7 session-date:: 2026-01-18 in-game-date:: Day 47 of expedition
 level:: 4-5 location:: [[Mivvin's Rest]] main-npcs::
 [[Colonel Huzzard]], [[Captain Blackwood]], [[Lieutenant Sterling]],
-[[Major "Mad Jack" Ponsonby]], [[Maied]] main-threats:: Poison mystery,
+[[Major Ponsonby]], [[Maied]] main-threats:: Poison mystery,
 [[Basilisk Cult]] infiltration, [[Maied]] boss fight rewards:: Arrested traitor,
 defended Mivvin's Rest key-events:: [[Captain Blackwood]] exposed as traitor, Maied
 killed in combat
@@ -60,13 +60,13 @@ killed in combat
   believes the star map is the key to everything. Bringing civilization to this
   godforsaken greenery."
 
-  **MAJOR "MAD JACK" PONSONBY:** _(Lurking behind a pillar, nursing a cup of
+  **MAJOR PONSONBY:** _(Lurking behind a pillar, nursing a cup of
   water. He speaks in a low, scarred raspy voice)_ "Civilization? Is that what we
   call it? Polished buttons and waltzes while the jungle rots your boots off your
   feet. Huzzard’s a fool. He thinks drawing lines on a map makes the land ours. He
   hasn't seen what lives in the dark. I have."
 
-  **CAPTAIN BLACKWOOD:** _(Materializing beside the party, notebook in hand)_
+  **Captain Blackwood:** _(Materializing beside the party, notebook in hand)_
   "Major Ponsonby, your cheerfulness is noted. And you, adventurers. I trust you
   are prepared for the next phase? Once the Colonel announces the Charter, we
   march for Zuchotl. No more wandering. No more... pets." _(He glares at Doctor
@@ -77,7 +77,7 @@ killed in combat
   _The music stops. [[Colonel Huzzard]] taps a spoon against his crystal goblet. The
   room quiets._
 
-  **COLONEL HUZZARD:** "Ladies, Gentlemen, Officers of the Dominion! _(He raises
+  **Colonel Huzzard:** "Ladies, Gentlemen, Officers of the Dominion! _(He raises
   his goblet high)_ Three months ago, this was a wilderness. A place of savagery
   and superstition. Tonight? Tonight we drink from crystal in the Hall of
   Governors! We have driven back the lizard-men! We have mapped the stars! We have
@@ -97,7 +97,7 @@ killed in combat
   crystal goblet smashes on the floor. Purple foam bubbles at his lips.)_
   "Treason... The wine... it burns..."
 
-  **[[Major "Mad Jack" Ponsonby]]:** _(Shouting, but not moving to help)_ "He's
+  **[[Major Ponsonby]]:** _(Shouting, but not moving to help)_ "He's
   down! The Colonel is down!"
 
   **[[Lieutenant Sterling]]:** _(Freezing in panic)_ "Sir! Somebody help him! He's
@@ -123,7 +123,7 @@ killed in combat
   This is a military matter! Surgeions only! You can't just drag the Commander
   into a cellar!"
 
-  **[[Major "Mad Jack" Ponsonby]]:** _(Stepping in, hand on his sword hilt)_ "Let
+  **[[Major Ponsonby]]:** _(Stepping in, hand on his sword hilt)_ "Let
   them pass, boy! If he dies, he dies. If they can save him, let them try. Unless
   you _want_ him dead, [[Lieutenant Sterling|Sterling]]?"
 
@@ -185,7 +185,7 @@ killed in combat
   **MAIED:** _(Her voice is a grinding earthquake, booming across the clearing)_
   "MURDERERS! FALSE KINGS!"
 
-  **CAPTAIN BLACKWOOD:** "Target left! Target left! Heavy bolt throwers, traverse!
+  **Captain Blackwood:** "Target left! Target left! Heavy bolt throwers, traverse!
   Bring that thing down!"
 
   **MAIED:** _(Raising her staff. Roots erupt from the ground, crushing a Dominion
@@ -336,7 +336,7 @@ killed in combat
   the Medic. [[Major Ponsonby]], [[Captain Blackwood]], [[Lieutenant Sterling]], and the Party
   are present. The air is thick with suspicion._
 
-  **COLONEL HUZZARD:** _(Voice rasping, but steady)_ "The savage is dead. The
+  **Colonel Huzzard:** _(Voice rasping, but steady)_ "The savage is dead. The
   attack is repelled. But the war... the war is inside these walls. Someone in
   this room, or someone commanded by a person in this room, put the Purple Lotus
   in my cup."
@@ -345,7 +345,7 @@ killed in combat
   dagger)_ "Don't look at me, Huzzard. If I wanted you dead, I'd have called you
   out for a duel like a gentleman. Poison is a woman's weapon. Or a coward's."
 
-  **CAPTAIN BLACKWOOD:** _(Scribbling furiously in his notebook)_ "Statistically,
+  **Captain Blackwood:** _(Scribbling furiously in his notebook)_ "Statistically,
   the poison was administered between the 'Toast to Civilization' and the actual
   drinking. Access was limited to the serving staff and the High Command. I
   suggest we interrogate the steward."
@@ -353,7 +353,7 @@ killed in combat
   **LIEUTENANT STERLING:** "The steward is dead, sir. A stray bolt during the
   first volley. Convenient, isn't it?"
 
-  **COLONEL HUZZARD:** _(Slams his fist on the desk)_ "Enough! You," _(He points
+  **Colonel Huzzard:** _(Slams his fist on the desk)_ "Enough! You," _(He points
   to the Party)_ "You are outsiders. Mercenaries. You have no loyalty to the
   politics of the Dominion, only to coin. Find me the truth. Tear this mansion
   apart if you must. If you find the traitor, I will double your land grant. If
@@ -414,24 +414,24 @@ killed in combat
       Corps—[[Captain Blackwood]]'s unit.
   3.  **The Report:** The letter in the chest is a smoking gun.
 
-  **COLONEL HUZZARD:** "Well? Who is the snake in my garden?"
+  **Colonel Huzzard:** "Well? Who is the snake in my garden?"
 
   _If the Party accuses [[Captain Blackwood]] with evidence:_
 
-  **CAPTAIN BLACKWOOD:** _(He stops writing. He closes his notebook with a snap.
+  **Captain Blackwood:** _(He stops writing. He closes his notebook with a snap.
   He adjusts his glasses.)_ "Efficient. I underestimated your observational
   skills. I calculated a 14% chance of discovery."
 
-  **COLONEL HUZZARD:** "Blackwood? You? After twenty years?"
+  **Colonel Huzzard:** "Blackwood? You? After twenty years?"
 
-  **CAPTAIN BLACKWOOD:** "The Empire cannot afford sentiment, Colonel. You are
+  **Captain Blackwood:** "The Empire cannot afford sentiment, Colonel. You are
   erratic. Emotional. This expedition is too important to be led by a man who
   stops to make speeches while the jungle encroaches. The algorithm demanded your
   removal."
 
   _[[Captain Blackwood]] draws a hidden weapon—a prototype repeating hand-crossbow._
 
-  **CAPTAIN BLACKWOOD:** "Regrettably, I must now purge the witnesses.
+  **Captain Blackwood:** "Regrettably, I must now purge the witnesses.
   Calculations suggest I have a 60% chance of escape if I kill the nearest
   mercenary and jump through the window."
 
@@ -450,13 +450,13 @@ killed in combat
   **Scene:** Dawn. The rain has stopped. The camp is battered but functional.
   **[[Captain Blackwood]]** is in irons, being loaded onto a prisoner wagon.
 
-  **COLONEL HUZZARD:** _(Standing on the steps, looking healthier. The Font of
+  **Colonel Huzzard:** _(Standing on the steps, looking healthier. The Font of
   Healing works miracles.)_ "Take him away. He can explain his 'algorithms' to the
   Hangman in the capital."
 
   _He turns to the Party._
 
-  **COLONEL HUZZARD:** "You have saved my life, and the soul of this expedition.
+  **Colonel Huzzard:** "You have saved my life, and the soul of this expedition.
   The Charter is yours. But the map... the map points to the heart of darkness.
   Zuchotl."
 
@@ -467,7 +467,7 @@ killed in combat
   **LIEUTENANT STERLING:** "The scouts report the Cultists have retreated to the
   river. They are regrouping at the temple site."
 
-  **COLONEL HUZZARD:** "Then we do not give them time. Strike the tents! Load the
+  **Colonel Huzzard:** "Then we do not give them time. Strike the tents! Load the
   wagons! Today, the Dominion marches to war!"
 
   _Drams arise. Fifes play. The massive column of redcoats begins to move, winding
@@ -477,7 +477,7 @@ killed in combat
   "is it over? Did we win? I must say, I think my inspirational song really turned
   the tide during the second wave! You're welcome, Colonel!"
 
-  **COLONEL HUZZARD:** "Someone get that goblin a uniform. If he's going to be
+  **Colonel Huzzard:** "Someone get that goblin a uniform. If he's going to be
   annoying, he can be annoying in the front lines."
 
   **Narrator Close:**
