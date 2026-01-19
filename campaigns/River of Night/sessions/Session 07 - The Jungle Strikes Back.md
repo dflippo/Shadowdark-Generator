@@ -13,7 +13,7 @@ This session begins with high-society intrigue and descends rapidly into total c
 **Key Elements:**
 
 1.  **The Mystery:** Who poisoned [[Colonel Huzzard]]?
-2.  **The Betrayal:** The [[Trojan Rabbit]] is a portal for the Cult.
+2.  **The Betrayal:** The [[../npcs/basilisk-cult/trojan-rabbit|Trojan Rabbit]] is a portal for the Cult.
 3.  **The Boss Fight:** Maied returns, furious and powerful.
 
 **Note on Weapons:** The Dominion Army uses **Heavy Crossbows** and **Arbalests**. There is no gunpowder.
@@ -92,7 +92,7 @@ _A massive explosion rocks the house. Glass shatters._
 
 **Read Aloud:**
 
-> You rush to the veranda. The camp is in chaos. The [[Trojan Rabbit|"Wooden Rabbit"]]—that trophy dragged back from the jungle—is splitting apart. But it is not a machine. The wood twists and screams like living flesh. A swirling vortex of purple light tears open within its belly. From this rift, they pour out. [Cultists](cultist.md). Dozens of them. Screaming, chanting, throwing themselves at the Dominion lines.
+> You rush to the veranda. The camp is in chaos. The [[../npcs/basilisk-cult/trojan-rabbit|"Wooden Rabbit"]]—that trophy dragged back from the jungle—is splitting apart. But it is not a machine. The wood twists and screams like living flesh. A swirling vortex of purple light tears open within its belly. From this rift, they pour out. [Cultists](cultist.md). Dozens of them. Screaming, chanting, throwing themselves at the Dominion lines.
 
 **CULTIST LEADER:** _(Screaming over the din)_ "The Stone God Hungers! Break their lines! Leave no stone atop another!"
 
@@ -312,7 +312,7 @@ _Drams arise. Fifes play. The massive column of redcoats begins to move, winding
 
 1.  **Preparation:** The players now have a land grant (Mivvin's Rest is legally theirs), but they are conscripted as "Specialists" for the march on Zuchotl.
 2.  **Travel:** The journey to Zuchotl will be a hex-crawl. Prepare random encounters for "Deep Jungle".
-3.  **The Villain:** With Maied dead, the primary antagonist shifts to the **Cult of the Stone God** and their mysterious leader (hinted at in the [[Trojan Rabbit]] vortex).
+3.  **The Villain:** With Maied dead, the primary antagonist shifts to the **Cult of the Stone God** and their mysterious leader (hinted at in the [[../npcs/basilisk-cult/trojan-rabbit|Trojan Rabbit]] vortex).
 4.  **Blackwood:** If he escaped, he is a recurring villain. If captured, he might escape later or offer information from his cell.
 
 ---

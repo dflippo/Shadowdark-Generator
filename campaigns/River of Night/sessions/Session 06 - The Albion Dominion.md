@@ -104,7 +104,7 @@ After the brandy is served, Huzzard drops the pretense. He dismisses the servant
 
 **The Situation:**
 
-- The Army found a structure: **The Star Map Temple**.
+- The Army found a structure: [[Star Map Temple]].
 - They sent a squad of engineers to secure it.
 - **The Problem:** The engineers came back... wrong. Babbling about "The space between the stars" and "The eyes in the dark." Two are catatonic. One tried to eat his own boots.
 - **The Request:** "My men are soldiers, not... whatever _you_ are. Exorcists? Tomb robbers? I need you to go in. Clear it out. Confirm it's safe for demolition."
@@ -211,7 +211,7 @@ The central mechanic of the temple is a series of massive celestial wheels.
 
 **The Reward:** [[Colonel Huzzard]] grants the party the **Charter for Mivvin's Rest**. They are no longer squatters; they are Lairds.
 
-**Next Session:** The Star Map points to **Zuchotl** or the **Black Ziggurat**. The Army prepares to move out, but the [[Trojan Rabbit|"Wooden Rabbit"]] back at camp has started to hum...
+**Next Session:** The Star Map points to **Zuchotl** or the **Black Ziggurat**. The Army prepares to move out, but the [[../npcs/basilisk-cult/trojan-rabbit|"Wooden Rabbit"]] back at camp has started to hum...
 
 ---
 
