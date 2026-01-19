@@ -207,11 +207,11 @@ _[[Colonel Huzzard]] sits behind his desk. He is wrapped in a blanket, his face 
 
 **[[Colonel Huzzard]]:** _(Voice rasping, but steady)_ "The savage is dead. The attack is repelled. But the war... the war is inside these walls. Someone in this room, or someone commanded by a person in this room, put the Purple Lotus in my cup."
 
-**MAJOR PONSONBY:** _( leaning against the mantle, cleaning his nails with a dagger)_ "Don't look at me, Huzzard. If I wanted you dead, I'd have called you out for a duel like a gentleman. Poison is a woman's weapon. Or a coward's."
+[[Major Ponsonby]]: _( leaning against the mantle, cleaning his nails with a dagger)_ "Don't look at me, Huzzard. If I wanted you dead, I'd have called you out for a duel like a gentleman. Poison is a woman's weapon. Or a coward's."
 
 **[[Captain Blackwood]]:** _(Scribbling furiously in his notebook)_ "Statistically, the poison was administered between the 'Toast to Civilization' and the actual drinking. Access was limited to the serving staff and the High Command. I suggest we interrogate the steward."
 
-**LIEUTENANT STERLING:** "The steward is dead, sir. A stray bolt during the first volley. Convenient, isn't it?"
+**[[Lieutenant Sterling]]**: "The steward is dead, sir. A stray bolt during the first volley. Convenient, isn't it?"
 
 **[[Colonel Huzzard]]:** _(Slams his fist on the desk)_ "Enough! You," _(He points to the Party)_ "You are outsiders. Mercenaries. You have no loyalty to the politics of the Dominion, only to coin. Find me the truth. Tear this mansion apart if you must. If you find the traitor, I will double your land grant. If you fail... I will hang you all for negligence."
 
@@ -223,7 +223,7 @@ _The party must investigate the mansion for clues. There are three key locations
 
 _The kitchen is a disaster zone. Pots are overturned, and sous-chefs are hiding under tables._
 
-**HEAD CHEF GASTON:** _(A nervous man with a formidable mustache, currently trembling)_ "I saw nothing! Nothing! The wine was sealed! Vintage 89! I opened it myself! Unless... the goblet? Who touched the goblet?"
+[[Head Chef Gaston]]: _(A nervous man with a formidable mustache, currently trembling)_ "I saw nothing! Nothing! The wine was sealed! Vintage 89! I opened it myself! Unless... the goblet? Who touched the goblet?"
 
 - **Investigation Check (DC 12):** You find a small, distinct smear of purple powder on the inside of the velvet storage case for the Colonel's ceremonial goblet.
 - **Perception Check (DC 14):** You spot a discarded pair of fine silk gloves in the waste bin. They smell faintly of almonds and lotus. They are embroidered with a specific crest: **A Silver Hawk.**
